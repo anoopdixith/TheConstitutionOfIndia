@@ -26,7 +26,19 @@ def main():
 	    url = sys.argv[i]
 	    path = sys.argv[i+1]
 	    download_file(url, path)
-            
+       
+    schedule_url_first_part = "http://lawmin.nic.in/olwing/coi/coi-english/Const.Pock%202Pg.Rom8Fsss("
+    schedule_url_last_part = ").pdf"
+    schedule_base_url_difference = 28
+    schedule_base_path = "./SCHEDULE_"
+    schedule_name_prefix = "SCHEDULE"
+    schedule_name_postfix = ".pdf"
+
+    for i in range(1,13):
+        final_url = schedule_url_first_part + str(i+schedule_base_url_difference) + schedule_url_last_part
+        path = schedule_base_path + str(i) + "/" + schedule_name_prefix + str(i) + schedule_name_postfix
+        download_file(final_url, path)
+             
 
 def download_file(download_url, path):
     response = urllib2.urlopen(download_url)
