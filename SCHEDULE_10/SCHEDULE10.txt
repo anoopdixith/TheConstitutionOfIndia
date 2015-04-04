@@ -6,14 +6,14 @@ Provisions as to disqualification on ground of defection
 Assembly or, as the case may be, either House of the Legislature of a State;
 (b) "legislature party", in relation to a member of a House
 belonging to any political party in accordance with the provisions of
-paragraph 2 or paragraph 4, means the group consisting of all the
+paragraph 2 or paragraph 3 or, as the case may be, paragraph 4, means the group consisting of all the
 members of that House for the time being belonging to that political
 party in accordance with the said provisions;
 (c) "original political party", in relation to a member of a House,
 means the political party to which he belongs for the purposes of subparagraph (1) of paragraph 2;
 (d) "paragraph" means a paragraph of this Schedule.
 2. Disqualification on ground of defection.—(1) Subject to the
-provisions of paragraphs 4 and 5, a member of a House belonging to any
+provisions of paragraphs 3, 4 and 5, a member of a House belonging to any
 political party shall be disqualified for being a member of the House—
 (a) if he has voluntarily given up his membership of such political
 party; or
@@ -66,6 +66,11 @@ of the House for the purposes of sub-paragraph (3) of this paragraph.
 *
 *
 *
+3. Disqualification on ground of defection not to apply in case of split.- Where a member of a House makes a claim that he and any other members of his legislature party constitute the group representing a faction which has arisen as a result of a split in his original political party and such group consists of not less than one-third of the members of such legislature party,-
+(a) he shall not be disqualified under sub-paragraph (1) of paragraph 2 on the ground-
+(i) that he has voluntarily given up his membership of his original political party; or
+(ii) that he has voted or abstained from voting in such House contrary to any direction issued by such party or by any person or authority authorised by it in that behalf without obtaining the prior permission of such party, person or authority and such voting or abstention has not been condoned by such party, person or authority within fifteen days from the date of such voting or abstention; and
+(b) from the time of such split, such faction shall be deemed to be the political party to which he belongs for the purposes of sub-paragraph (1) of paragraph 2 and to be his original political party for the purposes of this paragraph.
 *
 *
 4. Disqualification on ground of defection not to apply in case of
