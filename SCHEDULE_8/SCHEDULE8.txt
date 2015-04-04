@@ -3,26 +3,22 @@ EIGHTH SCHEDULE
 Languages
 1. Assamese.
 2. Bengali.
-3. Bodo.
-4. Dogri.
-5. Gujarati.
-6. Hindi.
-7. Kannada.
-8. Kashmiri.
-9. Konkani.
-10. Maithili.
-11. Malayalam.
-12. Manipuri.
-13. Marathi.
-14. Nepali.
-15. Oriya
-16. Punjabi.
-17. Sanskrit.
-18. Santhali.
-19. Sindhi.
-20. Tamil.
-21. Telugu.
-22. Urdu
+3. Gujarati.
+4. Hindi.
+5. Kannada.
+6. Kashmiri.
+7. Konkani.
+8. Malayalam.
+9. Manipuri.
+10. Marathi.
+11. Nepali.
+12. Oriya
+13. Punjabi.
+14. Sanskrit.
+15. Sindhi.
+16. Tamil.
+17. Telugu.
+18. Urdu
 
 278
 
