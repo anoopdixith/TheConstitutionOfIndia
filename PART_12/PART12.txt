@@ -56,6 +56,25 @@ respectively leviable.
 (2) The proceeds in any financial year of any such duty leviable within
 any State shall not form part of the Consolidated Fund of India, but shall be
 assigned to that State.
+
+ 
+"268A. Service tax levied by Union and collected and appropriated by the Union and the
+States.-(1) Taxes on services shall be levied by the Government of India and such tax
+shall be collected and appropriated by the Government of India and the States in the
+manner provided in clause (2).
+ 
+(2) The proceeds in any financial year of any such tax levied in accordance with the
+provisions of clause (1) shall be-
+ 
+(a) collected by the Government of India and the States;
+ 
+(b) appropriated by the Government of India and the States,
+ 
+in accordance with such principles of collection and appropriation as may be formulated
+by Parliament by law.".
+
+
+
 269. Taxes levied and collected by the Union but assigned to the
 States.— (1) Taxes on the sale or purchase of goods and taxes on the
 consignment of goods shall be levied and collected by the Government of India
@@ -85,7 +104,7 @@ formulated by Parliament by law.
 sale or purchase of, or consignment of, goods takes place in the course of interState trade or commerce.
 270. Taxes levied and distributed between the Union and the
 States.—(1) All taxes and duties referred to in the Union List, except the duties
-and taxes referred to in articles 268 and 269, respectively, surcharge on taxes
+and taxes referred to in articles 268, 268A and 269, respectively, surcharge on taxes
 and duties referred to in article 271 and any cess levied for specific purposes
 under any law made by Parliament shall be levied and collected by the
 Government of India and shall be distributed between the Union and the States
