@@ -59,7 +59,7 @@ population as ascertained at the last preceding census of which the relevant
 figures have been published:
 Provided that the reference in this Explanation to the last preceding
 census of which the relevant figures have been published shall, until the
-relevant figures for the first census taken after the year 2026 have been
+relevant figures for the first census taken after the year 2000 have been
 published, be construed as a reference to the 1971 census.
 56. Term of office of President.—(1) The President shall hold office for
 a term of five years from the date on which he enters upon his office:
@@ -437,11 +437,9 @@ published:
 
 Provided that the reference in this clause to the last preceding census of
 which the relevant figures have been published shall, until the relevant figures for
-the first census taken after the year 2026 have been published, be construed, —
-(i) for the purposes of sub-clause (a) of clause (2) and the proviso to
-that clause, as a reference to the 1971 census; and
-(ii) for the purposes of sub-clause (b) of clause (2) as a reference to
-the 1991 census.
+the first census taken after the year 2000 have been published, be construed as a reference to the 1971 census.
+
+
 82. Readjustment after each census.—Upon the completion of each
 census, the allocation of seats in the House of the People to the States and the
 division of each State into territorial constituencies shall be readjusted by such
@@ -453,12 +451,11 @@ as the President may, by order, specify and until such readjustment takes effect
 any election to the House may be held on the basis of the territorial
 constituencies existing before such readjustment:
 Provided also that until the relevant figures for the first census taken
-after the year 2026 have been published, it shall not be necessary to readjust—
-(i) the allocation of seats in the House of People to the States as
-readjusted on the basis of the 1971 census; and
-(ii) the division of each State into territorial constituencies as may be
-readjusted on the basis of the 1991 census,
-under this article.
+after the year 2000 have been published, it shall not be necessary to readjust the allocation of seats in the House of the People to
+the States and the division of each State into territorial constituencies under this
+article.
+
+
 83. Duration of Houses of Parliament.—(1) The Council of States
 shall not be subject to dissolution, but as nearly as possible one-third of the
 members thereof shall retire as soon as may be on the expiration of every
