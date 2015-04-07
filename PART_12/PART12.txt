@@ -56,60 +56,43 @@ respectively leviable.
 (2) The proceeds in any financial year of any such duty leviable within
 any State shall not form part of the Consolidated Fund of India, but shall be
 assigned to that State.
-269. Taxes levied and collected by the Union but assigned to the
-States.— (1) Taxes on the sale or purchase of goods and taxes on the
-consignment of goods shall be levied and collected by the Government of India
-but shall be assigned and shall be deemed to have been assigned to the States
-on or after the 1st day of April, 1996 in the manner provided in clause (2).
-Explanation.—For the purposes of this clause,—
-(a) the expression "taxes on the sale or purchase of goods" shall
-mean taxes on sale or purchase of goods other than newspapers, where
-such sale or purchase takes place in the course of inter-State trade or
-commerce;
-(b) the expression "taxes on the consignment of goods" shall mean
-taxes on the consignment of goods (whether the consignment is to the
-person making it or to any other person), where such consignment takes
-place in the course of inter-State trade or commerce.
+269.Taxes levied and collected by the Union but assigned to the States
 
-135
+(1) The following duties and taxes shall be levied and collected by the Government of India but shall be assigned to the States in the manner provided in clause (2), namely: -
+(a) duties in respect of succession to property other than agricultural land;
+(b) estate duty in respect of property other than agricultural land;
+(c) terminal taxes on goods or passengers carried by railway, sea or air;
+(d) taxes on railway fares and freights;
+(e) taxes other than stamp duties on transactions in stock-exchanges and futures markets;
+(f) taxes on the sale or purchase of newspapers and on advertisements published therein;
+(g) taxes on the sale or purchase of goods other than newspapers, where such sale or purchase takes place in the course of inter-State trade or commerce;
+(h) taxes on the consignment of goods (whether the consignment is to the person making it or to any other person), where such consignment takes place in the course of inter-State trade or commerce.
+(2) The net proceeds in any financial year of any such duty or tax, except in so far as those proceeds represent proceeds attributable to Union territories, shall not form part of the Consolidated Fund of India, but shall be assigned to the States within which that duty or tax is leviable in that year, and shall be distributed among those States in accordance with such principles of distribution as may be formulated by Parliament by law.
+(3) Parliament may by law formulate principles for determining when a sale or purchase of, or consignment of, goods takes place in the course of inter-State trade or commerce.
 
-THE CONSTITUTION OF INDIA
 
-(2) The net proceeds in any financial year of any such tax, except in so
-far as those proceeds represent proceeds attributable to Union territories, shall
-not form part of the Consolidated Fund of India, but shall be assigned to the
-States within which that tax is leviable in that year, and shall be distributed
-among those States in accordance with such principles of distribution as may be
-formulated by Parliament by law.
-(3) Parliament may by law formulate principles for determining when a
-sale or purchase of, or consignment of, goods takes place in the course of interState trade or commerce.
-270. Taxes levied and distributed between the Union and the
-States.—(1) All taxes and duties referred to in the Union List, except the duties
-and taxes referred to in articles 268 and 269, respectively, surcharge on taxes
-and duties referred to in article 271 and any cess levied for specific purposes
-under any law made by Parliament shall be levied and collected by the
-Government of India and shall be distributed between the Union and the States
-in the manner provided in clause (2).
-(2) Such percentage, as may be prescribed, of the net proceeds of any
-such tax or duty in any financial year shall not form part of the Consolidated
-Fund of India, but shall be assigned to the States within which that tax or duty
-is leviable in that year, and shall be distributed among those States in such
-manner and from such time as may be prescribed in the manner provided in
-clause (3).
-(3) In this article, "prescribed" means, —
-(i) until a Finance Commission has been constituted, prescribed by
-the President by order, and
-(ii) after a Finance Commission has been constituted, prescribed by
-the President by order after considering the recommendations of the
-Finance Commission.
+270. Taxes levied and collected by the Union and distributed between the Union and the States
+
+(1) Taxes on income other than agricultural income shall be levied and collected by the Government of India and distributed between the Union and the States in the manner provided in clause (2).
+(2) Such percentage, as may be prescribed, of the net proceeds in any financial year of any such tax, except in so far as those proceeds represent proceeds attributable to Union territories or to taxes payable in respect of Union emoluments, shall not form part of the Consolidated Fund of India, but shall be assigned to the States within which that tax is leviable in that year, and shall be distributed among those States in such manner and from such time as may be prescribed.
+(3) For the purposes of clause (2), in each financial year such percentage as may be prescribed of so much of the net proceeds of taxes on income as does not represent the net proceeds of taxes payable in respect of Union emoluments shall be deemed to represent proceeds attributable to Union territories.
+(4) In this article -
+(a) "taxes on income" does not include a corporation tax:
+(b) "prescribed" means -
+(i) until a Finance Commission has been constituted, prescribed by the President by order, and
+(ii) after a Finance Commission has been constituted, prescribed by the President by order after considering the recommendations of the Finance Commission;
+(c) "Union emoluments" includes all emoluments and pensions payable out of the Consolidated Fund of India in respect of which income-tax is chargeable.
+
+
 271. Surcharge on certain duties and taxes for purposes of the
 Union.—Notwithstanding anything in articles 269 and 270, Parliament may at
 any time increase any of the duties or taxes referred to in those articles by a
 surcharge for purposes of the Union and the whole proceeds of any such
 surcharge shall form part of the Consolidated Fund of India.
-272. [Taxes which are levied and collected by the Union and may be
-distributed between the Union and the States.]— Omitted. by the Constitution
-(Eightieth Amendment) Act, 2000, s. 4.
+
+
+272. Taxes which are levied and collected by the Union and may be distributed between the Union and the States
+Union duties of excise other than such duties of excise on medicinal and toilet preparations as are mentioned in the Union List shall be levied and collected by the Government of India, but, if Parliament by law so provides, there shall be paid out of the Consolidated Fund of India to the States to which the law imposing the duty extends sums equivalent to the whole or any part of the net proceeds of that duty, and those sums shall be distributed among those States in accordance with such principles of distribution as may be formulated by such law.
 
 136
 
