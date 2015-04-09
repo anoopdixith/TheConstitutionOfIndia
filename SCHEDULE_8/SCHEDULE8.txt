@@ -7,18 +7,15 @@ Languages
 4. Hindi.
 5. Kannada.
 6. Kashmiri.
-7. Konkani.
-8. Malayalam.
-9. Manipuri.
-10. Marathi.
-11. Nepali.
-12. Oriya
-13. Punjabi.
-14. Sanskrit.
-15. Sindhi.
-16. Tamil.
-17. Telugu.
-18. Urdu
+7. Malayalam.
+8. Marathi.
+9. Oriya
+10. Punjabi.
+11. Sanskrit.
+12. Sindhi.
+13. Tamil.
+14. Telugu.
+15. Urdu
 
 278
 
