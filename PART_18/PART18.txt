@@ -191,10 +191,7 @@ from the date on which the House of the People first sits after its reconstituti
 unless before the expiration of the said period of thirty days a resolution
 approving the continuance in force of the Proclamation has been also passed
 by the House of the People:
-Provided also that in the case of the Proclamation issued under clause (1)
-on the 11th day of May, 1987 with respect to the State of Punjab, the reference
-in the first proviso to this clause to “three years” shall be construed as a
-reference to three years and six months years.
+
 (5) Notwithstanding anything contained in clause (4), a resolution with
 respect to the continuance in force of a Proclamation approved under clause (3)
 for any period beyond the expiration of one year from the date of issue of such
@@ -212,9 +209,7 @@ of the Proclamation approved under clause (3) during the period
 specified in such resolution is necessary on account of difficulties in
 holding general elections to the Legislative Assembly of the State
 concerned:
-Provided that nothing in this clause shall apply to the Proclamation
-issued under clause (1) on the 11th day of May, 1987 with respect to the State
-of Punjab.
+
 357. Exercise of legislative powers under Proclamation issued under
 article 356.— (1) Where by a Proclamation issued under clause (1) of article
 356, it has been declared that the powers of the Legislature of the State shall be
