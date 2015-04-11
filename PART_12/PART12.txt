@@ -66,9 +66,9 @@ assigned to that State.
 (e) taxes other than stamp duties on transactions in stock-exchanges and futures markets;
 (f) taxes on the sale or purchase of newspapers and on advertisements published therein;
 (g) taxes on the sale or purchase of goods other than newspapers, where such sale or purchase takes place in the course of inter-State trade or commerce;
-(h) taxes on the consignment of goods (whether the consignment is to the person making it or to any other person), where such consignment takes place in the course of inter-State trade or commerce.
+
 (2) The net proceeds in any financial year of any such duty or tax, except in so far as those proceeds represent proceeds attributable to Union territories, shall not form part of the Consolidated Fund of India, but shall be assigned to the States within which that duty or tax is leviable in that year, and shall be distributed among those States in accordance with such principles of distribution as may be formulated by Parliament by law.
-(3) Parliament may by law formulate principles for determining when a sale or purchase of, or consignment of, goods takes place in the course of inter-State trade or commerce.
+(3) Parliament may by law formulate principles for determining when a sale or purchase of goods takes place in the course of inter-State trade or commerce.
 
 
 270. Taxes levied and collected by the Union and distributed between the Union and the States
@@ -318,15 +318,15 @@ goods out of, the territory of India.
 *
 (2) Parliament may by law formulate principles for determining when a
 sale or purchase of goods takes place in any of the ways mentioned in clause (1).
-(3) Any law of a State shall, in so far as it imposes, or authorises the
-imposition of,—
-(a) a tax on the sale or purchase of goods declared by Parliament
-by law to be of special importance in inter-State trade or commerce; or
-(b) a tax on the sale or purchase of goods, being a tax of the
-nature referred to in sub-clause (b), sub-clause (c) or sub-clause (d) of
-clause (29A) of article 366,
-be subject to such restrictions and conditions in regard to the system of levy,
-rates and other incidents of the tax as Parliament may by law specify.
+
+
+(3)  Any  law of a State shall, in so far as it imposes or  authorises
+the  imposition of, a tax on the sale or purchase of goods declared by
+Parliament  by law to be of special importance in inter-State trade or
+commerce,  be subject to such restrictions and conditions in regard to
+the system of levy, rates and other incidents of the tax as Parliament
+may by law specify.
+
 287. Exemption from taxes on electricity.—Save in so far as
 Parliament may by law otherwise provide, no law of a State shall impose, or
 authorise the imposition of, a tax on the consumption or sale of electricity
