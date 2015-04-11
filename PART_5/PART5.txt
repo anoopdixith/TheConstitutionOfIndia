@@ -682,7 +682,7 @@ seat in Parliament shall become vacant, unless he has previously resigned his
 seat in the Legislature of the State.
 (3) If a member of either House of Parliament—
 (a) becomes subject to any of the disqualifications mentioned in
-clause (1) or clause (2) of article 102, or
+clause (1) of article 102, or
 (b) resigns his seat by writing under his hand addressed to the
 Chairman or the Speaker, as the case may be, and his resignation is
 accepted by the Chairman or the Speaker, as the case may be,
@@ -716,12 +716,11 @@ court;
 citizenship of a foreign State, or is under any acknowledgment of
 allegiance or adherence to a foreign State;
 (e) if he is so disqualified by or under any law made by Parliament.
-Explanation.—For the purposes of this clause a person shall not be
+(2) For the purposes of  this article a person shall not be
 deemed to hold an office of profit under the Government of India or the
 Government of any State by reason only that he is a Minister either for the
 Union or for such State.
-(2) A person shall be disqualified for being a member of either House of
-Parliament if he is so disqualified under the Tenth Schedule.
+
 103. Decision on questions as to disqualifications of members.—
 (1) If any question arises as to whether a member of either House of
 Parliament has become subject to any of the disqualifications mentioned in
