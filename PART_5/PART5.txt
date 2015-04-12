@@ -56,10 +56,7 @@ and the voting at such election shall be by secret ballot.
 Explanation.—In this article, the expression “population” means the
 population as ascertained at the last preceding census of which the relevant
 figures have been published:
-Provided that the reference in this Explanation to the last preceding
-census of which the relevant figures have been published shall, until the
-relevant figures for the first census taken after the year 2000 have been
-published, be construed as a reference to the 1971 census.
+
 56. Term of office of President.—(1) The President shall hold office for
 a term of five years from the date on which he enters upon his office:
 Provided that—
@@ -316,8 +313,7 @@ Constitution.
 Council of Ministers
 74. Council of Ministers to aid and advise President.— (1) There shall
 be a Council of Ministers with the Prime Minister at the head to aid and advise
-the President who shall, in the exercise of his functions, act in accordance with
-such advice:
+the President in the exercise of his functions.
 (2) The question whether any, and if so what, advice was tendered by
 Ministers to the President shall not be inquired into in any court.
 75. Other provisions as to Ministers.—(1) The Prime Minister shall be
@@ -370,9 +366,7 @@ or instrument made or executed by the President.
 (3) The President shall make rules for the more convenient transaction
 of the business of the Government of India, and for the allocation among
 Ministers of the said business.
-(4)  No  court  or other authority shall be entitled to  require  the
-production  of any rules made under clause (3) for the more convenient
-transaction of the business of the Government of India.
+
 78. Duties of Prime Minister as respects the furnishing of information
 to the President, etc.—It shall be the duty of the Prime Minister—
 (a) to communicate to the President all decisions of the Council of
@@ -443,26 +437,12 @@ published:
 
 34
 
-Provided that the reference in this clause to the last preceding census of
-which the relevant figures have been published shall, until the relevant figures for
-the first census taken after the year 2000 have been published, be construed as a reference to the 1971 census.
-
-
 82. Readjustment after each census.—Upon the completion of each
 census, the allocation of seats in the House of the People to the States and the
 division of each State into territorial constituencies shall be readjusted by such
 authority and in such manner as Parliament may by law determine:
 Provided that such readjustment shall not affect representation in the
 House of the People until the dissolution of the then existing House:
-Provided further that such readjustment shall take effect from such date
-as the President may, by order, specify and until such readjustment takes effect,
-any election to the House may be held on the basis of the territorial
-constituencies existing before such readjustment:
-Provided also that until the relevant figures for the first census taken
-after the year 2000 have been published, it shall not be necessary to readjust the allocation of seats in the House of the People to
-the States and the division of each State into territorial constituencies under this
-article.
-
 
 83. Duration of Houses of Parliament.—(1) The Council of States
 shall not be subject to dissolution, but as nearly as possible one-third of the
@@ -470,8 +450,8 @@ members thereof shall retire as soon as may be on the expiration of every
 second year in accordance with the provisions made in that behalf by
 Parliament by law.
 (2) The House of the People, unless sooner dissolved, shall continue for
-six years from the date appointed for its first meeting and no longer and the
-expiration of the said period of six years shall operate as a dissolution of the
+five years from the date appointed for its first meeting and no longer and the
+expiration of the said period of five years shall operate as a dissolution of the
 House:
 
 35
@@ -667,6 +647,14 @@ equality of votes.
 any vacancy in the membership thereof, and any proceedings in Parliament shall
 be valid notwithstanding that it is discovered subsequently that some person who
 was not entitled so to do sat or voted or otherwise took part in the proceedings.
+(3) Until Parliament by law otherwise provides, the 
+quorum to constitute a meeting of either House of Parlia- 
+ment shall be one-tenth of the total number of members of 
+the House. 
+(4) If at any time during a meeting of a House there 
+is no quorum, it shall be the duty of the Chairman or 
+Speaker, or person acting as such, either to adjourn the 
+House or to suspend the meeting until there is a quorum. 
 
 40
 
@@ -704,9 +692,10 @@ more than four consecutive days.
 102. Disqualifications for membership.— (1) A person shall be
 disqualified for being chosen as, and for being, a member of either House of
 Parliament—
-(a)  if  he holds any such office of profit under the  Government  of
-India  or the Government of any State as is declared by Parliament  by
-law to disqualify its holder;
+(a)  if  he holds any office of profit under the  Government  of
+India  or the Government of any State, other than an office
+declared by Parliament by law not to
+disqualify its holder;
 
 41
 
@@ -724,27 +713,16 @@ deemed to hold an office of profit under the Government of India or the
 Government of any State by reason only that he is a Minister either for the
 Union or for such State.
 
-103.   Decision  on  questions   as to  disqualification.-(1)  If
-any question arises-
+103.
+(1) If any question arises as to whether a member 
+of either House of Parliament has become subject to any of the disqualifications 
+mentioned in clause (1) of article 102, the 
+question shall be referred for the decision of the President 
+and his decision shall be final. 
 
-(a)  as  to whether a member of either House of Parliament has  become
-subject  to  any of the disqualifications mentioned in clause  (1)  of
-article 102, or
-
-(b)  as to whether a person, found guilty of a corrupt practice at  an
-election  to  a House of Parliament under any law made by  Parliament,
-shall  be disqualified for being chosen as, and for being, a member of
-either  House  of  Parliament, or of a House of the Legislature  of   a
-State,  or as to the period for which he shall be so disqualified,  or
-as  to  the  removal  of,  or the reduction of  the   period  of,  such
-disqualification,
-
-the  question shall be referred for the decision of the President  and
-his decision shall be final.
-
-(2)  Before  giving any decision on any such question,  the  President
-shall consult the Election Commission and the Election Commission may,
-for this purpose, make such inquiry as it thinks fit.".
+(2) Before giving any decision on any such question, 
+the President shall obtain the opinion of the Election Com- 
+mission and shall act according to such opinion. 
 
 104. Penalty for sitting and voting before making oath or affirmation
 under article 99 or when not qualified or when disqualified.—If a person
@@ -768,12 +746,14 @@ THE CONSTITUTION OF INDIA
 respect of anything said or any vote given by him in Parliament or any committee
 thereof, and no person shall be so liable in respect of the publication by or under the
 authority of either House of Parliament of any report, paper, votes or proceedings.
-(3)  In other respects, the powers, privileges and immunities of each
-House  of  Parliament, and of the members and the committees  of  each
-House,  shall  be  those  of  that  House,  and   of  its  members  and
-committees,  at  the  commencement of section 21 of  the   Constitution
-(Forty-second  Amendment)  Act,  1976, and as may be evolved  by   such
-House of Parliament from time to time.
+(3) In other respects, the powers, privileges and 
+immunities of each House of Parliament, and of the 
+members and the committees of each House, shall be such 
+as may from time to time be defined by Parliament by law, 
+and, until so defined, shall be those of the House of 
+Commons of the Parliament of the United Kingdom, and 
+of its members and committees, at the commencement of 
+this Constitution. 
 (4) The provisions of clauses (1), (2) and (3) shall apply in relation to
 persons who by virtue of this Constitution have the right to speak in, and
 otherwise to take part in the proceedings of, a House of Parliament or any
@@ -1074,7 +1054,6 @@ consideration of the Bill.
 Procedure Generally
 118. Rules of procedure.— (1) Each House of Parliament may make
 rules for regulating, subject to the provisions of this Constitution, its procedure
-(including the quorum to constitute a meeting of the House)
 and the conduct of its business.
 (2) Until rules are made under clause (1), the rules of procedure and
 standing orders in force immediately before the commencement of this
@@ -1301,55 +1280,6 @@ commencement, or which provides that the said jurisdiction shall not extend to
 such a dispute.
 
 
-131A.   Exclusive  jurisdiction   of the Supreme Court  in  regard  to
-questions  as  to  Constitutional  validity   of   Central  laws.- (1)
-Notwithstanding  anything  contained  in any other provision  of   this
-Constitution,  the Supreme Court shall, to the exclusion of any  other
-court,  have  jurisdiction to determine all questions relating to  the
-constitutional validity of any Central law.
-
-(2) Where a High Court is satisfied-
-
-(a)  that a case pending before it or before a court subordinate to it
-involves  questions  as to the constitutional validity of any  Central
-law or, as the case may be, of both Central and State laws;  and
-
-(b)  that  the  determination of such questions is necessary  for  the
-disposal of the case,
-
-the  High  Court  shall refer the questions for the  decision  of  the
-Supreme Court.
-
-(3)  Without  prejudice to the provisions of clause (2), where, on  an
-application  made by the Attorney-General of India, the Supreme  Court
-is satisfied,-
-
-(a)  that  a  case  pending   before a High Court  or  before  a  court
-subordinate   to   a  High  Court   involves   questions  as   to   the
-constitutional  validity of any Central law or, as the case may be, of
-both Central and State laws;  and
-
-(b)  that  the  determination of such questions is necessary  for  the
-disposal of the case,
-
-the Supreme Court may require the High Court to refer the questions to
-it for its decision.
-
-(4)  When a reference is made under clause (2) or clause (3), the High
-Court  shall  stay  all proceedings in respect of the case  until   the
-Supreme Court decides the questions so referred.
-
-(5)  The Supreme Court shall, after giving the parties an  opportunity
-of being heard, decide the questions so referred, and may---
-
-(a) either dispose of the case itself;  or
-
-(b)  return  the  case to the High Court together with a copy  of  its
-judgment on such questions for disposal of the case in conformity with
-such  judgment  by  the High Court or, as the case may be,  the   court
-subordinate to it.
-
-
 132. Appellate jurisdiction of Supreme Court in appeals from High
 Courts in certain cases.— (1) An appeal shall lie to the Supreme Court from
 any judgment, decree or final order of a High Court in the territory of India,
@@ -1450,19 +1380,6 @@ purposes other than those mentioned in clause (2) of article 32.
 
 THE CONSTITUTION OF INDIA
 
-139A.   Transfer of certain cases.-(1) If, on an application made  by
-the  Attorney-General  of India, the Supreme Court is  satisfied  that
-cases  involving  the same or substantially the same questions of  law
-are  pending  before it and one or more High Courts or before  two  or
-more  High Courts and that such questions are substantial questions of
-general  importance, the Supreme Court may withdraw the case or  cases
-pending  before  the High Court or the High Courts and dispose of  all
-the cases itself.
-
-(2)  The Supreme Court may, if it deems it expedient so to do for  the
-ends  of  justice,  transfer  any case, appeal  or  other   proceedings
-pending before any High Court to any other High Court.".
-
 
 140. Ancillary powers of Supreme Court.—Parliament may by law
 make provision for conferring upon the Supreme Court such supplemental
@@ -1505,17 +1422,6 @@ fit, report to the President its opinion thereon.
 Court.—All authorities, civil and judicial, in the territory of India shall act in
 aid of the Supreme Court.
 
-144A.   Special  provisions as to disposal of questions  relating  to
-constitutional  validity of laws.-(1) The minimum number of Judges  of
-the  Supreme  Court who shall sit for the purpose of  determining  any
-question as to the constitutional validity of any Central law or State
-law shall be seven.
-
-(2)  A  Central  law  or  a State law shall  not  be  declared  to  be
-constitutionally invalid by the Supreme Court unless a majority of not
-less  than  two-thirds  of  the  Judges sitting  for   the  purpose  of
-determining the question as to the constitutional validity of such law
-hold it to be constitutionally invalid.
 
 145. Rules of Court, etc.—(1) Subject to the provisions of any law
 made by Parliament, the Supreme Court may from time to time, with the
@@ -1527,7 +1433,6 @@ pertaining to appeals including the time within which appeals to the
 Court are to be entered;
 (c) rules as to the proceedings in the Court for the enforcement of any
 of the rights conferred by Part III;
-(cc) rules as to the proceedings in the Court under articles 131A and 139A;
 (d) rules as to the entertainment of appeals under sub-clause (c) of
 clause (1) of article 134;
 
@@ -1548,10 +1453,10 @@ which appears to the Court to be frivolous or vexatious or brought for the
 purpose of delay;
 (j) rules as to the procedure for inquiries referred to in clause
 (1) of article 317.
-(2) Subject to the provisions of article 144A and of clause (3), rules made under this article
+(2) Subject to the provisions of clause (3), rules made under this article
 may fix the minimum number of Judges who are to sit for any purpose, and
 may provide for the powers of single Judges and Division Courts.
-(3) Subject to the provisions of article  144A, the minimum number of Judges who are to sit for the purpose of
+(3) The minimum number of Judges who are to sit for the purpose of
 deciding any case involving a substantial question of law as to the
 interpretation of this Constitution or for the purpose of hearing any reference
 under article 143 shall be five:
@@ -1643,9 +1548,10 @@ duties and exercise such powers in relation to the accounts of the Union and of
 the States as were conferred on or exercisable by the Auditor-General of India
 immediately before the commencement of this Constitution in relation to the
 accounts of the Dominion of India and of the Provinces respectively.
-150. Form of accounts of the Union and of the States.—The accounts
-of the Union and of the States shall be kept in such form as the President may,
-after  consultation with the Comptroller and Auditor-General of India, prescribe.
+150. Power of Comptroller and Auditor-General to give directions as to accounts- 
+The accounts of the Union and of the States 
+shall be kept in such form as the Comptroller and Auditor-General of India may,
+with the approval of the President, prescribe.
 151. Audit reports.—(1) The reports of the Comptroller and AuditorGeneral of India relating to the accounts of the Union shall be submitted to the
 President, who shall cause them to be laid before each House of Parliament.
 (2) The reports of the Comptroller and Auditor-General of India relating

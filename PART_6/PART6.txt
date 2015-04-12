@@ -157,9 +157,7 @@ or instrument made or executed by the Governor.
 the business of the Government of the State, and for the allocation among
 Ministers of the said business in so far as it is not business with respect to which
 the Governor is by or under this Constitution required to act in his discretion.
-(4)  No  court  or other authority shall be entitled to  require  the
-production  of any rules made under clause (3) for the more convenient
-transaction of the business of the Government of the State.
+
 
 167. Duties of Chief Minister as respects the furnishing of
 information to Governor, etc.—It shall be the duty of the Chief Minister of
@@ -222,9 +220,8 @@ THE CONSTITUTION OF INDIA
 territorial constituencies in such manner that the ratio between the population
 of each constituency and the number of seats allotted to it shall, so far as
 practicable, be the same throughout the State.
-Explanation.—In this clause, the expression “population” means the
-population as ascertained at the last preceding census of which the relevant
-figures have been published:
+Explanation.-In this clause, the expression "population" means the population as ascertained at the 
+last preceding census of which the relevant figures have been published.
 Provided that the reference in this Explanation to the last preceding
 census of which the relevant figures have been published shall, until the
 relevant figures for the first census taken after the year 2000 have been
@@ -235,15 +232,7 @@ constituencies shall be readjusted by such authority and in such manner as
 Parliament may by law determine:
 Provided that such readjustment shall not affect representation in the
 Legislative Assembly until the dissolution of the then existing Assembly:
-Provided further that such readjustment shall take effect from such date
-as the President may, by order, specify and until such readjustment takes effect,
-any election to the Legislative Assembly may be held on the basis of the
-territorial constituencies existing before such readjustment:
-Provided also that until the relevant figures for the first census taken
-after the year 2000 have been published, it shall not be necessary to readjust 
-the total number of seats in the Legislative Assembly
-of each State and the division of such State into territorial constituencies under this
-clause.
+
 
 171. Composition of the Legislative Councils.—(1) The total number
 of members in the Legislative Council of a State having such a Council shall
@@ -294,9 +283,9 @@ Literature, science, art, co-operative movement and social service.
 THE CONSTITUTION OF INDIA
 
 172. Duration of State Legislatures.—(1) Every Legislative Assembly
-of every State, unless sooner dissolved, shall continue for six years from the
+of every State, unless sooner dissolved, shall continue for five years from the
 date appointed for its first meeting and no longer and the expiration of the said
-period of six years shall operate as a dissolution of the Assembly:
+period of five years shall operate as a dissolution of the Assembly:
 Provided that the said period may, while a Proclamation of Emergency is
 in operation, be extended by Parliament by law for a period not exceeding one
 year at a time and not extending in any case beyond a period of six months after
@@ -503,6 +492,16 @@ notwithstanding any vacancy in the membership thereof, and any proceedings
 in the Legislature of a State shall be valid notwithstanding that it is discovered
 subsequently that some person who was not entitled so to do sat or voted or
 otherwise took part in the proceedings.
+(3) Until the Legislature of the State by law otherwise 
+provides, the quorum to constitute a meeting of a House of 
+the Legislature of a State shall be ten members or one-tenth 
+of the total number of members of the House, whichever is 
+greater. 
+(4) If at any time during a meeting of the Legislative 
+Assembly or Legislative Council of a State there is no 
+quorum, it shall be the duty of the Speaker or Chairman, 
+or person acting as such, either to adjourn the House or to 
+suspend the meeting until there is a quorum.
 
 190. Vacation of seats.—(1) No person shall be a member of both
 Houses of the Legislature of a State and provision shall be made by the
@@ -539,9 +538,10 @@ more than four consecutive days.
 191. Disqualifications for membership.—(1) A person shall be
 disqualified for being chosen as, and for being, a member of the Legislative
 Assembly or Legislative Council of a State—
-(a)  if  he holds any such office of profit under the  Government  of
-India  or the Government of any State specified in the First  Schedule
-as is declared by Parliament by law to disqualify its holder;
+(a)  if  he holds any office of profit under the  Government  of
+India  or the Government of any State specified in the First  Schedule,
+other than an office declared by the Legislature of the State by law
+not to disqualify its holder;
 (b) if he is of unsound mind and stands so declared by a competent
 court;
 (c) if he is an undischarged insolvent;
@@ -554,28 +554,16 @@ deemed to hold an office of profit under the Government of India or the
 Government of any State specified in the First Schedule by reason only that he
 is a Minister either for the Union or for such State.
 
-192.   Decision  on  questions   as  to  disqualification.-(1)  If  any
-question arises-
+192. (1) If any question arises as to whether a 
+member of a House of the Legislature of 
+a State has become subject to any of the 
+disqualifications mentioned in clause (i) 
+of article 191, the question shall be referred for the decision 
+of the Governor and his decision shall be final. 
 
-(a)  as  to whether a member of a House of the Legislature of a  State
-has become subject to any of the disqualifications mentioned in clause
-(1) of article 191, or
-
-(b)  as to whether a person, found guilty of a corrupt practice at  an
-election  to a House of the Legislature of a State under any law  made
-by  Parliament,  shall  be disqualified for being chosen as,  and   for
-being  a  member  of either House of Parliament or of a House  of   the
-Legislature  of a State, or as to the period for which he shall be  so
-disqualified,  or as to the removal of, or the reduction of the period
-of,  such  disqualification,
-
-the  question shall be referred for the decision of the President  and
-his decision shall be final.
-
-(2)  Before  giving any decision on any such question,  the  President
-shall consult the Election Commission and the Election Commission may,
-for this purpose, make such inquiry as it thinks fit.".
-
+(2) Before giving any decision on any such question, 
+the Governor shall obtain the opinion of the Election Com- 
+mission and shall act according to such opinion. 
 78
 
 THE CONSTITUTION OF INDIA
@@ -600,17 +588,16 @@ proceedings in any court in respect of anything said or any vote given by him in
 the Legislature or any committee thereof, and no person shall be so liable in
 respect of the publication by or under the authority of a House of such a
 Legislature of any report, paper, votes or proceedings.
-(3)  In  other respects, the powers, privileges and immunities  of  a
-House  of  the  Legislature  of a State, and of the  members   and  the
-committees  of  a  House of such Legislature, shall be those  of   that
-House,  and  of  its members and Committees, at  the   commencement  of
-section 34 of THE CONSTITUTION (Forty-second Amendment) Act, 1976, and
-as  may be evolved by such House of the Legislature of a State, so far
-as may be, in accordance with those of the House of the People, and of
-its  members  and  committees  where such  House  is   the  Legislative
-Assembly and in accordance with those of the Council of States, and of
-its  members  and  committees  where such  House  is   the  Legislative
-Council.
+
+(3) In other respects, the powers, privileges and 
+immunities of a House of the Legislature of a State, and of 
+the members and the committees of a House of such Legis- 
+lature, shall be such as may from time to time be defined by 
+the Legislature by law, and, until so defined, shall be those 
+of the House of Commons of the Parliament of the United 
+Kingdom, and of its members and committees, at the com- 
+mencement of this Constitution,
+
 (4) The provisions of clauses (1), (2) and (3) shall apply in relation to
 persons who by virtue of this Constitution have the right to speak in, and
 otherwise to take part in the proceedings of, a House of the Legislature of a State
@@ -916,8 +903,7 @@ that House the consideration of the Bill.
 Procedure Generally
 208. Rules of procedure.—(1) A House of the Legislature of a State
 may make rules for regulating, subject to the provisions of this Constitution, its
-procedure(including the quorum to constitute a meeting of the House)
- and the conduct of its business.
+procedure and the conduct of its business.
 (2) Until rules are made under clause (1), the rules of procedure and
 standing orders in force immediately before the commencement of this
 Constitution with respect to the Legislature for the corresponding Province shall
@@ -1075,9 +1061,7 @@ Court unless he is a citizen of India and—
 (a) has for at least ten years held a judicial office in the territory of
 India; or
 (b) has for at least ten years been an advocate of a High Court or of
-two or more such Courts in succession; or
-(c) is, in the opinion of the President, a distinguished jurist.
-90
+two or more such Courts in succession;90
 
 THE CONSTITUTION OF INDIA
 
@@ -1085,9 +1069,7 @@ Explanation.—For the purposes of this clause—
 
 (a) in computing the period during which a person has been an
 advocate of a High Court, there shall be included any period during
-which the person has held judicial office or the office of a member of a
-tribunal or any post, under the Union or a State, requiring special
-knowledge of law after he became an advocate;
+which the person has held judicial office after he became an advocate;
 (b) in computing the period during which a person has held judicial
 office in the territory of India or been an advocate of a High Court, there
 shall be included any period before the commencement of this
@@ -1184,80 +1166,49 @@ administration of justice in the Court, including any power to make rules of
 Court and to regulate the sittings of the Court and of members thereof sitting
 alone or in Division Courts, shall be the same as immediately before the
 commencement of this Constitution:
-
+Provided that any restriction to which the exercise of 
+original jurisdiction by any of the High Courts with respect 
+to any matter concerning the revenue or concerning any 
+act ordered or done in the collection thereof was subject 
+immediately before the commencement of this Con- 
+stitution shall no longer apply to the exercise of such juris- 
+diction. 
 93
 
 THE CONSTITUTION OF INDIA
 
 
-226. Power of High Courts to issue certain writs.—(1)
-Notwithstanding anything in article 32,but subject to the
-provisions of article 131A and article 226A, every High Court shall have power,
-throughout the territories in relation to which it exercises jurisdiction, to issue
-to any person or authority, including in appropriate cases, any Government,
-within those territories directions, orders or writs, including writs in
-the  nature of habeas corpus, mandamus, prohibition, quo warranto  and
-certiorari, or any of them" and ending with the words "such illegality
-has  resulted in substantial failure of justice.
-(2) The power conferred by clause (1) to issue directions, orders or writs
-to any Government, authority or person may also be exercised by any High
-Court exercising jurisdiction in relation to the territories within which the cause
-of action, wholly or in part, arises for the exercise of such power,
-notwithstanding that the seat of such Government or authority or the residence
-of such person is not within those territories.
-
-(3)  No  petition  for  the   redress of  any  injury  referred  to  in
-sub-clause (b) or sub-clause (c) of clause (1) shall be entertained if
-any  other  remedy  for such redress is provided for by or  under   any
-other law for the time being in force.
-
-(4)  No interim order (whether by way of injunction or stay or in  any
-other  manner) shall be made on, or in any proceedings relating to,  a
-petition under clause (1) unless-
-
-(a)  copies  of such petition and of all documents in support  of  the
-plea  for  such interim order are furnished to the party against  whom
-such petition is filed or proposed to be filed;  and
-
-(b) opportunity is given to such party to be heard in the matter.
-
-(5)  The High Court may dispense with the requirements of  sub-clauses
-(a)  and (b) of clause (4) and make an interim order as an exceptional
-measure if it is satisfied for reasons to be record in writing that it
-is  necessary  so  to do for preventing any loss being caused  to   the
-petitioner  which  cannot be adequately compensated in money  but  any
-such  interim order shall, if it is not vacated earlier, cease to have
-effect  on  the expiry of a period of fourteen days from the  date  on
-which  it is made unless the said requirements have been complied with
-before  the expiry of that period and the High Court has continued the
-operation of the interim order.
-
-(6)  Notwithstanding anything in clause (4) or clause (5), no  interim
-order  (whether  by way of injunction or stay or in any other  manner)
-shall  be made on, or in any proceedings relating to, a petition under
-clause  (1)  where  such order will have the effect  of  delaying   any
-inquiry  into  a matter of public importance or any  investigation  or
-inquiry into an offence punishable with imprisonment or any action for
-the  execution  of  any  work or project of  public   utility,  or  the
-acquisition  of any property for such execution, by the Government  or
-any corporation owned or controlled by the Government.
-
-(7) The power conferred on a High Court by this article shall not be in
-derogation of the power conferred on the Supreme Court by clause (2) of article 32.
+226.(1) Notwithstanding anything in article 32, 
+every High Court shall have power, 
+throughout the territories. in relation to 
+which it exercises jurisdiction, to issue to 
+any person or authority, including in appropriate cases any 
+Government, within those territories, directions, orders or 
+writs, including writs in the nature of habeas corpus, 
+mandamus, prohibition, quo warranto and certiorari, or any 
+of them, for the enforcement of any of the rights conferred 
+by Part III and for any other purpose.
+(1A) The power conferred by clause (1) to issue directions, orders or
+writs  to any Government, authority or person may also be exercised by
+any  High Court exercising jurisdiction in relation to the territories
+within  which  the cause of action, wholly or in part, arises for  the
+exercise  of  such  power,  notwithstanding  that  the   seat  of  such
+Government  or authority or the residence of such person is not within
+those territories.
+(2) The power conferred on a High Court by clause (1) or clause (1A)
+shall not be in derogation of the power conferred on the 
+Supreme Court by clause (2) of article 32. 
 
 94
 
 THE CONSTITUTION OF INDIA
 
-226A.   Constitutional validity of Central laws not to be  considered
-in  proceedings under article 226.-Notwithstanding anything in article
-226,  the High Court shall not consider the constitutional validity of
-any Central law in any proceedings under that article.
-
 
 227. Power of superintendence over all courts by the High Court.—
-(1)  Every  High  Court shall have superintendence  over  all  courts
-subject to its appellate jurisdiction.
+(1) Every High Court shall have superintendence 
+over all courts and tribunals throughout 
+Power of superintend the territories in relation to which it 
+exercises jurisdiction.
 (2) Without prejudice to the generality of the foregoing provision, the
 High Court may—
 (a) call for returns from such courts;
@@ -1275,16 +1226,11 @@ Governor.
 (4) Nothing in this article shall be deemed to confer on a High Court
 powers of superintendence over any court or tribunal constituted by or under
 any law relating to the Armed Forces.
-(5)  Nothing  in this article shall be construed as giving to a  High
-Court  any jurisdiction to question any judgment of any inferior court
-which is not otherwise subject to appeal or revision.
 
 228. Transfer of certain cases to High Court.—If the High Court is
 satisfied that a case pending in a court subordinate to it involves a substantial
 question of law as to the interpretation of this Constitution the determination of
-which is necessary for the disposal of the case, it shall withdraw the case and, 
-subject to the provisions of article 131A,
-may—
+which is necessary for the disposal of the case, it shall withdraw the case and, may—
 (a) either dispose of the case itself, or
 (b) determine the said question of law and return the case to the
 court from which the case has been so withdrawn together with a copy of
@@ -1296,39 +1242,6 @@ proceed to dispose of the case in conformity with such judgment.
 THE CONSTITUTION OF INDIA
 
 
-228A.   Special  provisions as to disposal of questions  relating  to
-constitutional  validity  of State laws.-(1) No High Court shall  have
-jurisdiction  to  declare  any  Central  law  to  be   constitutionally
-invalid.
-
-(2)  Subject  to the provisions of article 131A, the  High  Court
-may determine all questions relating to the constitutional validity of
-any State law.
-
-(3)  The  minimum  number of Judges who shall sit for the  purpose  of
-determining  any question as to the constitutional validity of any
-State law shall be five:
-
-Provided  that where the High Court consists of less than five Judges,
-all the Judges of the High Court may sit and determine such question.
-
-(4)  A State law shall not be declared to be constitutionally  invalid
-by the High Court unless-
-
-(a)  where  the High Court consists of five Judges or more,  not  less
-than  two-thirds of the Judges sitting for the purpose of  determining
-the validity of such law, hold it to be constitutionally invalid;  and
-
-(b)  where  the High Court consists of less than five Judges, all  the
-Judges  of  the  High  Court sitting for the purpose  hold   it  to  be
-constitutionally invalid.
-
-(5)  The provisions of this article shall have effect   notwithstanding
-anything contained in this Part.
-
-Explanation.---In  computing the number of Judges of a High Court  for
-the purposes of this article, a Judge who is disqualified by reason of
-personal or pecuniary bias shall be excluded.
 
 229. Officers and servants and the expenses of High Courts.—(1)
 Appointments of officers and servants of a High Court shall be made by the
