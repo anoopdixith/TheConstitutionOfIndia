@@ -246,21 +246,34 @@ THE CONSTITUTION OF INDIA
 70. Discharge of President's functions in other contingencies.—
 Parliament may make such provisions as it thinks fit for the discharge of the
 functions of the President in any contingency not provided for in this Chapter.
-71. Matters relating to, or connected with, the election of a
-President or Vice-President.—(1) All doubts and disputes arising out of or in
-connection with the election of a President or Vice-President shall be inquired
-into and decided by the Supreme Court whose decision shall be final.
-(2) If the election of a person as President or Vice-President is declared
-void by the Supreme Court, acts done by him in the exercise and performance
-of the powers and duties of the office of President or Vice-President, as the
-case may be, on or before the date of the decision of the Supreme Court shall
-not be invalidated by reason of that declaration.
-(3) Subject to the provisions of this Constitution, Parliament may by law
-regulate any matter relating to or connected with the election of a President or
-Vice-President.
-(4) The election of a person as President or Vice-President shall not be
-called in question on the ground of the existence of any vacancy for whatever
-reason among the members of the electoral college electing him.
+
+
+71.   Matters  relating  to   or  connected with  the  election  of  a
+President  or  Vice-President.-(1) Subject of the provisions  of  this
+Constitution, Parliament may by law regulate any matter relating to or
+connected  with  the  election  of   a  President   or  Vice-President,
+including the grounds on which such election may be questioned:
+
+Provided  that the election of a person as President or Vice-President
+shall  not be called in question on the ground of the existence of any
+vacancy for whatever reason among the members of the electoral college
+electing  him.
+
+(2)  All doubts and disputes arising out of or in connection with  the
+election  of a President or Vice-President shall be inquired into  and
+decided  by  such  authority  or body and in such  manner   as  may  be
+provided for by or under any law referred to in clause (1).
+
+(3)  The validity of any such law as is referred to in clause (1)  and
+the  decision  of  any authority or body under such law shall  not   be
+called in question in any court.
+
+(4)  If  the  election of a person as President or  Vice-President  is
+declared void under any such law as is referred to in clause (1), acts
+done  by him in the exercise and performance of the powers and  duties
+of  the office of President or Vice-President, as the case may be,  on
+or  before  the date of such declaration shall not be  invalidated  by
+reason of that declaration."
 72. Power of President to grant pardons, etc., and to suspend, remit
 or commute sentences in certain cases.—(1) The President shall have the
 power to grant pardons, reprieves, respites or remissions of punishment or to
@@ -305,9 +318,6 @@ Council of Ministers
 be a Council of Ministers with the Prime Minister at the head to aid and advise
 the President who shall, in the exercise of his functions, act in accordance with
 such advice:
-Provided that the President may require the Council of Ministers to
-reconsider such advice, either generally or otherwise, and the President shall act
-in accordance with the advice tendered after such reconsideration.
 (2) The question whether any, and if so what, advice was tendered by
 Ministers to the President shall not be inquired into in any court.
 75. Other provisions as to Ministers.—(1) The Prime Minister shall be
@@ -360,10 +370,9 @@ or instrument made or executed by the President.
 (3) The President shall make rules for the more convenient transaction
 of the business of the Government of India, and for the allocation among
 Ministers of the said business.
-*
-*
-*
-*
+(4)  No  court  or other authority shall be entitled to  require  the
+production  of any rules made under clause (3) for the more convenient
+transaction of the business of the Government of India.
 78. Duties of Prime Minister as respects the furnishing of information
 to the President, etc.—It shall be the duty of the Prime Minister—
 (a) to communicate to the President all decisions of the Council of
@@ -461,8 +470,8 @@ members thereof shall retire as soon as may be on the expiration of every
 second year in accordance with the provisions made in that behalf by
 Parliament by law.
 (2) The House of the People, unless sooner dissolved, shall continue for
-five years from the date appointed for its first meeting and no longer and the
-expiration of the said period of five years shall operate as a dissolution of the
+six years from the date appointed for its first meeting and no longer and the
+expiration of the said period of six years shall operate as a dissolution of the
 House:
 
 35
@@ -658,12 +667,6 @@ equality of votes.
 any vacancy in the membership thereof, and any proceedings in Parliament shall
 be valid notwithstanding that it is discovered subsequently that some person who
 was not entitled so to do sat or voted or otherwise took part in the proceedings.
-(3) Until Parliament by law otherwise provides, the quorum to constitute
-a meeting of either House of Parliament shall be one-tenth of the total number
-of members of the House.
-(4) If at any time during a meeting of a House there is no quorum, it shall
-be the duty of the Chairman or Speaker, or person acting as such, either to
-adjourn the House or to suspend the meeting until there is a quorum.
 
 40
 
@@ -701,9 +704,9 @@ more than four consecutive days.
 102. Disqualifications for membership.— (1) A person shall be
 disqualified for being chosen as, and for being, a member of either House of
 Parliament—
-(a) if he holds any office of profit under the Government of India or
-the Government of any State, other than an office declared by Parliament
-by law not to disqualify its holder;
+(a)  if  he holds any such office of profit under the  Government  of
+India  or the Government of any State as is declared by Parliament  by
+law to disqualify its holder;
 
 41
 
@@ -721,14 +724,28 @@ deemed to hold an office of profit under the Government of India or the
 Government of any State by reason only that he is a Minister either for the
 Union or for such State.
 
-103. Decision on questions as to disqualifications of members.—
-(1) If any question arises as to whether a member of either House of
-Parliament has become subject to any of the disqualifications mentioned in
-clause (1) of article 102, the question shall be referred for the decision of the
-President and his decision shall be final.
-(2) Before giving any decision on any such question, the President shall
-obtain the opinion of the Election Commission and shall act according to such
-opinion.
+103.   Decision  on  questions   as to  disqualification.-(1)  If
+any question arises-
+
+(a)  as  to whether a member of either House of Parliament has  become
+subject  to  any of the disqualifications mentioned in clause  (1)  of
+article 102, or
+
+(b)  as to whether a person, found guilty of a corrupt practice at  an
+election  to  a House of Parliament under any law made by  Parliament,
+shall  be disqualified for being chosen as, and for being, a member of
+either  House  of  Parliament, or of a House of the Legislature  of   a
+State,  or as to the period for which he shall be so disqualified,  or
+as  to  the  removal  of,  or the reduction of  the   period  of,  such
+disqualification,
+
+the  question shall be referred for the decision of the President  and
+his decision shall be final.
+
+(2)  Before  giving any decision on any such question,  the  President
+shall consult the Election Commission and the Election Commission may,
+for this purpose, make such inquiry as it thinks fit.".
+
 104. Penalty for sitting and voting before making oath or affirmation
 under article 99 or when not qualified or when disqualified.—If a person
 sits or votes as a member of either House of Parliament before he has complied
@@ -751,12 +768,12 @@ THE CONSTITUTION OF INDIA
 respect of anything said or any vote given by him in Parliament or any committee
 thereof, and no person shall be so liable in respect of the publication by or under the
 authority of either House of Parliament of any report, paper, votes or proceedings.
-(3) In other respects, the powers, privileges and immunities of each
-House of Parliament, and of the members and the committees of each House,
-shall be such as may from time to time be defined by Parliament by law, and,
-until so defined, shall be those of that House and of its members and
-committees immediately before the coming into force of section 15 of the
-Constitution (Forty-fourth Amendment) Act, 1978.
+(3)  In other respects, the powers, privileges and immunities of each
+House  of  Parliament, and of the members and the committees  of  each
+House,  shall  be  those  of  that  House,  and   of  its  members  and
+committees,  at  the  commencement of section 21 of  the   Constitution
+(Forty-second  Amendment)  Act,  1976, and as may be evolved  by   such
+House of Parliament from time to time.
 (4) The provisions of clauses (1), (2) and (3) shall apply in relation to
 persons who by virtue of this Constitution have the right to speak in, and
 otherwise to take part in the proceedings of, a House of Parliament or any
@@ -1057,6 +1074,7 @@ consideration of the Bill.
 Procedure Generally
 118. Rules of procedure.— (1) Each House of Parliament may make
 rules for regulating, subject to the provisions of this Constitution, its procedure
+(including the quorum to constitute a meeting of the House)
 and the conduct of its business.
 (2) Until rules are made under clause (1), the rules of procedure and
 standing orders in force immediately before the commencement of this
@@ -1114,29 +1132,40 @@ court in respect of the exercise by him of those powers.
 THE CONSTITUTION OF INDIA
 
 CHAPTER III.—LEGISLATIVE POWERS OF THE PRESIDENT
-123. Power of President to promulgate Ordinances during recess of
-Parliament.—(1) If at any time, except when both Houses of Parliament are in
-session, the President is satisfied that circumstances exist which render it
-necessary for him to take immediate action, he may promulgate such
-Ordinances as the circumstances appear to him to require.
-(2) An Ordinance promulgated under this article shall have the same
-force and effect as an Act of Parliament, but every such Ordinance—
-(a) shall be laid before both Houses of Parliament and shall cease to
-operate at the expiration of six weeks from the reassembly of Parliament,
-or, if before the expiration of that period resolutions disapproving it are
-passed by both Houses, upon the passing of the second of those
-resolutions; and
-(b) may be withdrawn at any time by the President.
-Explanation.—Where the Houses of Parliament are summoned to
-reassemble on different dates, the period of six weeks shall be reckoned from
-the later of those dates for the purposes of this clause.
-(3) If and so far as an Ordinance under this article makes any provision
-which Parliament would not under this Constitution be competent to enact, it
-shall be void.
-*
-*
-*
-*
+123. (1) If at any time, except when both Houses of 
+Parliament are in session, the President is 
+satisfied that circumstances exist which 
+during recess of Parliament render it necessary for him to take immediate action, he may promulgate such
+Ordinances as the circumstances appear to him to require,
+(2) An Ordinance promulgated under this article shall 
+have the same force and effect as an Act of Parliament, but 
+every such Ordinance 
+
+(a) shall be laid before both Houses of Parliament 
+and shall cease to operate at the expiration of 
+six weeks from the reassembly of Parliament, 
+or, if before the expiration of that period 
+resolutions disapproving it are passed by both 
+Houses, upon the second of those resolutions ; 
+and 
+
+(b) may be withdrawn at any time by the 
+President. 
+
+Explanation. Where the Houses of Parliament are 
+summoned to reassemble on different dates, the period of six 
+weeks shall be reckoned from the later of those dates for the 
+purposes of this clause. 
+
+(3) If and so far as an Ordinance under this article 
+makes any provision which Parliament would not under this 
+Constitution be competent to enact, it shall be void.  
+
+(4)  Notwithstanding anything in this Constitution, the  satisfaction
+of the President mentioned in clause (1) shall be final and conclusive
+and shall not be questioned in any court on any ground.
+
+Ordinances as the circumstances appear to him to require, 
 CHAPTER IV.—THE UNION JUDICIARY
 124. Establishment and constitution of Supreme Court.—(1) There
 shall be a Supreme Court of India consisting of a Chief Justice of India and,
@@ -1277,30 +1306,26 @@ questions as to constitutional validity of Central laws.] Rep. by the Constituti
 Courts in certain cases.— (1) An appeal shall lie to the Supreme Court from
 any judgment, decree or final order of a High Court in the territory of India,
 whether in a civil, criminal or other proceeding, if the High Court certifies
-under article 134A that the case involves a substantial question of law as to the
+that the case involves a substantial question of law as to the
 interpretation of this Constitution.
-*
+(2)Where the Court has refused to give such a certi- 
+ficate, the Supreme Court may, if it is satisfied that the case 
+involves a substantial question of law as to the interpretation 
+of this Constitution, grant special leave to appeal from such 
+judgment, decree or final order.
 
-*
-
-*
-
-*
-
-*
-
-*
-
-(3) Where such a certificate is given, any party in the case may appeal to
+(3) Where such a certificate is given,or such leave is granted,
+ any party in the case may appeal to
 the Supreme Court on the ground that any such question as aforesaid has been
-wrongly decided.
+wrongly decided and,  with the leave of the Supreme Court, on any other ground.
+
 Explanation.— For the purposes of this article, the expression “final
 order” includes an order deciding an issue which, if decided in favour of the
 appellant, would be sufficient for the final disposal of the case.
 133. Appellate jurisdiction of Supreme Court in appeals from High
 Courts in regard to civil matters.— (1) An appeal shall lie to the Supreme
 Court from any judgment, decree or final order in a civil proceeding of a High
-Court in the territory of India if the High Court certifies under article 134A—
+Court in the territory of India if the High Court certifies —
 (a) that the case involves a substantial question of law of general
 importance; and
 (b) that in the opinion of the High Court the said question needs to be
@@ -1326,7 +1351,7 @@ and sentenced him to death; or
 (b) has withdrawn for trial before itself any case from any court
 subordinate to its authority and has in such trial convicted the accused
 person and sentenced him to death; or
-(c) certifies under article 134A that the case is a fit one for appeal to
+(c) certifies that the case is a fit one for appeal to
 the Supreme Court:
 Provided that an appeal under sub-clause (c) shall lie subject to such
 provisions as may be made in that behalf under clause (1) of article 145 and to
@@ -1335,18 +1360,7 @@ such conditions as the High Court may establish or require.
 powers to entertain and hear appeals from any judgment, final order or sentence
 in a criminal proceeding of a High Court in the territory of India subject to such
 conditions and limitations as may be specified in such law.
-134A. Certificate for appeal to the Supreme Court.—Every High
-Court, passing or making a judgment, decree, final order, or sentence, referred to
-in clause (1) of article 132 or clause (1) of article 133, or clause (1) of article
-134,—
-(a) may, if it deems fit so to do, on its own motion; and
-(b) shall, if an oral application is made, by or on behalf of the party
-aggrieved, immediately after the passing or making of such judgment,
-decree, final order or sentence,
-determine, as soon as may be after such passing or making, the question
-whether a certificate of the nature referred to in clause (1) of article 132, or
-clause (1) of article 133 or, as the case may be, sub-clause (c) of clause (1) of
-article 134, may be given in respect of that case.
+
 
 57
 
@@ -1388,22 +1402,20 @@ purposes other than those mentioned in clause (2) of article 32.
 
 THE CONSTITUTION OF INDIA
 
-139A. Transfer of certain cases.—(1) Where cases involving the same
-or substantially the same questions of law are pending before the Supreme
-Court and one or more High Courts or before two or more High Courts and the
-Supreme Court is satisfied on its own motion or on an application made by the
-Attorney-General of India or by a party to any such case that such questions are
-substantial questions of general importance, the Supreme Court may withdraw
-the case or cases pending before the High Court or the High Courts and dispose
-of all the cases itself:
-Provided that the Supreme Court may after determining the said
-questions of law return any case so withdrawn together with a copy of its
-judgment on such questions to the High Court from which the case has been
-withdrawn, and the High Court shall on receipt thereof, proceed to dispose of
-the case in conformity with such judgment.
-(2) The Supreme Court may, if it deems it expedient so to do for the ends
-of justice, transfer any case, appeal or other proceedings pending before any
-High Court to any other High Court.
+139A.   Transfer of certain cases.-(1) If, on an application made  by
+the  Attorney-General  of India, the Supreme Court is  satisfied  that
+cases  involving  the same or substantially the same questions of  law
+are  pending  before it and one or more High Courts or before  two  or
+more  High Courts and that such questions are substantial questions of
+general  importance, the Supreme Court may withdraw the case or  cases
+pending  before  the High Court or the High Courts and dispose of  all
+the cases itself.
+
+(2)  The Supreme Court may, if it deems it expedient so to do for  the
+ends  of  justice,  transfer  any case, appeal  or  other   proceedings
+pending before any High Court to any other High Court.".
+
+
 140. Ancillary powers of Supreme Court.—Parliament may by law
 make provision for conferring upon the Supreme Court such supplemental
 powers not inconsistent with any of the provisions of this Constitution as may
@@ -1575,7 +1587,7 @@ immediately before the commencement of this Constitution in relation to the
 accounts of the Dominion of India and of the Provinces respectively.
 150. Form of accounts of the Union and of the States.—The accounts
 of the Union and of the States shall be kept in such form as the President may,
-on the advice of the Comptroller and Auditor-General of India, prescribe.
+after  consultation with the Comptroller and Auditor-General of India, prescribe.
 151. Audit reports.—(1) The reports of the Comptroller and AuditorGeneral of India relating to the accounts of the Union shall be submitted to the
 President, who shall cause them to be laid before each House of Parliament.
 (2) The reports of the Comptroller and Auditor-General of India relating
