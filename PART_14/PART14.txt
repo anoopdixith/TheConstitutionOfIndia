@@ -47,12 +47,12 @@ removed by an authority subordinate to that by which he was appointed.
 (2) No such person as aforesaid shall be dismissed or removed or
 reduced in rank except after an inquiry in which he has been informed of the
 charges against him and given a reasonable opportunity of being heard in
-respect of those charges:
-Provided that where it is proposed after such inquiry, to impose upon
-him any such penalty, such penalty may be imposed on the basis of the
-evidence adduced during such inquiry and it shall not be necessary to give such
-person any opportunity of making representation on the penalty proposed:
-Provided further that this clause shall not apply—
+respect of those charges and where it is proposed, after such
+inquiry,  to impose on him any such penalty, until he has been given a
+reasonable  opportunity  of  making   representation  on   the  penalty
+proposes,  but  only on the basis of the evidence adduced during  such
+inquiry:
+Provided that this clause shall not apply---
 (a) where a person is dismissed or removed or reduced in rank on
 the ground of conduct which has led to his conviction on a criminal
 charge; or
@@ -67,11 +67,10 @@ to hold such inquiry.
 whether it is reasonably practicable to hold such inquiry as is referred to in
 clause (2), the decision thereon of the authority empowered to dismiss or
 remove such person or to reduce him in rank shall be final.
-312. All-India services.—(1) Notwithstanding anything in Chapter VI
-of Part VI or Part XI, if the Council of States has declared by resolution
+312. All-India services.—(1) Notwithstanding anything in Part XI, if the Council of States has declared by resolution
 supported by not less than two-thirds of the members present and voting that it
 is necessary or expedient in the national interest so to do, Parliament may by
-law provide for the creation of one or more all India services (including an allIndia judicial service) common to the Union and the States, and, subject to the
+law provide for the creation of one or more all India services common to the Union and the States, and, subject to the
 other provisions of this Chapter, regulate the recruitment, and the conditions of
 service of persons appointed, to any such service.
 
@@ -82,13 +81,6 @@ THE CONSTITUTION OF INDIA
 (2) The services known at the commencement of this Constitution as the
 Indian Administrative Service and the Indian Police Service shall be deemed to
 be services created by Parliament under this article.
-(3) The all-India judicial service referred to in clause (1) shall not
-include any post inferior to that of a district judge as defined in article 236.
-(4) The law providing for the creation of the all-India judicial service
-aforesaid may contain such provisions for the amendment of Chapter VI of Part
-VI as may be necessary for giving effect to the provisions of that law and no
-such law shall be deemed to be an amendment of this Constitution for the
-purposes of article 368.
 312A. Power of Parliament to vary or revoke conditions of service of
 officers of certain services.—(1) Parliament may by law—
 (a) vary or revoke, whether prospectively or retrospectively, the
