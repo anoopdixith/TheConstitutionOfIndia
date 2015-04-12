@@ -1299,9 +1299,57 @@ instrument which, having been entered into or executed before the
 commencement of this Constitution, continues in operation after such
 commencement, or which provides that the said jurisdiction shall not extend to
 such a dispute.
-131A. [Exclusive jurisdiction of the Supreme Court in regard to
-questions as to constitutional validity of Central laws.] Rep. by the Constitution
-(Forty-third Amendment) Act, 1977, s. 4 (w.e.f. 13-4-1978).
+
+
+131A.   Exclusive  jurisdiction   of the Supreme Court  in  regard  to
+questions  as  to  Constitutional  validity   of   Central  laws.- (1)
+Notwithstanding  anything  contained  in any other provision  of   this
+Constitution,  the Supreme Court shall, to the exclusion of any  other
+court,  have  jurisdiction to determine all questions relating to  the
+constitutional validity of any Central law.
+
+(2) Where a High Court is satisfied-
+
+(a)  that a case pending before it or before a court subordinate to it
+involves  questions  as to the constitutional validity of any  Central
+law or, as the case may be, of both Central and State laws;  and
+
+(b)  that  the  determination of such questions is necessary  for  the
+disposal of the case,
+
+the  High  Court  shall refer the questions for the  decision  of  the
+Supreme Court.
+
+(3)  Without  prejudice to the provisions of clause (2), where, on  an
+application  made by the Attorney-General of India, the Supreme  Court
+is satisfied,-
+
+(a)  that  a  case  pending   before a High Court  or  before  a  court
+subordinate   to   a  High  Court   involves   questions  as   to   the
+constitutional  validity of any Central law or, as the case may be, of
+both Central and State laws;  and
+
+(b)  that  the  determination of such questions is necessary  for  the
+disposal of the case,
+
+the Supreme Court may require the High Court to refer the questions to
+it for its decision.
+
+(4)  When a reference is made under clause (2) or clause (3), the High
+Court  shall  stay  all proceedings in respect of the case  until   the
+Supreme Court decides the questions so referred.
+
+(5)  The Supreme Court shall, after giving the parties an  opportunity
+of being heard, decide the questions so referred, and may---
+
+(a) either dispose of the case itself;  or
+
+(b)  return  the  case to the High Court together with a copy  of  its
+judgment on such questions for disposal of the case in conformity with
+such  judgment  by  the High Court or, as the case may be,  the   court
+subordinate to it.
+
+
 132. Appellate jurisdiction of Supreme Court in appeals from High
 Courts in certain cases.— (1) An appeal shall lie to the Supreme Court from
 any judgment, decree or final order of a High Court in the territory of India,
@@ -1456,9 +1504,19 @@ fit, report to the President its opinion thereon.
 144. Civil and judicial authorities to act in aid of the Supreme
 Court.—All authorities, civil and judicial, in the territory of India shall act in
 aid of the Supreme Court.
-144A. [Special provisions as to disposal of questions relating to
-constitutional validity of laws.] Rep. by the Constitution (Forty-third
-Amendment) Act, 1977, s. 5 (w.e.f. 13-4-1978).
+
+144A.   Special  provisions as to disposal of questions  relating  to
+constitutional  validity of laws.-(1) The minimum number of Judges  of
+the  Supreme  Court who shall sit for the purpose of  determining  any
+question as to the constitutional validity of any Central law or State
+law shall be seven.
+
+(2)  A  Central  law  or  a State law shall  not  be  declared  to  be
+constitutionally invalid by the Supreme Court unless a majority of not
+less  than  two-thirds  of  the  Judges sitting  for   the  purpose  of
+determining the question as to the constitutional validity of such law
+hold it to be constitutionally invalid.
+
 145. Rules of Court, etc.—(1) Subject to the provisions of any law
 made by Parliament, the Supreme Court may from time to time, with the
 approval of the President, make rules for regulating generally the practice and
@@ -1469,7 +1527,7 @@ pertaining to appeals including the time within which appeals to the
 Court are to be entered;
 (c) rules as to the proceedings in the Court for the enforcement of any
 of the rights conferred by Part III;
-(cc) rules as to the proceedings in the Court under article 139A;
+(cc) rules as to the proceedings in the Court under articles 131A and 139A;
 (d) rules as to the entertainment of appeals under sub-clause (c) of
 clause (1) of article 134;
 
@@ -1490,10 +1548,10 @@ which appears to the Court to be frivolous or vexatious or brought for the
 purpose of delay;
 (j) rules as to the procedure for inquiries referred to in clause
 (1) of article 317.
-(2) Subject to the provisions of clause (3), rules made under this article
+(2) Subject to the provisions of article 144A and of clause (3), rules made under this article
 may fix the minimum number of Judges who are to sit for any purpose, and
 may provide for the powers of single Judges and Division Courts.
-(3) The minimum number of Judges who are to sit for the purpose of
+(3) Subject to the provisions of article  144A, the minimum number of Judges who are to sit for the purpose of
 deciding any case involving a substantial question of law as to the
 interpretation of this Constitution or for the purpose of hearing any reference
 under article 143 shall be five:

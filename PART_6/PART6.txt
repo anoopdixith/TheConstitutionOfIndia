@@ -1191,7 +1191,8 @@ THE CONSTITUTION OF INDIA
 
 
 226. Power of High Courts to issue certain writs.—(1)
-Notwithstanding anything in article 32, every High Court shall have power,
+Notwithstanding anything in article 32,but subject to the
+provisions of article 131A and article 226A, every High Court shall have power,
 throughout the territories in relation to which it exercises jurisdiction, to issue
 to any person or authority, including in appropriate cases, any Government,
 within those territories directions, orders or writs, including writs in
@@ -1248,9 +1249,11 @@ derogation of the power conferred on the Supreme Court by clause (2) of article 
 
 THE CONSTITUTION OF INDIA
 
-226A. [Constitutional validity of Central laws not to be considered in
-proceedings under article 226.] Rep. by the Constitution (Forty-third
-Amendment) Act, 1977, s. 8 (w.e.f. 13-4-1978).
+226A.   Constitutional validity of Central laws not to be  considered
+in  proceedings under article 226.-Notwithstanding anything in article
+226,  the High Court shall not consider the constitutional validity of
+any Central law in any proceedings under that article.
+
 
 227. Power of superintendence over all courts by the High Court.—
 (1)  Every  High  Court shall have superintendence  over  all  courts
@@ -1279,7 +1282,8 @@ which is not otherwise subject to appeal or revision.
 228. Transfer of certain cases to High Court.—If the High Court is
 satisfied that a case pending in a court subordinate to it involves a substantial
 question of law as to the interpretation of this Constitution the determination of
-which is necessary for the disposal of the case, it shall withdraw the case and
+which is necessary for the disposal of the case, it shall withdraw the case and, 
+subject to the provisions of article 131A,
 may—
 (a) either dispose of the case itself, or
 (b) determine the said question of law and return the case to the
@@ -1291,9 +1295,41 @@ proceed to dispose of the case in conformity with such judgment.
 
 THE CONSTITUTION OF INDIA
 
-228A. [Special provisions as to disposal of questions relating to
-constitutional validity of State laws.] Rep. by the Constitution (Forty-third
-Amendment) Act, 1977, s. 10 (w.e.f. 13-4-1978).
+
+228A.   Special  provisions as to disposal of questions  relating  to
+constitutional  validity  of State laws.-(1) No High Court shall  have
+jurisdiction  to  declare  any  Central  law  to  be   constitutionally
+invalid.
+
+(2)  Subject  to the provisions of article 131A, the  High  Court
+may determine all questions relating to the constitutional validity of
+any State law.
+
+(3)  The  minimum  number of Judges who shall sit for the  purpose  of
+determining  any question as to the constitutional validity of any
+State law shall be five:
+
+Provided  that where the High Court consists of less than five Judges,
+all the Judges of the High Court may sit and determine such question.
+
+(4)  A State law shall not be declared to be constitutionally  invalid
+by the High Court unless-
+
+(a)  where  the High Court consists of five Judges or more,  not  less
+than  two-thirds of the Judges sitting for the purpose of  determining
+the validity of such law, hold it to be constitutionally invalid;  and
+
+(b)  where  the High Court consists of less than five Judges, all  the
+Judges  of  the  High  Court sitting for the purpose  hold   it  to  be
+constitutionally invalid.
+
+(5)  The provisions of this article shall have effect   notwithstanding
+anything contained in this Part.
+
+Explanation.---In  computing the number of Judges of a High Court  for
+the purposes of this article, a Judge who is disqualified by reason of
+personal or pecuniary bias shall be excluded.
+
 229. Officers and servants and the expenses of High Courts.—(1)
 Appointments of officers and servants of a High Court shall be made by the
 Chief Justice of the Court or such other Judge or officer of the Court as he may
