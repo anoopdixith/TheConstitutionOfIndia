@@ -100,12 +100,8 @@ Right to Freedom
 
 THE CONSTITUTION OF INDIA
 
-(e) to reside and settle in any part of the territory of India; and
-*
-*
-*
-*
-*
+(e) to reside and settle in any part of the territory of India;
+(f) to acquire, hold and dispose of property; and
 (g) to practise any profession, or to carry on any occupation, trade or
 business.
 (2) Nothing in sub-clause (a) of clause (1) shall affect the operation of
@@ -125,7 +121,7 @@ of any existing law in so far as it imposes, or prevent the State from making
 any law imposing, in the interests of the sovereignty and integrity of India or
 public order or morality, reasonable restrictions on the exercise of the right
 conferred by the said sub-clause.
-(5) Nothing in sub-clauses (d) and (e) of the said clause shall affect the
+(5) Nothing in sub-clauses (d), (e) and (f) of the said clause shall affect the
 operation of any existing law in so far as it imposes, or prevent the State from
 making any law imposing, reasonable restrictions on the exercise of any of the
 rights conferred by the said sub-clauses either in the interests of the general
@@ -183,6 +179,7 @@ THE CONSTITUTION OF INDIA
 
 (b) to any person who is arrested or detained under any law providing
 for preventive detention.
+
 (4) No law providing for preventive detention shall authorise the
 detention of a person for a longer period than three months unless—
 (a) an Advisory Board consisting of persons who are, or have been,
@@ -194,6 +191,7 @@ of any person beyond the maximum period prescribed by any law made
 by Parliament under sub-clause (b) of clause (7); or
 (b) such person is detained in accordance with the provisions of any
 law made by Parliament under sub-clauses (a) and (b) of clause (7).
+
 (5) When any person is detained in pursuance of an order made under
 any law providing for preventive detention, the authority making the order
 shall, as soon as may be, communicate to such person the grounds on which the
@@ -294,21 +292,119 @@ choice.
 
 THE CONSTITUTION OF INDIA
 
-(1A) In making any law providing for the compulsory acquisition of any
-property of an educational institution established and administered by a
-minority, referred to in clause (1), the State shall ensure that the amount fixed
-by or determined under such law for the acquisition of such property is such as
-would not restrict or abrogate the right guaranteed under that clause.
+
 (2) The State shall not, in granting aid to educational institutions,
 discriminate against any educational institution on the ground that it is under
 the management of a minority, whether based on religion or language.
-*
-*
-*
-*
-31. [Compulsory acquisition of property.] Rep. by the Constitution
-(Forty-fourth Amendment) Act, 1978, s. 6 (w.e.f. 20-6-1979).
-Saving of Certain Laws
+
+
+Right To Property
+31. (1) No person shall be deprived of his property 
+save by authority of law. 
+Compulsory Acquisition of Property:
+2)  No property shall be compulsorily acquired or requisitioned save
+for a public purpose and save by authority of a law which provides for
+acquisition  or requisitioning of the property for an amount which may
+be  fixed  by such law or which may be determined in  accordance  with
+such  principles and given in such manner as may be specified in  such
+law;   and no such law shall be called in question in any court on the
+ground  that the amount so fixed or determined is not adequate or that
+the  whole or any part of such amount is to be given otherwise than in
+cash: 
+
+Provided  that  in  making  any    law  providing  for  the  compulsory
+acquisition  of any property of an educational institution established
+and  administered by a minority, referred to in clause (1) of  article
+30,  the  State  shall ensure that the amount fixed by  or   determined
+under  such law for the acquisition of such property is such as  would
+not restrict or abrogate the right guaranteed under that clause."; 
+(2A) Where a law does not provide for the transfer of the ownership or right
+ to possession of any property to the State or to a corporation owned or 
+controlled by the State, it shall not be deemed to provide for the 
+compulsory acquisition or requisitioning of property, notwithstanding
+ that it deprives any person of his property.".
+(2B)  Nothing  in  sub-clause (f) of clause (1) of article  19  shall
+affect any such law as is referred to in clause (2).".
+(3) No such law as is referred to in clause (2) made by 
+the Legislature of a State shall have effect unless such law, 
+having been reserved for the consideration of the President, 
+has received his assent. 
+(4) If any Bill pending at the commencement of 
+this Constitution in the Legislature of a State has, after 
+it has been passed by such Legislature, been reserved for 
+the consideration of the President and has received his 
+assent, then, notwithstanding anything in this Constitution, 
+the law so assented to shall not be called in question in 
+any court on the ground that it contravenes the provisions 
+of clause (2). 
+(5)Nothing in Clause (2) shall affect -
+(a) the provisions of any existing law other than 
+a law to which the provisions of clause (6) 
+apply, or 
+(b) the provisions of any law which the state may hereafter make-
+(i)for the purpose of imposing or levying 
+any tax or penalty, or 
+(ii)for the promotion of public health or 
+the prevention of danger to life ot 
+property, or
+(iii)in pursuance of any agreement entered 
+into between the Government of the 
+Dominion of India or the Government 
+of India and the Government of any 
+other country, or otherwise, with res- 
+pect to property declared by law to be 
+evacuee property.
+(6) Any law of the State enacted not more than 
+eighteen months before the commencement of this Consti- 
+tution may within three months from such commencement 
+be submitted to the President for his certification ; and 
+thereupon, if the President by public notification so 
+certifies, it shall not be called in question in any court 
+on the ground thaf it contravenes the provision of clause 
+(2) of this article or has contravened the provisions of 
+sub-section (2) of section 299 of the Government of India 
+Act, 1935. 
+
+NOTES 
+
+Policy underlying the Article : This Article based on 8. 299 of the 
+Government of India Act, 1935, was the result of considerable negotiation 
+and incorporates what was popularly known as the Munshi-Iyengar formula 
+which was agreed to as a compromise between two sets of views. This 
+Article evoked keen controversy in the Constituent Assembly and outside. 
+
+This Article limits the rights of eminent domain. In general, the 
+right of a nation or State to take private property for public use is eminent 
+or paramount. It is a right that transcends private ownership. It is 
+inherent in the nature of sovereignty 'that a government shall have the 
+right 1 to acquire private property for an essential public use even when 
+the owner of the property objects to giving it up. Otherwise, a Govern- 
+ment could not perform its functions, because private property is needed 
+from time to time for fortifications, navy-yards, post-offices, customs 
+houses, school houses, parks, highways, and so on. ' 
+“Property”—meaning of: At the common law 'property’ signified 
+ownership, which was exercised in its primary and fullest sense over 
+physical objects only, and more especially over land. 1 To-day in Consti- 
+tution Law it covers each and all of the valuable elements of ownership, 
+and moreover baa tended at times to merge with the more indefinite rights 
+of 'liberty;' as defined above.
+1.In Early England, it was the custom for the Crown to take private 
+property for its use without giving the owner any compensation at all. The King 
+was supposed to have what was called the right of "purveyance” and this right 
+of the King extended to the taking of land, buildings, cattle, grain and in fact any- 
+thing the King wanted.
+Subtl (2) : "Public Purposes" : When the legislature enacts 
+certain purposes as public or clothes the Executive with authority so to 
+notify, the courts cannot question the enactment. Cf. Wijiasekara v. 
+Vesting, (1919) A. C. 646. 
+
+"Compensation" : It is clear on the language of this Article 
+that a legislation cannot be impugned as not providing a just compen- 
+sation. The question what is a just compensation is a matter for the 
+legislature and so long as some compensation is provided for, the 
+legislation cannot be attacked as invalid. 
+
+
 31A. Saving of laws providing for acquisition of estates, etc.—
 (1) Notwithstanding anything contained in article 13, no law providing for—
 (a) the acquisition by the State of any estate or of any rights therein
@@ -328,7 +424,7 @@ virtue of any agreement, lease or licence for the purpose of searching for,
 or winning, any mineral or mineral oil, or the premature termination or
 cancellation of any such agreement, lease or licence,
 shall be deemed to be void on the ground that it is inconsistent with, or takes
-away or abridges any of the rights conferred by article 14 or article 19:
+away or abridges any of the rights conferred by article 14, article 19 or article 31:
 Provided that where such law is a law made by the Legislature of a State,
 the provisions of this article shall not apply thereto unless such law, having
 been reserved for the consideration of the President, has received his assent:
@@ -378,7 +474,7 @@ THE CONSTITUTION OF INDIA
 Notwithstanding anything contained in article 13, no law giving effect to the
 policy of the State towards securing 1 [all or any of the principles laid down in
 Part IV] shall be deemed to be void on the ground that it is inconsistent with, or
-takes away or abridges any of the rights conferred by article 14 or article 19;
+takes away or abridges any of the rights conferred by article 14, article 19 or article 31;
 2
 and no law containing a declaration that it is for giving effect to such policy
 shall be called in question in any court on the ground that it does not give effect
