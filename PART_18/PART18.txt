@@ -3,11 +3,9 @@ EMERGENCY PROVISIONS
 352. Proclamation of Emergency.—(1) If the President is satisfied that
 a grave emergency exists whereby the security of India or of any part of the
 territory thereof is threatened, whether by war or external aggression or internal disturbance,
- he may, by Proclamation, make a declaration to that effect in respect
-of the whole of India or of such part of the territory thereof as may be specified
-in the Proclamation.
+ he may, by Proclamation, make a declaration to that effect.
 (2) A Proclamation issued under clause (1) 
-(a) may be revoked or varied by a subsequent Proclamation ; 
+(a) may be revoked by a subsequent Proclamation ; 
 (b) shall be laid before each House of Parliament ; 
 (c) shall cease to operate at the expiration of two 
 months unless before the expiration of that 
@@ -27,10 +25,7 @@ date on which the House of the People first sits after its
 reconstitution unless before the expiration of the said period 
 of thirty days a resolution approving the Proclamation has 
 been also passed by the House of the People. 
-(2A)  Where  a  Proclamation issued under clause (1) is varied  by  a
-subsequent Proclamation, the provisions of clause (2) shall, so far as
-may  be,  apply  in relation to such subsequent Proclamation  as   they
-apply in relation to a Proclamation issued under clause (1).
+
 (3) A proclamation of Emergency declaring that the 
 security of India or any part of the territory thereof is 
 threatened by war or by external aggression or by internal 
@@ -69,16 +64,7 @@ imposing duties, or authorising the conferring of powers and the
 imposition of duties, upon the Union or officers and authorities of the
 Union as respects that matter, notwithstanding that it is one which is not
 enumerated in the Union List:
-Provided that where a Proclamation of Emergency is in operation only
-in any part of the territory of India,—
-(i) the executive power of the Union to give directions under
-clause (a), and
-(ii) the power of Parliament to make laws under clause (b),
-shall also extend to any State other than a State in which or in any part of
-which the Proclamation of Emergency is in operation if and in so far as the
-security of India or any part of the territory thereof is threatened by activities in
-or in relation to the part of the territory of India in which the Proclamation of
-Emergency is in operation.
+
 354. Application of provisions relating to distribution of revenues
 while a Proclamation of Emergency is in operation.—(1) The President
 may, while a Proclamation of Emergency is in operation, by order direct that
@@ -142,17 +128,17 @@ People first sits after its reconstitution unless before the expiration of the s
 period of thirty days a resolution approving the Proclamation has been also
 passed by the House of the People.
 (4) A Proclamation so approved shall, unless revoked, cease to operate
-on the expiration of a period of one year from the date of the
+on the expiration of a period of six months from the date of the
 passing  of  the second of the resolutions approving the  Proclamation
 under clause (3):
 Provided that if and so often as a resolution approving the continuance in
 force of such a Proclamation is passed by both Houses of Parliament, the
 Proclamation shall, unless revoked, continue in force for a further period of
-one year from the date on which under this clause it would otherwise have
+six months from the date on which under this clause it would otherwise have
 ceased to operate, but no such Proclamation shall in any case remain in force
 for more than three years:
 Provided further that if the dissolution of the House of the People takes
-place during any such period of one year and a resolution approving the
+place during any such period of six months and a resolution approving the
 continuance in force of such Proclamation has been passed by the Council of
 States, but no resolution with respect to the continuance in force of such
 Proclamation has been passed by the House of the People during the said
@@ -182,13 +168,19 @@ authorities thereof;
 (c) for the President to authorise when the House of the People is
 not in session expenditure from the Consolidated Fund of the State
 pending the sanction of such expenditure by Parliament.
-(2) Any law made in exercise of the power of the Legislature of the State
-by Parliament or the President or other authority referred to in sub-clause (a) of
-clause (1) which Parliament or the President or such other authority would not,
-but for the issue of a Proclamation under article 356, have been competent to
-make shall, after the Proclamation has ceased to operate, continue in force until
-altered or repealed or amended by a competent Legislature or other authority.
-
+(2) Any law made in exercise of the power of the 
+Legislature of the State by Parliament or the President or 
+other authority referred to in sub-clause (a) of clause (1) 
+which Parliament or the President or such other authority 
+would not, but for the issue of a Proclamation under article 
+356, have been competent to make shall, to the extent 
+of the incompetency, cease to have effect on the expiration 
+of a period of one year after the Proclamation has ceased to 
+operate except as respects things done or omitted to be done 
+before the expiration of the said period, unless the provisions 
+which shall so cease to have effect are sooner repealed or re- 
+enacted with or without modification by Act of the appro- 
+priate Legislature. 
 185
 
 THE CONSTITUTION OF INDIA
@@ -201,14 +193,6 @@ but for the provisions contained in that Part be competent to make or to take,
 but any law so made shall, to the extent of the incompetency, cease to have
 effect as soon as the Proclamation ceases to operate, except as respects things
 done or omitted to be done before the law so ceases to have effect:
-Provided that where a Proclamation of Emergency is in operation
-only in any part of the territory of India, any such law may be made, or any
-such executive action may be taken, under this article in relation to or in any
-State or Union territory in which or in any part of which the Proclamation of
-Emergency is not in operation, if and in so far as the security of India or any
-part of the territory thereof is threatened by activities in or in relation to the part
-of the territory of India in which the Proclamation of Emergency is in
-operation.
 359. Suspension of the enforcement of the rights conferred by Part
 III during emergencies.—(1) Where a Proclamation of Emergency is in
 operation, the President may by order declare that the right to move any court
@@ -230,23 +214,10 @@ but for the provisions contained in that Part be competent to make or to take,
 but any law so made shall, to the extent of the incompetency, cease to have
 effect as soon as the order aforesaid ceases to operate, except as respects things
 done or omitted to be done before the law so ceases to have effect:
-Provided that where a Proclamation of Emergency is in operation only in
-any part of the territory of India, any such law may be made, or any such
-executive action may be taken, under this article in relation to or in any State or
-Union territory in which or in any part of which the Proclamation of
-Emergency is not in operation, if and in so far as the security of India or any
-part of the territory thereof is threatened by activities in or in relation to the part
-of the territory of India in which the Proclamation of Emergency is in
-operation.
 
 (2) An order made as aforesaid may extend to the whole or any part of
 the territory of India:
-Provided that where a Proclamation of Emergency is in operation only in
-a part of the territory of India, any such order shall not extend to any other part
-of the territory of India unless the President, being satisfied that the security of
-India or any part of the territory thereof is threatened by activities in or in
-relation to the part of the territory of India in which the Proclamation of
-Emergency is in operation, considers such extension to be necessary.
+
 (3) Every order made under clause (1) shall, as soon as may be after it is
 made, be laid before each House of Parliament.
 

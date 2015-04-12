@@ -27,21 +27,9 @@ detriment;
 the tender age of children are not abused and that citizens are not forced
 by economic necessity to enter avocations unsuited to their age or
 strength;
-(f) that children are given opportunities and facilities to develop in
-a healthy manner and in conditions of freedom and dignity and that
-childhood and youth are protected against exploitation and against moral
-and material abandonment.
-19
+(f) that childhood and youth are protected against exploitation and
+against moral and material abandonment.
 
-20
-
-THE CONSTITUTION OF INDIA
-
-39A. Equal justice and free legal aid.—The State shall secure that the
-operation of the legal system promotes justice, on a basis of equal opportunity,
-and shall, in particular, provide free legal aid, by suitable legislation or schemes
-or in any other way, to ensure that opportunities for securing justice are not
-denied to any citizen by reason of economic or other disabilities.
 40. Organisation of village panchayats.—The State shall take steps to
 organise village panchayats and endow them with such powers and authority as
 may be necessary to enable them to function as units of self-government.
@@ -60,10 +48,7 @@ conditions of work ensuring a decent standard of life and full enjoyment of
 leisure and social and cultural opportunities and, in particular, the State shall
 endeavour to promote cottage industries on an individual or co-operative basis
 in rural areas.
-43A. Participation of workers in management of industries.—The
-State shall take steps, by suitable legislation or in any other way, to secure the
-participation of workers in the management of undertakings, establishments or
-other organisations engaged in any industry.
+
 44. Uniform civil code for the citizens.—The State shall endeavour to
 secure for the citizens a uniform civil code throughout the territory of India.
 45. The State shall endeavour to provide, within a
@@ -93,9 +78,7 @@ shall endeavour to organise agriculture and animal husbandry on modern and
 scientific lines and shall, in particular, take steps for preserving and improving
 the breeds, and prohibiting the slaughter, of cows and calves and other milch
 and draught cattle.
-48A. Protection and improvement of environment and safeguarding
-of forests and wild life.—The State shall endeavour to protect and improve the
-environment and to safeguard the forests and wild life of the country.
+
 49. Protection of monuments and places and objects of national
 importance.—It shall be the obligation of the State to protect every monument
 or place or object of artistic or historic interest, declared by or under law made
