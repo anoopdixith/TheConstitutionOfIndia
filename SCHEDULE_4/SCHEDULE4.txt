@@ -130,11 +130,11 @@ West Bengal …………………………………………….
 23.
 24.
 25.
+
 26.
 27.
 28.
 29.
-30.
 
 THE CONSTITUTION OF INDIA
 
@@ -144,7 +144,7 @@ Himachal Pradesh ………………………………………
 Manipur ………………………..……………………….
 Tripura …………………………………………………
 Meghalaya …………………………..………………….
-Sikkim ………………………………………….………
+
 Mizoram ……………..…………………………………
 Arunachal Pradesh ……………………………..………
 Delhi
@@ -160,9 +160,8 @@ Total
 1
 1
 1
-1
 3
 1
-233
+231
 
 
