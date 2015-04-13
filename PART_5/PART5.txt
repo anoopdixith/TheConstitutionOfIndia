@@ -1289,13 +1289,32 @@ Explanation.— For the purposes of this article, the expression “final
 order” includes an order deciding an issue which, if decided in favour of the
 appellant, would be sufficient for the final disposal of the case.
 133. Appellate jurisdiction of Supreme Court in appeals from High
-Courts in regard to civil matters.— (1) An appeal shall lie to the Supreme
-Court from any judgment, decree or final order in a civil proceeding of a High
-Court in the territory of India if the High Court certifies —
-(a) that the case involves a substantial question of law of general
-importance; and
-(b) that in the opinion of the High Court the said question needs to be
-decided by the Supreme Court.
+Courts in regard to civil matters.— 
+(1) An appeal shall lie to the Supreme Court 
+from any judgment decree or final order in 
+a civil proceeding of a High Court in the 
+appeals from High territory of India if the High Court 
+certifies-
+(a) that the amount or value of the subject-matter 
+of the dispute in the court of first instance and 
+still in dispute on appeal was and is not less 
+than twenty thousand rupees or such other 
+sum as may be specified in that behalf by 
+Parliament by law ; or 
+(b) that the judgment, decree or final order in- 
+volves directly or indirectly some claim or 
+question respecting property of the like amount 
+or value ; or 
+(c) that the case is a fit one for appeal to the 
+Supreme Court ; 
+and, where the judgment, decree or final order appealed 
+from affirms the decision of the court immediately below in 
+any case other than a case referred to in sub-clause (c), if 
+the High Court further certifies that the appeal involves 
+some substantial question of law.
+
+
+
 (2) Notwithstanding anything in article 132, any party appealing to the
 Supreme Court under clause (1) may urge as one of the grounds in such appeal
 that a substantial question of law as to the interpretation of this Constitution has
