@@ -379,9 +379,7 @@ General
 79. Constitution of Parliament.—There shall be a Parliament for the
 Union which shall consist of the President and two Houses to be known
 respectively as the Council of States and the House of the People.
-80. Composition of the Council of States.—(1) Subject  to  the  provisions
-of paragraph  4   of  the  Tenth
-Schedule, the Council of States shall consist of—
+80. Composition of the Council of States.—(1) The Council of States shall consist of—
 (a) twelve members to be nominated by the President in accordance
 with the provisions of clause (3); and
 (b) not more than two hundred and thirty-eight representatives of
@@ -411,7 +409,7 @@ shall be chosen in such manner as Parliament may by law prescribe.
 
 
 81. Composition of the House of the People.—(1) Subject to the
-provisions of article 331 and  paragraph  4  of   the  Tenth   Schedule,
+provisions of article 331,
 the House of the People shall consist of—
 (a) not more than five hundred and thirty members chosen by direct
 election from territorial constituencies in the States, and
