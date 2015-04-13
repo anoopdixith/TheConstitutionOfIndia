@@ -220,27 +220,6 @@ Name
 The territories which immediately before the
 commencement of the Constitution (Thirty-sixth
 Amendment) Act, 1975, were comprised in Sikkim.
-The territories specified in section 6 of the
-North-Eastern Areas (Reorganisation) Act, 1971.
-The territories specified in section 7 of the
-North-Eastern Areas (Reorganisation) Act, 1971.
-The territories specified in section 3 of the Goa,
-Daman and Diu Reorganisation Act, 1987.
-The territories specified in section 3 of the
-Madhya Pradesh Reorganisation Act, 2000.
-The territories specified in section 3 of the Uttar
-Pradesh Reorganisation Act, 2000.
-The territories specified in section 3 of the Bihar
-Reorganisation Act, 2000.
-
-23. Mizoram
-24. Arunachal
-Pradesh
-25. Goa
-26. Chhattisgarh
-27.Uttarakhand
-28. Jharkhand
-
 Name
 1. Delhi
 
@@ -277,10 +256,5 @@ Nagar Haveli
 The territory which immediately before the
 eleventh day of August, 1961 was comprised in
 Free Dadra and Nagar Haveli.
-
-5. Daman and Diu
-
-The territories specified in section 4 of the Goa,
-Daman and Diu Reorganisation Act, 1987.
 
 
