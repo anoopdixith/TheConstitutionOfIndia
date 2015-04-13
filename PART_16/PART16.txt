@@ -4,13 +4,7 @@ SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES
 in the House of the People.—(1) Seats shall be reserved in the House of the
 People for —
 (a) the Scheduled Castes;
-(b) the Scheduled Tribes except the Scheduled Tribes-
-(i) in the tribal areas of Assam;
-(ii) in Nagaland;
-(iii) in Meghalaya;
-(iv) in Arunachal Pradesh; and
-(v) in Mizoram; and";
-
+(b) the Scheduled Tribes except the Scheduled Tribesin the tribal areas of Assam and in Nagaland, and";
 (c) the Scheduled Tribes in the autonomous districts of Assam.
 (2) The number of seats reserved in any State or Union territory for the
 Scheduled Castes or the Scheduled Tribes under clause (1) shall bear, as nearly
@@ -20,11 +14,7 @@ Castes in the State or Union territory or of the Scheduled Tribes in the State o
 Union territory or part of the State or Union territory, as the case may be, in
 respect of which seats are so reserved, bears to the total population of the State
 or Union territory.
-(3) Notwithstanding anything contained in clause (2), the number of
-seats reserved in the House of the People for the Scheduled Tribes in the
-autonomous districts of Assam shall bear to the total number of seats allotted to
-that State a proportion not less than the population of the Scheduled Tribes in
-the said autonomous districts bears to the total population of the State.
+
 
 331. Representation of the Anglo-Indian Community in the House of
 the People.— Notwithstanding anything in article 81, the President may, if he
@@ -41,7 +31,7 @@ THE CONSTITUTION OF INDIA
 332. Reservation of seats for Scheduled Castes and Scheduled Tribes
 in the Legislative Assemblies of the States.—(1) Seats shall be reserved for
 the Scheduled Castes and the Scheduled Tribes, except the Scheduled  Tribes
-in the tribal areas of Assam, in Nagaland and in Meghalaya, in the Legislative Assembly of every State.
+in the tribal areas of Assam and in Nagaland, in the Legislative Assembly of every State.
 (2) Seats shall be reserved also for the autonomous districts in the
 Legislative Assembly of the State of Assam.
 (3) The number of seats reserved for the Scheduled Castes or the

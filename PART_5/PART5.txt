@@ -411,9 +411,9 @@ shall be chosen in such manner as Parliament may by law prescribe.
 81. Composition of the House of the People.—(1) Subject to the
 provisions of article 331,
 the House of the People shall consist of—
-(a) not more than five hundred and thirty members chosen by direct
+(a) not more than five hundred members chosen by direct
 election from territorial constituencies in the States, and
-(b) not more than twenty members to represent the Union territories,
+(b) not more than twenty-five members to represent the Union territories,
 chosen in such manner as Parliament may by law provide.
 (2) For the purposes of sub-clause (a) of clause (1),—
 (a) there shall be allotted to each State a number of seats in the House
@@ -424,9 +424,7 @@ and
 manner that the ratio between the population of each constituency and
 the number of seats allotted to it is, so far as practicable, the same
 throughout the State:
-Provided that the provisions of sub-clause (a) of this clause shall not be
-applicable for the purpose of allotment of seats in the House of the People to
-any State so long as the population of that State does not exceed six millions.
+
 (3) In this article, the expression “population” means the population as
 ascertained at the last preceding census of which the relevant figures have been
 published:
