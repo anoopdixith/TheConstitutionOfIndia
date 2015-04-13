@@ -36,21 +36,7 @@ is satisfied that there is imminent danger thereof.
 
 THE CONSTITUTION OF INDIA
 
-(4) The power conferred on the President by this article shall include the
-power to issue different Proclamations on different grounds, being war or
-external aggression or internal disturbance or imminent danger of war or external
-aggression or internal disturbance, whether or not there is a Proclamation already
-issued by the President under clause (1) and such Proclamation is in operation.
-(5) Notwithstanding anything in this Constitution,-
-(a)  the  satisfaction  of the President mentioned in clause  (1)  and
-clause  (3) shall be final and conclusive and shall not be  questioned
-in any court on any ground;
-(b) subject to the provisions of clause (2), neither the Supreme Court
-nor any other court shall have jurisdiction to entertain any question,
-on any ground, regarding the validity of-
-(i)  a declaration made by Proclamation by the President to the effect
-stated in clause (1);  or
-(ii) the continued operation of such Proclamation.
+
 
 353. Effect of Proclamation of Emergency.—While a Proclamation
 of Emergency is in operation, then—
@@ -147,9 +133,7 @@ from the date on which the House of the People first sits after its reconstituti
 unless before the expiration of the said period of thirty days a resolution
 approving the continuance in force of the Proclamation has been also passed
 by the House of the People:
-(5)  Notwithstanding anything in this Constitution, the  satisfaction
-of the President mentioned in clause (1) shall be final and conclusive
-and shall not be questioned in any court on any ground.
+
 
 357. Exercise of legislative powers under Proclamation issued under
 article 356.— (1) Where by a Proclamation issued under clause (1) of article
@@ -206,14 +190,6 @@ shorter period as may be specified in the order.
 
 THE CONSTITUTION OF INDIA
 
-(1A) While an order made under clause (1) mentioning any of the rights
-conferred by Part III is in operation, nothing in that
-Part conferring those rights shall restrict the power of the State as defined in the
-said Part to make any law or to take any executive action which the State would
-but for the provisions contained in that Part be competent to make or to take,
-but any law so made shall, to the extent of the incompetency, cease to have
-effect as soon as the order aforesaid ceases to operate, except as respects things
-done or omitted to be done before the law so ceases to have effect:
 
 (2) An order made as aforesaid may extend to the whole or any part of
 the territory of India:
@@ -258,15 +234,5 @@ Proclamation issued under this article is in operation to issue directions
 for the reduction of salaries and allowances of all or any class of persons
 serving in connection with the affairs of the Union including the Judges
 of the Supreme Court and the High Courts.
-(5) Notwithstanding anything in this Constitution,-
-(a) the satisfaction of the President mentioned in clause (1) shall be
-final  and conclusive and shall not be questioned in any court on  any
-ground;
-(b) subject to the provisions of clause (2), neither the Supreme Court
-nor any other court shall have jurisdiction to entertain any question,
-on any ground, regarding the validity of-
-(i)  a declaration made by Proclamation by the President to the effect
-stated in clause (1);  or
-(ii) the continued operation of such Proclamation.
 
 
