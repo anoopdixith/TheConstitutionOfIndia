@@ -26,9 +26,15 @@ or left at his office stating the nature of the proceedings, the cause of action
 therefor, the name, description and place of residence of the party by whom
 such proceedings are to be instituted and the relief which he claims.
 
-362. [Rights and privileges of Rulers of Indian States.] Rep. by the
-Constitution (Twenty-sixth Amendment) Act, 1971, s. 2.
-
+362.Rights and privileges of Rulers of Indian States.-
+In the exercise of the power of Parliament or of 
+the Legislature of a State to make laws 
+or in the exercise of the executive power 
+of the Union or of a State, due regard 
+shall be had to the guarantee or assurance given under any 
+such covenant or agreement as is referred to in clause (1) 
+of article 291 with respect to the personal rights, privileges 
+and dignities of the Ruler of an Indian State. 
 191
 
 THE CONSTITUTION OF INDIA
@@ -52,21 +58,7 @@ of the Dominion of India as being such a State; and
 (b) “Ruler” includes the Prince, Chief or other person recognised
 before such commencement by His Majesty or the Government of the
 Dominion of India as the Ruler of any Indian State.
-363A. Recognition granted to Rulers of Indian States to cease and
-privy purses to be abolished.—Notwithstanding anything in this Constitution
-or in any law for the time being in force—
-(a) the Prince, Chief or other person who, at any time before the
-commencement of the Constitution (Twenty-sixth Amendment) Act,
-1971, was recognised by the President as the Ruler of an Indian State or
-any person who, at any time before such commencement, was
-recognised by the President as the successor of such ruler shall, on and
-from such commencement, cease to be recognised as such Ruler or the
-successor of such Ruler;
-(b) on and from the commencement of the Constitution (Twentysixth Amendment) Act, 1971, privy purse is abolished and all rights,
-liabilities and obligations in respect of privy purse are extinguished and
-accordingly the Ruler or, as the case may be, the successor of such
-Ruler, referred to in clause (a) or any other person shall not be paid any
-sum as privy purse.
+
 
 192
 
@@ -196,12 +188,15 @@ and declared by Parliament by law not to be a railway;
 *
 *
 *
-(22) “Ruler” means the Prince, Chief or other person who, at any
-time before the commencement of the Constitution (Twenty-sixth
-Amendment) Act, 1971, was recognised by the President as the Ruler of
-an Indian State or any person who, at any time before such
-commencement, was recognised by the President as the successor of
-such Ruler;
+(22) "Ruler" in relation to an Indian State means 
+the Prince, Chief or other person by whom 
+any such covenant or agreement as is referred 
+to in clause (1) of article 291 was entered into 
+and who for the time being is recognised by 
+the President as the Ruler of the State, and 
+includes any person who for the time being is 
+recognised by the President as the successor of 
+such Ruler ; 
 (23) “Schedule” means a Schedule to this Constitution;
 (24) “Scheduled Castes” means such castes, races or tribes or
 parts of or groups within such castes, races or tribes as are deemed under
