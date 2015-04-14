@@ -4,7 +4,10 @@ ELECTIONS
 in an Election Commission.—(1) The superintendence, direction and control
 of the preparation of the electoral rolls for, and the conduct of, all elections to
 Parliament and to the Legislature of every State and of elections to the offices
-of President and Vice-President held under this Constitution shall be vested in a
+of President and Vice-President held under this Constitution, including 
+the appointment of election tribunals for the decision of 
+doubts and disputes arising out of or in connection with 
+elections to Parliament and to the Legislatures of States shall be vested in a
 Commission (referred to in this Constitution as the Election Commission).
 (2) The Election Commission shall consist of the Chief Election
 Commissioner and such number of other Election Commissioners, if any, as the
