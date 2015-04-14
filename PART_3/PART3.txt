@@ -412,26 +412,11 @@ been reserved for the consideration of the President, has received his assent:
 
 THE CONSTITUTION OF INDIA
 
-Provided further that where any law makes any provision for the
-acquisition by the State of any estate and where any land comprised therein is
-held by a person under his personal cultivation, it shall not be lawful for the
-State to acquire any portion of such land as is within the ceiling limit applicable
-to him under any law for the time being in force or any building or structure
-standing thereon or appurtenant thereto, unless the law relating to the
-acquisition of such land, building or structure, provides for payment of
-compensation at a rate which shall not be less than the market value thereof.
 (2) In this article,—
-(a) the expression “estate” shall, in relation to any local area, have the
-same meaning as that expression or its local equivalent has in the
-existing law relating to land tenures in force in that area and shall also
-include—
-(i) any jagir, inam or muafi or other similar grant and in the States
-of Tamil Nadu and Kerala, any janmam right;
-(ii) any land held under ryotwari settlement;
-(iii) any land held or let for purposes of agriculture or for
-purposes ancillary thereto, including waste land, forest land, land for
-pasture or sites of buildings and other structures occupied by
-cultivators of land, agricultural labourers and village artisans;
+(a) the expression "estate" shall, in relation to any local area, have
+the same meaning as that expression or its local equivalent has in the
+existing law relating to land tenures in force in that area, and shall
+also include any jagir, inam or muafi or other similar grant;
 (b) the expression “rights”, in relation to an estate, shall include any
 rights vesting in a proprietor, sub-proprietor, under-proprietor, tenureholder, raiyat, under-raiyat or other intermediary and any rights or
 privileges in respect of land revenue.
