@@ -12,10 +12,9 @@ Languages
 9. Oriya
 10. Punjabi.
 11. Sanskrit.
-12. Sindhi.
-13. Tamil.
-14. Telugu.
-15. Urdu
+12. Tamil.
+13. Telugu.
+14. Urdu
 
 278
 
