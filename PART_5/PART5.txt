@@ -180,8 +180,8 @@ allowances and privileges as may be determined by Parliament by law and,
 until provision in that behalf is so made, such emoluments, allowances and
 privileges as are specified in the Second Schedule.
 66. Election of Vice-President.—(1) The Vice-President shall be
-elected by the members of an electoral college consisting of the members of
-both Houses of Parliament in accordance with the system of proportional
+elected by the members of both  Houses   of  Parliament
+assembled  at  a  joint meeting in accordance with the system of proportional
 representation by means of the single transferable vote and the voting at such
 election shall be by secret ballot.
 (2) The Vice-President shall not be a member of either House of
@@ -262,10 +262,6 @@ declaration.
 Parliament may by law regulate any matter relating to or 
 connected with the election of a President or Vice-President. 
 
-(4) The election of a person as President or Vice-President shall not
-be  called  in question on the ground of the existence of any  vacancy
-for  whatever  reason  among  the members  of  the   electoral  college
-electing him.
 
 72. Power of President to grant pardons, etc., and to suspend, remit
 or commute sentences in certain cases.—(1) The President shall have the
