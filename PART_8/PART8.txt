@@ -8,18 +8,7 @@ be appointed by him with such designation as he may specify.
 appoint the Governor of a State as the administrator of an adjoining Union
 territory, and where a Governor is so appointed, he shall exercise his functions
 as such administrator independently of his Council of Ministers.
-239A. Creation of local Legislatures or Council of Ministers or both
-for certain Union territories.—(1) Parliament may by law create for the
-Union territory of Goa,  Daman  and  Diu and Pondicherry—
-(a) a body, whether elected or partly nominated and partly elected, to
-function as a Legislature for the Union territory, or
-(b) a Council of Ministers,
-or both with such constitution, powers and functions, in each
-case, as may be specified in the law.
-(2) Any such law as is referred to in clause (1) shall not be deemed to be
-an amendment of this Constitution for the purposes of article 368
-notwithstanding that it contains any provision which amends or has the effect
-of amending this Constitution.
+
 
 
 THE CONSTITUTION OF INDIA
@@ -38,13 +27,7 @@ THE CONSTITUTION OF INDIA
 (b) Lakshadweep;
 (c) Dadra and Nagar Haveli;
 (d) Daman and Diu;
-(e) Puducherry:
-Provided that when any body is created under article 239A to function as
-a Legislature for the Union territory of Goa, Daman and Diu or
-Pondicherry, the President shall not
-make any regulation for the peace, progress and good government of that
-Union territory with effect from the date appointed for the first meeting of the
-Legislature:
+
 
 (2) Any regulation so made may repeal or amend any Act made by
 Parliament or any existing law, which is for the time being applicable to the Union
