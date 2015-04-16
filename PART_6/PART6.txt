@@ -1033,7 +1033,7 @@ by warrant under his hand and seal after consultation with the Chief Justice of
 India, the Governor of the State, and, in the case of appointment of a Judge
 other than the Chief Justice, the Chief Justice of the High Court, and shall hold
 office, in the case of an additional or acting Judge, as provided in article 224,
-and in any other case, until he attains the age of sixty-two years:
+and in any other case, until he attains the age of sixty years:
 Provided that—
 (a) a Judge may, by writing under his hand addressed to the
 President, resign his office;
@@ -1065,9 +1065,7 @@ Constitution during which he has held judicial office in any area which
 was comprised before the fifteenth day of August, 1947, within India as
 defined by the Government of India Act, 1935, or has been an advocate
 of any High Court in any such area, as the case may be.
-(3) If any question arises as to the age of a Judge of a High Court, the
-question shall be decided by the President after consultation with the Chief
-Justice of India and the decision of the President shall be final.
+
 218. Application of certain provisions relating to Supreme Court to
 High Courts.— The provisions of clauses (4) and (5) of article 124 shall apply
 in relation to a High Court as they apply in relation to the Supreme Court with
@@ -1104,12 +1102,7 @@ appointment.
 222. Transfer of a Judge from one High Court to another.—(1) The
 President may, after consultation with the Chief Justice of India, transfer a
 Judge from one High Court to any other High Court.
-(2) When a Judge has been or is so transferred, he shall, during the
-period he serves, after the commencement of the Constitution (Fifteenth
-Amendment) Act, 1963, as a Judge of the other High Court, be entitled to
-receive in addition to his salary such compensatory allowance as may be
-determined by Parliament by law and, until so determined, such compensatory
-allowance as the President may by order fix.
+
 223. Appointment of acting Chief Justice.—When the office of Chief
 Justice of a High Court is vacant or when any such Chief Justice is, by reason
 of absence or otherwise, unable to perform the duties of his office, the duties of
@@ -1132,19 +1125,8 @@ office or is appointed to act temporarily as Chief Justice, the President may
 appoint a duly qualified person to act as a Judge of that Court until the
 permanent Judge has resumed his duties.
 (3) No person appointed as an additional or acting Judge of a High
-Court shall hold office after attaining the age of sixty-two years.
-224A. Appointment of retired Judges at sittings of High Courts.—
-Notwithstanding anything in this Chapter, the Chief Justice of a High Court for
-any State may at any time, with the previous consent of the President, request
-any person who has held the office of a Judge of that Court or of any other
-High Court to sit and act as a Judge of the High Court for that State, and every
-such person so requested shall, while so sitting and acting, be entitled to such
-allowances as the President may by order determine and have all the
-jurisdiction, powers and privileges of, but shall not otherwise be deemed to be,
-a Judge of that High Court:
-Provided that nothing in this article shall be deemed to require any such
-person as aforesaid to sit and act as a Judge of that High Court unless he
-consents so to do.
+Court shall hold office after attaining the age of sixty years.
+
 225. Jurisdiction of existing High Courts.—Subject to the provisions
 of this Constitution and to the provisions of any law of the appropriate
 Legislature made by virtue of powers conferred on that Legislature by this
@@ -1176,14 +1158,8 @@ writs, including writs in the nature of habeas corpus,
 mandamus, prohibition, quo warranto and certiorari, or any 
 of them, for the enforcement of any of the rights conferred 
 by Part III and for any other purpose.
-(1A) The power conferred by clause (1) to issue directions, orders or
-writs  to any Government, authority or person may also be exercised by
-any  High Court exercising jurisdiction in relation to the territories
-within  which  the cause of action, wholly or in part, arises for  the
-exercise  of  such  power,  notwithstanding  that  the   seat  of  such
-Government  or authority or the residence of such person is not within
-those territories.
-(2) The power conferred on a High Court by clause (1) or clause (1A)
+
+(2) The power conferred on a High Court by clause (1)
 shall not be in derogation of the power conferred on the 
 Supreme Court by clause (2) of article 32. 
 

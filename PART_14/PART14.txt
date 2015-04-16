@@ -44,29 +44,33 @@ civil capacities under the Union or a State.—(1) No person who is a member
 of a civil service of the Union or an all-India service or a civil service of a
 State or holds a civil post under the Union or a State shall be dismissed or
 removed by an authority subordinate to that by which he was appointed.
-(2) No such person as aforesaid shall be dismissed or removed or
-reduced in rank except after an inquiry in which he has been informed of the
-charges against him and given a reasonable opportunity of being heard in
-respect of those charges and where it is proposed, after such
-inquiry,  to impose on him any such penalty, until he has been given a
-reasonable  opportunity  of  making   representation  on   the  penalty
-proposes,  but  only on the basis of the evidence adduced during  such
-inquiry:
-Provided that this clause shall not apply---
-(a) where a person is dismissed or removed or reduced in rank on
-the ground of conduct which has led to his conviction on a criminal
-charge; or
-(b) where the authority empowered to dismiss or remove a person
-or to reduce him in rank is satisfied that for some reason, to be recorded
-by that authority in writing, it is not reasonably practicable to hold such
-inquiry; or
-(c) where the President or the Governor, as the case may be, is
-satisfied that in the interest of the security of the State it is not expedient
-to hold such inquiry.
-(3) If, in respect of any such person as aforesaid, a question arises
-whether it is reasonably practicable to hold such inquiry as is referred to in
-clause (2), the decision thereon of the authority empowered to dismiss or
-remove such person or to reduce him in rank shall be final.
+
+(2) No such person as aforesaid shall be dismissed or 
+removed or reduced in rank until he has been given a reason- 
+able opportunity of showing cause against the action proposed 
+to be taken in regard to him :-
+Provided that this clause shall not apply 
+(a) where a person is dismissed or removed or re 
+duced in rank on the ground of conduct which 
+has led to his conviction on a criminal charge ; 
+(b) where an authority empowered to dismiss or 
+remove a person or to reduce him in rank is 
+satisfied that for some reason, to be recorded 
+by that authority in writing, it is not reason- 
+ably practicable to give to that person an 
+opportunity of showing cause ; or 
+(c) where the President or Governor or Rajpra* 
+mukh, as the case may be, is satisfied that in 
+the interest of the security of the State it is 
+not expedient to give to that person such an 
+opportunity. 
+
+(3) If any question arises whether it is reasonably 
+practicable to give to any person an opportunity of showing 
+cause under clause (2), the decision thereon of the authority 
+empowered to dismiss or remove such person or to reduce 
+him in rank, as the case may be, shall be final. 
+
 312. All-India services.—(1) Notwithstanding anything in Part XI, if the Council of States has declared by resolution
 supported by not less than two-thirds of the members present and voting that it
 is necessary or expedient in the national interest so to do, Parliament may by
@@ -144,14 +148,7 @@ Government of India or under the Government of a State, and in computing the
 said period of ten years any period before the commencement of this
 Constitution during which a person has held office under the Crown in India or
 under the Government of an Indian State shall be included.
-(1A) If the office of the Chairman of the Commission becomes vacant or
-if any such Chairman is by reason of absence or for any other reason unable to
-perform the duties of his office, those duties shall, until some person appointed
-under clause (1) to the vacant office has entered on the duties thereof or, as the
-case may be, until the Chairman has resumed his duties, be performed by such
-one of the other members of the Commission as the President, in the case of
-the Union Commission or a Joint Commission, and the Governor of the State
-in the case of a State Commission, may appoint for the purpose.
+
 (2) A member of a Public Service Commission shall hold office for a
 term of six years from the date on which he enters upon his office or until he
 attains, in the case of the Union Commission, the age of sixty-five years, and in
