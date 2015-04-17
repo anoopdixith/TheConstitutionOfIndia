@@ -2,6 +2,7 @@
 #Pass the commit message as the first argument.
 #If applicable, send author's name as the second argument.
 #Comment modification 1: Using this file to test this same file.
+#Comment modification 2:
 message=$1;
 git add *;
 if [[ $# -eq 2 ]] ; then
