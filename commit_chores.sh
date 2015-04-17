@@ -7,7 +7,7 @@ message=$1;
 git add *;
 if [[ $# -eq 2 ]] ; then
     author=$2;
-    git commit --author="$message <>" -m "$1";
+    git commit --author="$author <>" -m "$1";
 else
     git commit -m "$1";
 fi
