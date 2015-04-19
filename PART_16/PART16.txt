@@ -165,9 +165,8 @@ and making such recommendations as they think proper.
 (3) The President shall cause a copy of the report so presented together
 with a memorandum explaining the action taken thereon to be laid before each
 House of Parliament.
-341. Scheduled Castes.—(1) The President may with respect to any
-State, and where it is a State specified in Part A or Part B of the First Schedule, after consultation with the
-Governor or Rajpramukh thereof, by public notification, specify the castes, races or tribes or
+341. Scheduled Castes.—(1) The President may, after consultation with the Governor
+or Rajpramukh of a State, by public notification, specify the castes, races or tribes or
 parts of or groups within castes, races or tribes which shall for the purposes of
 this Constitution be deemed to be Scheduled Castes in relation to that State.
 (2) Parliament may by law include in or exclude from the list of
@@ -175,9 +174,8 @@ Scheduled Castes specified in a notification issued under clause (1) any caste,
 race or tribe or part of or group within any caste, race or tribe, but save as
 aforesaid a notification issued under the said clause shall not be varied by any
 subsequent notification.
-342. Scheduled Tribes.—(1) The President may with respect to any
-State, and where it is a State specified in Part A or Part B of the First Schedule, after consultation with the
-Governor or Rajpramukh thereof, by public notification, specify the tribes or tribal
+342. Scheduled Tribes.—(1) The President may, after consultation with the Governor
+or Rajpramukh of a State, by public notification, specify the tribes or tribal
 communities or parts of or groups within tribes or tribal communities which
 shall for the purposes of this Constitution be deemed to be Scheduled Tribes in
 relation to that State.
