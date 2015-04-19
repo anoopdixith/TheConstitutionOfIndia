@@ -88,7 +88,7 @@ State or under any local or other authority subject to the control of any of the
 said Governments.
 Explanation.—For the purposes of this article, a person shall not be
 deemed to hold any office of profit by reason only that he is the President or
-Vice-President of the Union or the Governor of any State or is a Minister either
+Vice-President of the Union or the Governor of any State or Rajpramukh or Uparajpramukh or is a Minister either
 for the Union or for any State.
 59. Conditions of President's office.—(1) The President shall not be a
 member of either House of Parliament or of a House of the Legislature of any
@@ -204,7 +204,8 @@ THE CONSTITUTION OF INDIA
 
 Explanation.— For the purposes of this article, a person shall not be
 deemed to hold any office of profit by reason only that he is the President or
-Vice-President of the Union or the Governor of any State or is a Minister either
+Vice-President of the Union or the Governor of any State or Rajpramukh or Uparajpramukh 
+or is a Minister either
 for the Union or for any State.
 67. Term of office of Vice-President.—The Vice-President shall hold
 office for a term of five years from the date on which he enters upon his office:
@@ -278,8 +279,8 @@ Union extends;
 conferred by law on any officer of the Armed Forces of the Union to suspend,
 remit or commute a sentence passed by a Court Martial.
 (3) Nothing in sub-clause (c) of clause (1) shall affect the power to
-suspend, remit or commute a sentence of death exercisable by the Governor of a
-State under any law for the time being in force.
+suspend, remit or commute a sentence of death exercisable by the Governor or Rajpramukh 
+of a State under any law for the time being in force.
 
 30
 
@@ -379,7 +380,7 @@ respectively as the Council of States and the House of the People.
 (a) twelve members to be nominated by the President in accordance
 with the provisions of clause (3); and
 (b) not more than two hundred and thirty-eight representatives of
-the States and of the Union territories.
+the States.
 
 ______________________________________________
 1. See Notification No. S. O. 2297, dated the 3rd November, 1958, Gazette of India, Extraordinary,
@@ -390,51 +391,72 @@ ______________________________________________
 THE CONSTITUTION OF INDIA
 
 (2) The allocation of seats in the Council of States to be filled by
-representatives of the States and of the Union territories shall be in accordance
+representatives of the States shall be in accordance
 with the provisions in that behalf contained in the Fourth Schedule.
 (3) The members to be nominated by the President under sub-clause (a)
 of clause (1) shall consist of persons having special knowledge or practical
 experience in respect of such matters as the following, namely:—
 Literature, science, art and social service.
-(4) The representatives of each State in the Council of States shall be
+(4) The representatives of each State specified in Part A or Part B of the First Schedule 
+in the Council of States shall be
 elected by the elected members of the Legislative Assembly of the State in
 accordance with the system of proportional representation by means of the
 single transferable vote.
-(5) The representatives of the Union territories in the Council of States
+(5) The representatives of the States specified in Part of the First Schedule
+ in the Council of States
 shall be chosen in such manner as Parliament may by law prescribe.
 
 
-81. Composition of the House of the People.—(1) Subject to the
-provisions of article 331,
-the House of the People shall consist of—
-(a) not more than five hundred members chosen by direct
-election from territorial constituencies in the States, and
-(b) not more than twenty members to represent the Union territories,
-chosen in such manner as Parliament may by law provide.
-(2) For the purposes of sub-clause (a) of clause (1),—
-(a) there shall be allotted to each State a number of seats in the House
-of the People in such manner that the ratio between that number and the
-population of the State is, so far as practicable, the same for all States;
-and
-(b) each State shall be divided into territorial constituencies in such
-manner that the ratio between the population of each constituency and
-the number of seats allotted to it is, so far as practicable, the same
-throughout the State:
+81. (1) (a) Subject to the provisions of clause (2) and 
+of articles 82 and 331, the House of the 
+People shall consist of not more than five 
+hundred members directly elected by the 
+voters in the States. 
 
-(3) In this article, the expression “population” means the population as
-ascertained at the last preceding census of which the relevant figures have been
-published:
+(b) For the purpose of sub-clause (a), the States 
+shall be divided, grouped or formed into terri- 
+torial constituencies and the number of mem- 
+bers to be allotted to each such constituency 
+shall be so determined as to ensure that there 
+shall be not less than one member for every 
+750,000 of the population and not more than 
+one member for every 500,000 of the popu- 
+lation. 
 
+(c) The ratio between the number of members 
+allotted to each territorial constituency and 
+the population of that constituency as ascer- 
+tained at the last preceding census of which 
+the relevant figures have been published shall, 
+so far as practicable, be the same throughout the 
+territory of India. 
+
+(2) The representation in the House of the People of 
+the territories comprised within the territory of India but 
+not included within any State shall be such as Parliament 
+may by law provide.
+
+(3) Upon the completion of each census, the re- 
+presentation of the several territorial constituencies in the 
+House of the People shall be readjusted by such authority, 
+in such manner and with effect from such date as Parlia- 
+ment may by law determine : 
+
+Provided that such readjustment shall not affect 
+representation in the House of the People until the dissolu- 
+tion of the then existing House. 
 THE CONSTITUTION OF INDIA
 
 34
 
-82. Readjustment after each census.—Upon the completion of each
-census, the allocation of seats in the House of the People to the States and the
-division of each State into territorial constituencies shall be readjusted by such
-authority and in such manner as Parliament may by law determine:
-Provided that such readjustment shall not affect representation in the
-House of the People until the dissolution of the then existing House:
+82. Notwithstanding anything in clause (I) of article 
+81, Parliament may by law provide for the 
+representation in the House of the People 
+of any State specified in Part C of the First
+Schedule or of any territories com-
+prised within the territory of India but not included within 
+any State on a basis or in a manner other than that 
+provided in that clause. 
 
 83. Duration of Houses of Parliament.—(1) The Council of States
 shall not be subject to dissolution, but as nearly as possible one-third of the
@@ -655,8 +677,9 @@ Houses of Parliament and provision shall be made by Parliament by law for the
 vacation by a person who is chosen a member of both Houses of his seat in one
 House or the other.
 (2) No person shall be a member both of Parliament and of a House of
-the Legislature of a State, and if a person is chosen a member both of
-Parliament and of a House of the Legislature of a State, then, at the expiration
+the Legislature of a State specified in Part A or Part B of the First Schedule,
+ and if a person is chosen a member both of
+Parliament and of a House of the Legislature of such a State, then, at the expiration
 of such period as may be specified in rules made by the President, that person’s
 seat in Parliament shall become vacant, unless he has previously resigned his
 seat in the Legislature of the State.
@@ -928,7 +951,7 @@ THE CONSTITUTION OF INDIA
 Court which exercises jurisdiction in relation to any area included in
 the territory of India or which at any time before the commencement
 of this Constitution exercised jurisdiction in relation to any area
-included in a Governor's Province of the Dominion of India;
+included in a Province corresponding to a State specified in Part A of the First Schedule;
 (e) the salary, allowances and pension payable to or in respect of the
 Comptroller and Auditor-General of India;
 (f) any sums required to satisfy any judgment, decree or award of any
@@ -1251,13 +1274,55 @@ the existence or extent of a legal right depends:
 
 55
 
-Provided that the said jurisdiction shall not extend to a dispute arising
-out of any treaty, agreement, covenant, engagement, sanad or other similar
-instrument which, having been entered into or executed before the
-commencement of this Constitution, continues in operation after such
-commencement, or which provides that the said jurisdiction shall not extend to
-such a dispute.
+Provided that the said jurisdiction shall not extend to 
 
+(i) a dispute to which a State specified in Part 
+B of the First Schedule is a party, if the 
+dispute arises out of any provision of a 
+treaty, agreement, covenant, engagement, 
+sanad or other similar instrument which 
+was entered into or executed before the 
+commencement of this Constitution and 
+has, or has been, continued in operation 
+after such commencement ; 
+(ii) a dispute to which any State is a party, if 
+the dispute arises out of any provision 
+of a treaty, agreement, covenant, en- 
+gagement, sanad or other similar instru- 
+ment which provides that the said juris- 
+diction shall not extend to such a 
+dispute. 
+
+NOTES 
+
+Original Jurisdiction of the Supreme Court : This Article deals 
+with the cases in which the Supreme Court will have original jurisdiction. 
+By 'jurisdiction' is meant "the authority which a Court has to decide 
+matters that are litigated before it or to take cognizance of matters pre- 
+sented in a formal way for its decision." (See Halsbury's Laws of 
+England). Under S. 75 of the Australian Constitution, jurisdiction in all 
+matters inter alia ; "between States or between residents of different 
+States or between a State and a resident of another State" is conferred on 
+the High Court of Australia which is the Federal Supreme Court for 
+Australia. Under Article III, S. 1 of the U. S. Constitution, there is a 
+similar provision : " the judicial power shall extend to divergence 
+between two or more States or between a State and citizens of another 
+State or between citizens of different States ". But under the 
+Constitution of India, it will be noted that the original jurisdiction of the 
+Supreme Court is exercisable only 
+(1) between the Government of India and one or more States ; or 
+(2) between the Government of India and any State or States on 
+one side and one or more other States on the other. 
+But this rule is, however, subject to the exceptions mentioned in the 
+proviso. 
+"The existence or extent of a legal right" : This phrase may be 
+paraphrased as a justiciable right. The test of a matter being justiciable 
+is : "Can it be sustained on any principle of law that can be invoked as 
+applicable ?" The expression 'legal right’ would seem also to include 
+equitable rights.
+"A matter in order to be justiciable must be such that a controversy 
+of like nature could arise between individual persons and must be such 
+that it can be determined upon principles of law.
 
 132. Appellate jurisdiction of Supreme Court in appeals from High
 Courts in certain cases.— (1) An appeal shall lie to the Supreme Court from
@@ -1412,10 +1477,11 @@ likely to arise, which is of such a nature and of such public importance that it
 expedient to obtain the opinion of the Supreme Court upon it, he may refer the
 question to that Court for consideration and the Court may, after such hearing
 as it thinks fit, report to the President its opinion thereon.
-(2) The President may, notwithstanding anything in the proviso to article
-131, refer a dispute of the kind mentioned in the said proviso to the Supreme
+(2) The President may, notwithstanding anything in clause (i) of the proviso to article
+131, refer a dispute of the kind mentioned in the said clause to the Supreme
 Court for opinion and the Supreme Court shall, after such hearing as it thinks
 fit, report to the President its opinion thereon.
+
 144. Civil and judicial authorities to act in aid of the Supreme
 Court.—All authorities, civil and judicial, in the territory of India shall act in
 aid of the Supreme Court.
@@ -1553,7 +1619,8 @@ with the approval of the President, prescribe.
 151. Audit reports.—(1) The reports of the Comptroller and AuditorGeneral of India relating to the accounts of the Union shall be submitted to the
 President, who shall cause them to be laid before each House of Parliament.
 (2) The reports of the Comptroller and Auditor-General of India relating
-to the accounts of a State shall be submitted to the Governor of the State, who
+to the accounts of a State shall be submitted to the Governor or 
+Rajpramukh of the State, who
 shall cause them to be laid before the Legislature of the State.
 
 
