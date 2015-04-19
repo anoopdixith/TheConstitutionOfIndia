@@ -2,8 +2,20 @@ PART XII
 FINANCE, PROPERTY, CONTRACTS AND SUITS
 CHAPTER I.—FINANCE
 General
-264. Interpretation.—In this Part, “Finance Commission” means a
-Finance Commission constituted under article 280.
+264. Interpretation.—
+In this Part, unless the context otherwise 
+requires, 
+(a) "Finance Commission" means a Finance 
+Commission constituted under article 280 , 
+(b) " State" does not include a State specified in 
+Part C of the First Schedule ; 
+(c) references to States specified in Part C of the 
+First Schedule shall include references to any 
+territory specified in Part D of the First 
+Schedule and any other territory comprised 
+within the territory of India but not speci- 
+fied in that Schedule. 
+
 265. Taxes not to be imposed save by authority of law.—No tax shall
 be levied or collected except by authority of law.
 266. Consolidated Funds and public accounts of India and of the
@@ -40,8 +52,8 @@ THE CONSTITUTION OF INDIA
 (2) The Legislature of a State may by law establish a Contingency Fund in
 the nature of an imprest to be entitled “the Contingency Fund of the State” into
 which shall be paid from time to time such sums as may be determined by such
-law, and the said Fund shall be placed at the disposal of the Governor of the State
-to enable advances to be made by him out of such Fund for the purposes of
+law, and the said Fund shall be placed at the disposal of the Governor or Rajpramukh 
+of the State to enable advances to be made by him out of such Fund for the purposes of
 meeting unforeseen expenditure pending authorisation of such expenditure by the
 Legislature of the State by law under article 205 or article 206.
 Distribution of Revenues between the Union and the States
@@ -49,8 +61,7 @@ Distribution of Revenues between the Union and the States
 the States.—(1) Such stamp duties and such duties of excise on medicinal and
 toilet preparations as are mentioned in the Union List shall be levied by the
 Government of India but shall be collected—
-(a) in the case where such duties are leviable within any Union
-territory, by the Government of India, and
+(a) in the case where such duties are leviable within any State specified in Part C of the First Schedule, by the Government of India, and
 (b) in other cases, by the States within which such duties are
 respectively leviable.
 (2) The proceeds in any financial year of any such duty leviable within
@@ -67,15 +78,15 @@ assigned to that State.
 (f) taxes on the sale or purchase of newspapers and on advertisements published therein;
 (g) taxes on the sale or purchase of goods other than newspapers, where such sale or purchase takes place in the course of inter-State trade or commerce;
 
-(2) The net proceeds in any financial year of any such duty or tax, except in so far as those proceeds represent proceeds attributable to Union territories, shall not form part of the Consolidated Fund of India, but shall be assigned to the States within which that duty or tax is leviable in that year, and shall be distributed among those States in accordance with such principles of distribution as may be formulated by Parliament by law.
+(2) The net proceeds in any financial year of any such duty or tax, except in so far as those proceeds represent proceeds attributable to State specified in Part C of the First Schedule, shall not form part of the Consolidated Fund of India, but shall be assigned to the States within which that duty or tax is leviable in that year, and shall be distributed among those States in accordance with such principles of distribution as may be formulated by Parliament by law.
 (3) Parliament may by law formulate principles for determining when a sale or purchase of goods takes place in the course of inter-State trade or commerce.
 
 
 270. Taxes levied and collected by the Union and distributed between the Union and the States
 
 (1) Taxes on income other than agricultural income shall be levied and collected by the Government of India and distributed between the Union and the States in the manner provided in clause (2).
-(2) Such percentage, as may be prescribed, of the net proceeds in any financial year of any such tax, except in so far as those proceeds represent proceeds attributable to Union territories or to taxes payable in respect of Union emoluments, shall not form part of the Consolidated Fund of India, but shall be assigned to the States within which that tax is leviable in that year, and shall be distributed among those States in such manner and from such time as may be prescribed.
-(3) For the purposes of clause (2), in each financial year such percentage as may be prescribed of so much of the net proceeds of taxes on income as does not represent the net proceeds of taxes payable in respect of Union emoluments shall be deemed to represent proceeds attributable to Union territories.
+(2) Such percentage, as may be prescribed, of the net proceeds in any financial year of any such tax, except in so far as those proceeds represent proceeds attributable to State specified in Part C of the First Schedule or to taxes payable in respect of Union emoluments, shall not form part of the Consolidated Fund of India, but shall be assigned to the States within which that tax is leviable in that year, and shall be distributed among those States in such manner and from such time as may be prescribed.
+(3) For the purposes of clause (2), in each financial year such percentage as may be prescribed of so much of the net proceeds of taxes on income as does not represent the net proceeds of taxes payable in respect of Union emoluments shall be deemed to represent proceeds attributable to State specified in Part C of the First Schedule.
 (4) In this article -
 (a) "taxes on income" does not include a corporation tax:
 (b) "prescribed" means -
@@ -189,9 +200,47 @@ body for the purposes of the State, municipality, district or other local area
 may, notwithstanding that those taxes, duties, cesses or fees are mentioned in
 the Union List, continue to be levied and to be applied to the same purposes
 until provision to the contrary is made by Parliament by law.
-278. [Agreement with States in Part B of the First Schedule with
-regard to certain financial matters.] Rep. by the Constitution (Seventh
-Amendment) Act, 1956, s. 29 and Sch.
+278. Agreement with States in Part B of the First Schedule with
+regard to certain financial matters.
+(l) Notwithstanding anything in this Consti- 
+tution, the Government of India may, 
+subject to the provisions of clause (2), 
+enter into an agreement with the Govern- 
+meant of a State specified in Part B of the
+First Schedule with respect to 
+
+(a) the levy and collection of any tax or duty 
+leviable by the Government of India in such 
+State and for the distribution of the proceeds 
+thereof otherwise than in accordance with the 
+provisions of this Chapter ; 
+
+(b) the grant of any financial assistance by the 
+Government of India to such State in conse- 
+quence of the loss of any revenue which 
+that State used to derive from any tax or 
+duty leviable under this Constitution by the 
+Government of India or from any other 
+sources ; 
+
+(c) the contribution by such State in respect of any 
+payment made by the Government of India 
+under clause (i) of article 291, 
+
+and, when au agreement is so entered into, the provisions 
+of this Chapter shall in relation to such State have effect 
+subject to the terms of such agreement. 
+
+(2) An agreement entered into under clause (1) shall 
+continue in force for a period not exceeding ten years from 
+the commencement of this Constitution : 
+
+Provided that the President may at any time after 
+the expiration of five years from such commencement 
+terminate or modify any such agreement if after considera- 
+tion of the report of the Finance Commission he thinks it 
+necessary to do so. 
+
 279. Calculation of “net proceeds”, etc.—(1) In the foregoing
 provisions of this Chapter, “net proceeds” means in relation to any tax or duty
 the proceeds thereof reduced by the cost of collection, and for the purposes of
@@ -229,7 +278,13 @@ revenues of the States out of the Consolidated Fund of India;
 (bb) the measures needed to augment the Consolidated Fund of a
 State to supplement the resources of the Panchayats in the State on the basis
 of the recommendations made by the Finance Commission of the State;
-(c) any other matter referred to the Commission by the President
+(c) the continuance or modification of the terms 
+of any agreement entered into by the Gov- 
+ernment of India with the Government of any 
+State specified in Part B of the First Schedule 
+under clause (1) of article 278 or under article 
+306 ; and 
+(d) any other matter referred to the Commission by the President
 in the interests of sound finance.
 (4) The Commission shall determine their procedure and shall have such
 powers in the performance of their functions as Parliament may by law confer
@@ -266,7 +321,7 @@ State, their payment into the public account of the State and the withdrawal of
 moneys from such account and all other matters connected with or ancillary to
 matters aforesaid shall be regulated by law made by the Legislature of the
 State, and, until provision in that behalf is so made, shall be regulated by rules
-made by the Governor of the State.
+made by the Governor or Rajpramukh of the State.
 284. Custody of suitors' deposits and other moneys received by
 public servants and courts.—All moneys received by or deposited with—
 (a) any officer employed in connection with the affairs of the
@@ -389,14 +444,6 @@ as the case may be, the Consolidated Fund of India or the Consolidated Fund of
 the other State, such contribution in respect of the expenses or pension as may
 be agreed, or as may in default of agreement be determined by an arbitrator to
 be appointed by the Chief Justice of India.
-290A. Annual payment to certain Devaswom Funds.—A sum of
-forty-six lakhs and fifty thousand rupees shall be charged on, and paid out of,
-the Consolidated Fund of the State of Kerala every year to the Travancore
-Devaswom Fund; and a sum of thirteen lakhs and fifty thousand rupees shall be
-charged on, and paid out of, the Consolidated Fund of the State of Tamil Nadu
-every year to the Devaswom Fund established in that State for the maintenance
-of Hindu temples and shrines in the territories transferred to that State on the
-1st day of November, 1956, from the State of Travancore-Cochin.
 
 291- (1) Where under any covenant or agreement 
 entered into by the Ruler of any Indian 
@@ -511,25 +558,28 @@ have the same meanings as in article 363.
 underlying the ocean within the territorial 
 waters of India shall vest in the Union 
 and be held for the purposes of the Union.
-298. Power to carry on trade, etc.— The executive power of the Union
-and of each State shall extend to the carrying on of any trade or business and to
-the acquisition, holding and disposal of property and the making of contracts
-for any purpose:
-Provided that—
-(a) the said executive power of the Union shall, in so far as such
-trade or business or such purpose is not one with respect to which
-Parliament may make laws, be subject in each State to legislation by the
-State; and
-(b) the said executive power of each State shall, in so far as such
-trade or business or such purpose is not one with respect to which the
-State Legislature may make laws, be subject to legislation by Parliament.
+
+298. (1) The executive power of the Union and of 
+each State shall extend, subject to any 
+law made by the appropriate Legislature, 
+to the grant, sale, disposition or mortgage 
+of any poroperty held for the purposes of the Union or of 
+such State, as the case may be, and to the purchase or 
+acquisition of property for those purposes respectively, and 
+to the making of contracts. 
+(2) All property acquired for the purposes of the 
+Union or of a State shall vest in the Union or in such State, 
+as the case may be. 
+
+Cf. S. 176 (1) and (2) of the Government of India Act, 1935. 
+
 299. Contracts.—(1) All contracts made in the exercise of the executive
 power of the Union or of a State shall be expressed to be made by the
-President, or by the Governor of the State, as the case may be, and all such
+President, or by the Governor or the Rajpramukh of the State, as the case may be, and all such
 contracts and all assurances of property made in the exercise of that power shall
 be executed on behalf of the President or the Governor by such persons and in
 such manner as he may direct or authorise.
-(2) Neither the President nor the Governor shall be personally liable in
+(2) Neither the President nor the Governor nor the Rajpramukh shall be personally liable in
 respect of any contract or assurance made or executed for the purposes of this
 Constitution, or for the purposes of any enactment relating to the Government
 of India heretofore in force, nor shall any person making or executing any such
