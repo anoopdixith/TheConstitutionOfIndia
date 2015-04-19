@@ -418,7 +418,8 @@ shall be divided, grouped or formed into terri-
 torial constituencies and the number of mem- 
 bers to be allotted to each such constituency 
 shall be so determined as to ensure that there 
-shall be not more than 
+shall be not less than one member for every 750,000 of the population and
+not more than 
 one member for every 500,000 of the popu- 
 lation. 
 
