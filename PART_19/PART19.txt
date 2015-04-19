@@ -12,16 +12,16 @@ Provided further that nothing in this clause shall be construed as
 restricting the right of any person to bring appropriate proceedings against the
 Government of India or the Government of a State.
 (2) No criminal proceedings whatsoever shall be instituted or continued
-against the President, or the Governor of a State, in any court during his term of
+against the President, or the Governor or Rajpramukh of a State, in any court during his term of
 office.
 (3) No process for the arrest or imprisonment of the President, or the
-Governor of a State, shall issue from any court during his term of office.
+Governor or Rajpramukh of a State, shall issue from any court during his term of office.
 (4) No civil proceedings in which relief is claimed against the President,
-or the Governor of a State, shall be instituted during his term of office in any
+or the Governor or Rajpramukh of a State, shall be instituted during his term of office in any
 court in respect of any act done or purporting to be done by him in his personal
 capacity, whether before or after he entered upon his office as President, or as
-Governor of such State, until the expiration of two months next after notice in
-writing has been delivered to the President or the Governor, as the case may be,
+Governor or Rajpramukh of such State, until the expiration of two months next after notice in
+writing has been delivered to the President or the Governor or the Rajpramukh, as the case may be,
 or left at his office stating the nature of the proceedings, the cause of action
 therefor, the name, description and place of residence of the party by whom
 such proceedings are to be instituted and the relief which he claims.
@@ -184,10 +184,26 @@ THE CONSTITUTION OF INDIA
 (a) a tramway wholly within a municipal area, or
 (b) any other line of communication wholly situate in one State
 and declared by Parliament by law not to be a railway;
-*
-*
-*
-*
+(21) "Rajpramukh" means 
+(a) in relation to the State of Hyderabad, the 
+person who for the time being is recog- 
+nised by the President as the Nizam of 
+Hyderabad ; 
+(b) in relation to the State of Jammu and 
+Kashmir or the State of Mysore, the 
+person who for the time being is recog- 
+nised by the President as the Maharaja 
+of that State ; and 
+(c) in relation to any other State specified in 
+Part B of the First Schedule, the person 
+who for the time being is recognised by 
+the President as the Rajpramukh of that 
+State, 
+and includes in relation to any of the said 
+States any person for the time being recog- 
+nised by the President as competent to exercise 
+the powers of the Rajpramukh in relation to 
+that State ; 
 (22) "Ruler" in relation to an Indian State means 
 the Prince, Chief or other person by whom 
 any such covenant or agreement as is referred 
@@ -214,19 +230,15 @@ whether general or local or special, and “tax” shall be construed
 accordingly;
 (29) “tax on income” includes a tax in the nature of an excess
 profits tax;
-
-(30) "Union territory" means any Union territory specified in the
-First Schedule and includes any other territory comprised within the
-territory of India but not specified in that Schedule.
-367. Interpretation.—(1) Unless the context otherwise requires, the
-General Clauses Act, 1897, shall, subject to any adaptations and modifications
-that may be made therein under article 372, apply for the interpretation of this
-Constitution as it applies for the interpretation of an Act of the Legislature of
-the Dominion of India.
+(30) "Uparajpramukh" in relation to any State 
+specified in Part B of the First Schedule means 
+the person who for the time being is recognised 
+by the President as the Uparajpramukhof that 
+State.
 (2) Any reference in this Constitution to Acts or laws of, or made by,
-Parliament, or to Acts or laws of, or made by, the Legislature of a State, shall
+Parliament, or to Acts or laws of, or made by, the Legislature of a State specified in Part A or Part B of the First Schedule, shall
 be construed as including a reference to an Ordinance made by the President or,
-to an Ordinance made by a Governor, as the case may be.
+to an Ordinance made by a Governor or Rajpramukh, as the case may be.
 
 197
 

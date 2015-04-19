@@ -24,8 +24,7 @@ scarcity of goods in any part of the territory of India.
 304. Restrictions on trade, commerce and intercourse among
 States.—Notwithstanding anything in article 301 or article 303, the
 Legislature of a State may by law—
-(a) impose on goods imported from other States or the Union
-territories any tax to which similar goods manufactured or produced in
+(a) impose on goods imported from other States any tax to which similar goods manufactured or produced in
 that State are subject, so, however, as not to discriminate between goods
 so imported and goods so manufactured or produced; and
 (b) impose such reasonable restrictions on the freedom of trade,
@@ -48,9 +47,30 @@ before the commencement of the Constitution (Fourth Amendment) Act, 1955,
 in so far as it relates to, or prevent Parliament or the Legislature of a State from
 making any law relating to, any such matter as is referred to in sub-clause (ii)
 of clause (6) of article 19.
-306. [Power of certain States in Part B of the First Schedule to impose
-restrictions on trade and commerce.] Rep. by the Constitution (Seventh
-Amendment) Act, 1956, s. 29 and Sch.
+
+306. Power of certain States in Part B of the First Schedule to impose
+restrictions on trade and commerce.-
+Notwithstanding anything in the foregoing pro- 
+visions of this Part or in any other pro- 
+visions of this Constitution, any State 
+specified in Part B of the First Schedule 
+which before the commencement of this 
+Constitution was levying any tax or duty 
+on the import of goods into the State from other States 
+or on the export of goods from the State to other States 
+may, if an agreement in that behalf has been entered into 
+between the Government of India and the Government of 
+that State, continue to levy and collect such tax or duty 
+subject to the terms of such agreement and for such period 
+not exceeding ten years from the commencement of this 
+Constitution as may be specified in the agreement : 
+
+Provided that the President may at any time after the 
+expiration of five years from such commencement terminate 
+or modify any such agreement if, after consideration of 
+the report of the Finance Commission constituted under 
+article 280, he thinks it necessary to do so. 
+
 307. Appointment of authority for carrying out the purposes of
 articles 301 to 304.—Parliament may by law appoint such authority as it
 considers appropriate for carrying out the purposes of articles 301, 302, 303

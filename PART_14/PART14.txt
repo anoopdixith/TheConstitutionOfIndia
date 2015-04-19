@@ -2,7 +2,7 @@ PART XIV
 SERVICES UNDER THE UNION AND THE STATES
 CHAPTER I.— SERVICES
 308. Interpretation.—In this Part, unless the context otherwise requires,
-the expression “State” does not include the State of Jammu and Kashmir.
+the expression “State” means a State specified in Part A or Part B of the First Schedule.
 309. Recruitment and conditions of service of persons serving the
 Union or a State.—Subject to the provisions of this Constitution, Acts of the
 appropriate Legislature may regulate the recruitment, and conditions of service
@@ -10,7 +10,7 @@ of persons appointed, to public services and posts in connection with the affair
 of the Union or of any State:
 Provided that it shall be competent for the President or such person as he
 may direct in the case of services and posts in connection with the affairs of the
-Union, and for the Governor of a State or such person as he may direct in the
+Union, and for the Governor or Rajpramukh of a State or such person as he may direct in the
 case of services and posts in connection with the affairs of the State, to make
 rules regulating the recruitment, and the conditions of service of persons
 appointed, to such services and posts until provision in that behalf is made by
@@ -21,13 +21,13 @@ Except as expressly provided by this Constitution, every person who is a
 member of a defence service or of a civil service of the Union or of an allIndia service or holds any post connected with defence or any civil post under
 the Union holds office during the pleasure of the President, and every person
 who is a member of a civil service of a State or holds any civil post under a
-State holds office during the pleasure of the Governor of the State.
+State holds office during the pleasure of the Governor of the State or, as the case may be, the Rajpramukh.
 (2) Notwithstanding that a person holding a civil post under the Union or
 a State holds office during the pleasure of the President or, as the case may be,
-of the Governor of the State, any contract under which a person, not being a
+of the Governor or Rajpramukh of the State, any contract under which a person, not being a
 member of a defence service or of an all-India service or of a civil service of
 the Union or a State, is appointed under this Constitution to hold such a post
-may, if the President or the Governor, as the case may be, deems it necessary in
+may, if the President or the Governor or the Rajpramukh, as the case may be, deems it necessary in
 order to secure the services of a person having special qualifications, provide
 for the payment to him of compensation, if before the expiration of an agreed
 period that post is abolished or he is, for reasons not connected with any
@@ -59,7 +59,7 @@ satisfied that for some reason, to be recorded
 by that authority in writing, it is not reason- 
 ably practicable to give to that person an 
 opportunity of showing cause ; or 
-(c) where the President or Governor or Rajpra* 
+(c) where the President or Governor or Rajpra-
 mukh, as the case may be, is satisfied that in 
 the interest of the security of the State it is 
 not expedient to give to that person such an 
@@ -130,7 +130,7 @@ THE CONSTITUTION OF INDIA
 consequential provisions as may be necessary or desirable for giving effect to
 the purposes of the law.
 (4) The Public Service Commission for the Union, if requested so to do
-by the Governor of a State, may, with the approval of the President, agree to
+by the Governor or Rajpramukh of a State, may, with the approval of the President, agree to
 serve all or any of the needs of the State.
 (5) References in this Constitution to the Union Public Service
 Commission or a State Public Service Commission shall, unless the context
@@ -140,7 +140,7 @@ matter in question.
 316. Appointment and term of office of members.—(1) The Chairman
 and other members of a Public Service Commission shall be appointed, in the
 case of the Union Commission or a Joint Commission, by the President, and in
-the case of a State Commission, by the Governor of the State:
+the case of a State Commission, by the Governor or Rajpramukh of the State:
 Provided that as nearly as may be one-half of the members of every
 Public Service Commission shall be persons who at the dates of their respective
 appointments have held office for at least ten years either under the
@@ -158,7 +158,7 @@ Provided that—
 (a) a member of a Public Service Commission may, by writing under
 his hand addressed, in the case of the Union Commission or a Joint
 Commission, to the President, and in the case of a State Commission, to
-the Governor of the State, resign his office;
+the Governor or Rajpramukh of the State, resign his office;
 
 155
 
@@ -178,7 +178,7 @@ held in accordance with the procedure prescribed in that behalf under article
 145, reported that the Chairman or such other member, as the case may be,
 ought on any such ground to be removed.
 (2) The President, in the case of the Union Commission or a Joint
-Commission, and the Governor in the case of a State Commission, may
+Commission, and the Governor or Rajpramukh in the case of a State Commission, may
 suspend from office the Chairman or any other member of the Commission in
 respect of whom a reference has been made to the Supreme Court under clause
 (1) until the President has passed orders on receipt of the report of the Supreme
@@ -206,7 +206,7 @@ THE CONSTITUTION OF INDIA
 318. Power to make regulations as to conditions of service of
 members and staff of the Commission.—In the case of the Union
 Commission or a Joint Commission, the President and, in the case of a State
-Commission, the Governor of the State may by regulations—
+Commission, the Governor or Rajpramukh of the State may by regulations—
 (a) determine the number of members of the Commission and their
 conditions of service; and
 (b) make provision with respect to the number of members of the
@@ -273,10 +273,11 @@ Government of an Indian State, in a civil capacity, and any question as to
 the amount of any such award,
 and it shall be the duty of a Public Service Commission to advise on any matter
 so referred to them and on any other matter which the President, or, as the case
-may be, the Governor of the State, may refer to them:
+may be, the Governor or Rajpramukh of the State, may refer to them:
 Provided that the President as respects the all-India services and also as
 respects other services and posts in connection with the affairs of the Union,
-and the Governor, as respects other services and posts in connection with the
+and the Governor or Rajpramukh, as the case may be,
+ as respects other services and posts in connection with the
 affairs of a State, may make regulations specifying the matters in which either
 generally, or in any particular class of case or in any particular circumstances, it
 shall not be necessary for a Public Service Commission to be consulted.
@@ -290,7 +291,7 @@ be consulted as respects the manner in which any provision referred to in clause
 (4) of article 16 may be made or as respects the manner in which effect may be
 given to the provisions of article 335.
 (5) All regulations made under the proviso to clause (3) by the President
-or the Governor of a State shall be laid for not less than fourteen days before
+or the Governor or Rajpramukh of a State shall be laid for not less than fourteen days before
 each House of Parliament or the House or each House of the Legislature of the
 State, as the case may be, as soon as possible after they are made, and shall be
 subject to such modifications, whether by way of repeal or amendment, as both

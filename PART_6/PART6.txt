@@ -2,12 +2,10 @@ PART VI
 THE STATES
 CHAPTER I.—GENERAL
 152. Definition.—In this Part, unless the context otherwise requires, the
-expression “State” does not include the State of Jammu and Kashmir.
+expression “State” means a State specified in Part A of the First Schedule.
 CHAPTER II.—THE EXECUTIVE
 The Governor
 153. Governors of States.—There shall be a Governor for each State:
-Provided that nothing in this article shall prevent the appointment of the
-same person as Governor for two or more States.
 154. Executive power of State.—(1) The executive power of the State
 shall be vested in the Governor and shall be exercised by him either directly or
 through officers subordinate to him in accordance with this Constitution.
@@ -49,9 +47,6 @@ his official residences and shall be also entitled to such emoluments,
 allowances and privileges as may be determined by Parliament by law and,
 until provision in that behalf is so made, such emoluments, allowances and
 privileges as are specified in the Second Schedule.
-(3A) Where the same person is appointed as Governor of two or more
-States, the emoluments and allowances payable to the Governor shall be allocated
-among the States in such proportion as the President may by order determine.
 (4) The emoluments and allowances of the Governor shall not be
 diminished during his term of office.
 159. Oath or affirmation by the Governor.—Every Governor and
@@ -180,13 +175,13 @@ CHAPTER III.—THE STATE LEGISLATURE
 General
 168. Constitution of Legislatures in States.—(1) For every State there
 shall be a Legislature which shall consist of the Governor, and—
-(a) in the States of Andhra Pradesh, Bihar, 1[Madhya Pradesh],
-Maharashtra, Karnataka, 2[Tamil Nadu] and Uttar Pradesh, two Houses;
+(a) in the States of Bihar, Bombay,Madras, Punjab, The United Provinces and West Bengal, two Houses;
 (b) in other States, one House.
 (2) Where there are two Houses of the Legislature of a State, one shall
 be known as the Legislative Council and the other as the Legislative Assembly,
 and where there is only one House, it shall be known as the Legislative
 Assembly.
+
 169. Abolition or creation of Legislative Councils in States.—(1)
 Notwithstanding anything in article 168, Parliament may by law provide for the
 abolition of the Legislative Council of a State having such a Council or for the
@@ -200,43 +195,48 @@ provisions of the law and may also contain such supplemental, incidental and
 consequential provisions as Parliament may deem necessary.
 (3) No such law as aforesaid shall be deemed to be an amendment of this
 Constitution for the purposes of article 368.
-170. Composition of the Legislative Assemblies.—(1) Subject to the
-provisions of article 333, the Legislative Assembly of each State shall consist
-of not more than five hundred, and not less than sixty, members chosen by
-direct election from territorial constituencies in the State.
 
-______________________________________________
-1.
 
-No date has been appointed under s. 8(2) of the Constitution (Seventh Amendment) Act, 1956, for the
-insertion of the words “Madhya Pradesh” in this sub-clause.
-2. Ins. by Act 16 of 2010, s. 3 (Date yet to be notified).
+170.(1) Subject to the provisions of article 333, the 
 
-69
+Legislative Assembly of each State shall 
+be composed of members chosen by direct 
+election. 
 
-THE CONSTITUTION OF INDIA
+(2) The representation of each territorial constituency 
+in the Legislative Assembly of a State shall be on the basis 
+of the population of that constituency as ascertained at the 
+last preceding census of which the relevant figures have 
+been published and shall, save in the case of the autonomous 
+districts of Assam and the constituency comprising the 
+cantonment and municipality of Shillong, be on a scale of 
+not more than one member for every seventy-five thousand 
+of the population : 
 
-(2) For the purposes of clause (1), each State shall be divided into
-territorial constituencies in such manner that the ratio between the population
-of each constituency and the number of seats allotted to it shall, so far as
-practicable, be the same throughout the State.
-Explanation.-In this clause, the expression "population" means the population as ascertained at the 
-last preceding census of which the relevant figures have been published.
-Provided that the reference in this Explanation to the last preceding
-census of which the relevant figures have been published shall, until the
-relevant figures for the first census taken after the year 2000 have been
-published, be construed as a reference to the 1971 census.
-(3) Upon the completion of each census, the total number of seats in the
-Legislative Assembly of each State and the division of each State into territorial
-constituencies shall be readjusted by such authority and in such manner as
-Parliament may by law determine:
-Provided that such readjustment shall not affect representation in the
-Legislative Assembly until the dissolution of the then existing Assembly:
+Provided that the total number of members in the 
+Legislative Assembly of a State shall in no case be more than 
+five hundred or less than sixty. 
 
+(3) The ratio between the number of members to be 
+allotted to each territorial constituency in a State and the 
+population of that constituency as ascertained at the last 
+preceding census of which the relevant figures have been 
+published shall, so far as practicable, be the same through- 
+out the State. 
+
+(4) Upon the completion of each census, the repre- 
+sentation of the several territorial constituencies in the 
+Legislative Assembly of each State shall be readjusted by 
+such authority, in such manner and with effect from such 
+date as Parliament may by law determine : 
+
+Provided that such readjustment shall not affect repre- 
+sentation in the Legislative Assembly until the dissolution 
+of the then existing Assembly. 
 
 171. Composition of the Legislative Councils.—(1) The total number
 of members in the Legislative Council of a State having such a Council shall
-not exceed one third of the total number of members in the Legislative
+not exceed one fourth of the total number of members in the Legislative
 Assembly of that State:
 Provided that the total number of members in the Legislative Council of
 a State shall in no case be less than forty.
@@ -1003,12 +1003,14 @@ President and assented to by him.
 
 
 CHAPTER V.—THE HIGH COURTS IN THE STATES
-214. High Courts for States.— There shall be a High Court for each State.
-*
-*
-*
-*
-
+214. High Courts for States.— (1)There shall be a High Court for each State.
+(2) For the purposes of this Constitution the High 
+Court exercising jurisdiction in relation to any Province 
+immediately before the commencement of this Constitution 
+shall be deemed to be the High Court for the corresponding 
+State. 
+(3) The provisions of this Chapter shall apply to every 
+High Court referred to in this article. 
 THE CONSTITUTION OF INDIA
 
 89
@@ -1019,21 +1021,17 @@ power to punish for contempt of itself.
 216. Constitution of High Courts.—Every High Court shall consist of a
 Chief Justice and such other Judges as the President may from time to time
 deem it necessary to appoint.
-*
-
-*
-
-*
-
-*
+Provided that the Judges so appointed shall at no 
+time exceed in number such maximum number as the 
+President may, from time to time, by order fix in relation 
+to that Court. 
 
 217. Appointment and conditions of the office of a Judge of a High
 Court.—(1) Every Judge of a High Court shall be appointed by the President
 by warrant under his hand and seal after consultation with the Chief Justice of
 India, the Governor of the State, and, in the case of appointment of a Judge
-other than the Chief Justice, the Chief Justice of the High Court, and shall hold
-office, in the case of an additional or acting Judge, as provided in article 224,
-and in any other case, until he attains the age of sixty years:
+other than the Chief Justice, the Chief Justice of the High Court, and 
+shall hold office until he attains the age of sixty years:
 Provided that—
 (a) a Judge may, by writing under his hand addressed to the
 President, resign his office;
@@ -1072,7 +1070,7 @@ in relation to a High Court as they apply in relation to the Supreme Court with
 the substitution of references to the High Court for references to the Supreme
 Court.
 219. Oath or affirmation by Judges of High Courts.—Every person
-appointed to be a Judge of a High Court shall, before he enters upon his office,
+appointed to be a Judge of a High Court in a  State shall, before he enters upon his office,
 make and subscribe before the Governor of the State, or some person appointed
 in that behalf by him, an oath or affirmation according to the form set out for
 the purpose in the Third Schedule.
@@ -1081,14 +1079,18 @@ the purpose in the Third Schedule.
 
 THE CONSTITUTION OF INDIA
 
-220. Restriction on practice after being a permanent Judge.—No
-person who, after the commencement of this Constitution, has held office as a
-permanent Judge of a High Court shall plead or act in any court or before any
-authority in India except the Supreme Court and the other High Courts.
-Explanation.—In this article, the expression “High Court” does not
-include a High Court for a State specified in Part B of the First Schedule as it
-existed before the commencement of the Constitution (Seventh Amendment)
-Act, 1956.
+220. No person who has held office as a Judge of a 
+High Court after the commencement of 
+this Constitution shall plead or act in any 
+authority by Judges. court or before any authority within the 
+territory of India. 
+
+NOTES 
+
+This Article is designed to prohibit retired Judges from practising 
+in any court or before any authority in the territory of India. 
+
+
 221. Salaries, etc., of Judges.— (1) There shall be paid to the Judges of
 each High Court such salaries as are specified in the
 Second Schedule.
@@ -1099,9 +1101,16 @@ such allowances and rights as are specified in the Second Schedule:
 Provided that neither the allowances of a Judge nor his rights in respect
 of leave of absence or pension shall be varied to his disadvantage after his
 appointment.
+
 222. Transfer of a Judge from one High Court to another.—(1) The
 President may, after consultation with the Chief Justice of India, transfer a
-Judge from one High Court to any other High Court.
+Judge from one High Court to any other High Court within the territory of India.
+(2) When a Judge is so transferred, he shall, during 
+the period he serves as a Judge of the other Court, be 
+entitled to receive in addition to his salary such compensatory 
+allowance as may be determined by Parliament by law and, 
+until so determined, such compensatory allowance as the 
+President may by order fix. 
 
 223. Appointment of acting Chief Justice.—When the office of Chief
 Justice of a High Court is vacant or when any such Chief Justice is, by reason
@@ -1113,19 +1122,27 @@ the President may appoint for the purpose.
 
 THE CONSTITUTION OF INDIA
 
-224. Appointment of additional and acting Judges.—(1) If by reason
-of any temporary increase in the business of a High Court or by reason of
-arrears of work therein, it appears to the President that the number of the
-Judges of that Court should be for the time being increased, the President may
-appoint duly qualified persons to be additional Judges of the Court for such
-period not exceeding two years as he may specify.
-(2) When any Judge of a High Court other than the Chief Justice is by
-reason of absence or for any other reason unable to perform the duties of his
-office or is appointed to act temporarily as Chief Justice, the President may
-appoint a duly qualified person to act as a Judge of that Court until the
-permanent Judge has resumed his duties.
-(3) No person appointed as an additional or acting Judge of a High
-Court shall hold office after attaining the age of sixty years.
+224. Notwithstanding anything in this Chapter, the 
+Attendance of retired chief Justice of a High Court for any 
+judges at sittings of High State may at any time, with the previous 
+Courts - consent of the President, request any 
+person who has held the office of a Judge of that Court or 
+of any other High Court to sit and act as a Judge of the 
+High Court for that State, and every such person so 
+requested shall, while so sitting and acting, be entitled to 
+such allowances as the President may by order determine 
+and have all the jurisdiction, powers and privileges of, but 
+shall not otherwise be deemed to be, a Judge of that High 
+Court : 
+
+Provided that nothing in this article shall be 
+deemed to require any such person as aforesaid to sit and 
+act as a Judge of that High Court unless he consents so to do. 
+
+NOTES 
+This Article is based on S. 8 of the Supreme Court of Judidature 
+(Consolidation) Act, 1925 (15 and 16 Geo, 5-Ch. 49). See also Article 
+128, ante. 
 
 225. Jurisdiction of existing High Courts.—Subject to the provisions
 of this Constitution and to the provisions of any law of the appropriate
@@ -1211,7 +1228,8 @@ THE CONSTITUTION OF INDIA
 Appointments of officers and servants of a High Court shall be made by the
 Chief Justice of the Court or such other Judge or officer of the Court as he may
 direct:
-Provided that the Governor of the State may by rule require that in such
+Provided that the Governor of the State in which the High Court has its principal seat
+may by rule require that in such
 cases as may be specified in the rule no person not already attached to the
 Court shall be appointed to any office connected with the Court save after
 consultation with the State Public Service Commission.
@@ -1222,54 +1240,70 @@ some other Judge or officer of the Court authorised by the Chief Justice to
 make rules for the purpose:
 Provided that the rules made under this clause shall, so far as they relate
 to salaries, allowances, leave or pensions, require the approval of the Governor
-of the State.
+of the State in which the High Court has its principal seat.
 (3) The administrative expenses of a High Court, including all salaries,
 allowances and pensions payable to or in respect of the officers and servants of
 the Court, shall be charged upon the Consolidated Fund of the State, and any
 fees or other moneys taken by the Court shall form part of that Fund.
-230. Extension of jurisdiction of High Courts to Union territories.—
-(1) Parliament may by law extend the jurisdiction of a High Court to, or
-exclude the jurisdiction of a High Court from, any Union territory.
-(2) Where the High Court of a State exercises jurisdiction in relation to a
-Union territory,—
-(a) nothing in this Constitution shall be construed as empowering the
-Legislature of the State to increase, restrict or abolish that jurisdiction;
-and
 
-THE CONSTITUTION OF INDIA
 
-96
+230, Parliament may by law -
+(a)extend the jurisdiction of a 
+High Court to, Or 
+(b) exclude the jurisdiction of a High Court from, 
+any State specified in the First Schedule other than, or any 
+area not within, the State in which the High Court has its 
+principal seat. 
 
-(b) the reference in article 227 to the Governor shall, in relation to
-any rules, forms or tables for subordinate courts in that territory, be
-construed as a reference to the President.
-231. Establishment of a common High Court for two or more
-States.—(1) Notwithstanding anything contained in the preceding provisions of
-this Chapter, Parliament may by law establish a common High Court for two or
-more States or for two or more States and a Union territory.
-(2) In relation to any such High Court,—
-(a) the reference in article 217 to the Governor of the State shall
-be construed as a reference to the Governors of all the States in relation
-to which the High Court exercises jurisdiction;
-(b) the reference in article 227 to the Governor shall, in relation to
-any rules, forms or tables for subordinate courts, be construed as a
-reference to the Governor of the State in which the subordinate courts
-are situate; and
-(c) the references in articles 219 and 229 to the State shall be
-construed as a reference to the State in which the High Court has its
-principal seat:
-Provided that if such principal seat is in a Union territory, the references
-in articles 219 and 229 to the Governor, Public Service Commission,
-Legislature and Consolidated Fund of the State shall be construed respectively
-as references to the President, Union Public Service Commission, Parliament
-and Consolidated Fund of India.
-*
+231. Where a High Court exercises jurisdiction in 
+relation to any area outside the State in 
+which it has its principal seat, nothing in 
+this Constitution shall be construed 
+( a ) as empowering the Legislature of 
+the State in which the Court has its 
+principal seat to increase, restrict or 
+abolish that jurisdiction ; 
 
-*
+(b) as empowering the Legislature of a State 
+specified in Part A or Part B of the First 
+Schedule in which any such area is situate, to 
+abolish that jurisdiction ; or 
 
-*
+(c) as preventing the Legislature having power to 
+make laws in that behalf for any such area, 
+from passing, subject to the provisions of 
+clause (6), such laws with respect to the 
+jurisdiction of the Court in relation to that 
+area as it would be competent to pass if the 
+principal seat of the Court were in that area. 
 
-*
+232. Where a High Court exercises jurisdiction in 
+relation to more than one State specified 
+in the First Schedule or in relation to a 
+State and an area not forming part of the State— 
+
+(a) references in this Chapter to the Governor in 
+relation to the Judges of High Court shall 
+be construed as references to the Governor 
+of the State in which the Court has its 
+principal seat ; 
+
+(b) the reference to the approval by the Governor 
+of rules, forms and tables for subordinate 
+courts shall be construed as a reference to the 
+approval thereof by the Governor or the 
+Rajpramukh of the State in which the sub- 
+ordinate court is situate, or if it is situate in 
+an area not forming part of any State specified 
+in Part A or Part B of the First Schedule, by 
+the President ; and 
+
+(c) references to the Consolidated Fund of the 
+State shall be construed as references to the 
+Consolidated Fund of the State in which the 
+Court has its principal seat.
+
+
 
 CHAPTER VI.—SUBORDINATE COURTS
 233. Appointment of district judges.—(1) Appointments of persons to

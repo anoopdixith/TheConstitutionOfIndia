@@ -86,28 +86,21 @@ THE CONSTITUTION OF INDIA
 Provided that the recommendation of the Constituent Assembly of the
 State referred to in clause (2) shall be necessary before the President issues
 such a notification.
-371. Special provision with respect to the States of Maharashtra and
-Gujarat.— *
-*
-*
-*
-*
-(2) Notwithstanding anything in this Constitution, the President may by
-order made with respect to the State of Maharashtra or Gujarat, provide for any
-special responsibility of the Governor for—
-(a) the establishment of separate development boards for Vidarbha,
-Marathwada, and the rest of Maharashtra or, as the case may be,
-Saurashtra, Kutch and the rest of Gujarat with the provision that a report
-on the working of each of these boards will be placed each year before
-the State Legislative Assembly;
-(b) the equitable allocation of funds for developmental expenditure
-over the said areas, subject to the requirements of the State as a whole;
-and
-(c) an equitable arrangement providing adequate facilities for
-technical education and vocational training, and adequate opportunities
-for employment in services under the control of the State Government, in
-respect of all the said areas, subject to the requirements of the State as a
-whole.
+
+
+371. Notwithstanding anything in this Constitution, 
+during a period of ten years from the 
+commencement thereof, or during such 
+longer or shorter period as Parliament 
+may by law provide in respect of any 
+State, the Government of every State specified in Part B 
+of the First Schedule shall be under the general control of, 
+and comply with such particular directions, if any, as may 
+from time to time be given by, the President : 
+
+Provided that the President may by order direct that 
+the provisions of this article shall not apply to any State 
+specified in the order. 
 
 
 205
@@ -161,24 +154,7 @@ at the expiration of six weeks from the first meeting after such commencement
 of the Legislative Assembly of that State functioning under clause (1) of article
 382, and nothing in this article shall be construed as continuing any such
 Ordinance in force beyond the said period.
-372A. Power of the President to adapt laws.—(1) For the purposes of
-bringing the provisions of any law in force in India or in any part thereof,
-immediately before the commencement of the Constitution (Seventh
-Amendment) Act, 1956, into accord with the provisions of this Constitution as
-amended by that Act, the President may by order made before the first day of
-November, 1957, make such adaptations and modifications of the law, whether
-by way of repeal or amendment, as may be necessary or expedient, and provide
-that the law shall, as from such date as may be specified in the order, have
-effect subject to the adaptations and modifications so made, and any such
-adaptation or modification shall not be questioned in any court of law.
 
-214
-
-THE CONSTITUTION OF INDIA
-
-(2) Nothing in clause (1) shall be deemed to prevent a competent
-Legislature or other competent authority from repealing or amending any law
-adapted or modified by the President under the said clause.
 373. Power of President to make order in respect of persons under
 preventive detention in certain cases.—Until provision is made by Parliament
 under clause (7) of article 22, or until the expiration of one year from the
@@ -280,15 +256,241 @@ case may be, and shall, notwithstanding anything in clauses (1) and (2) of artic
 316 but subject to the proviso to clause (2) of that article, continue to hold office
 until the expiration of their term of office as determined under the rules which were
 applicable immediately before such commencement to such members.
-378A. Special provision as to duration of Andhra Pradesh Legislative
-Assembly.—Notwithstanding anything contained in article 172, the Legislative
-Assembly of the State of Andhra Pradesh as constituted under the provisions of
-sections 28 and 29 of the States Reorganisation Act, 1956, shall, unless sooner
-dissolved, continue for a period of five years from the date referred to in the said
-section 29 and no longer and the expiration of the said period shall operate as a
-dissolution of that Legislative Assembly.
-379.—391. Rep. by the Constitution (Seventh Amendment) Act, 1956, s.
-29 and Sch.
+
+
+379 Provisions as to provisional Parliament and the Speaker  and Deputy Speaker thereof
+(1) Until both Houses of Parliament have been 
+duly constituted and summoned to meet 
+for the first session under the provisions 
+of this Constitution, the body functioning 
+as the Constituent Assembly of the 
+Dominion of India immediately before the commencement 
+of this Constitution shall be the provisional Parliament 
+and shall exercise all the powers and perform all the duties 
+conferred by the provisions of this Constitution on Par- 
+liament 
+
+Explanation. For the purposes of this clause, the 
+Constituent Assemby of the Dominion of India includes 
+
+(i) the members chosen to represent any State 
+or other territory for which representation is 
+provided under clause (2), and 
+
+(ii) the members chosen to fill casual vacancies 
+in the said Assembly. 
+
+(2) The Parliament may by rules provide for 
+
+(a) the representation in the provisional Parliament 
+functioning under clause (1) of any State or 
+other territory which was not represented in 
+the Constituent Assembly of the Dominion 
+of India immediately before the commence- 
+ment of this Constitution, 
+
+(b) the manner in which the representatives of 
+such States or other territories in the pro* 
+visional Parliament shall be chosen, and 
+
+(c) the qualifications to be possessed by such repre- 
+sentatives. 
+
+(3) If a member of the Constituent Assembly of the 
+Dominion of India was, on the sixth day of October, 1949, 
+or thereafter at any time before the commencement of this 
+Constitution, a member of a House of the Legislature of a 
+Governor's Province or of an Indian State corresponding to 
+any State specified in Part B of the First Schedule or a 
+Minister for any such State, then, as from the commence- 
+ment of this Constitution the seat of such member in the 
+Constituent Assembly shall, unless he has ceased to be a 
+member of that Assembly earlier, become vacant and every 
+such vacancy shall be deemed to be a casual vacancy. 
+
+(4) Notwithstanding that any such vacancy in the 
+Constituent Assembly of the Dominion of India as is men- 
+tioned in clause (3) has not occurred under that clause, steps 
+may be taken before the commencement of this Constitution 
+for the filling of such vacancy, but any person chosen before 
+such commencement to fill the vacancy shall not be entitled 
+to take his seat in the said Assembly until after the vacancy 
+has so occurred. 
+
+(5) Any person holding office immediately before the' 
+commencement of this Constitution as Speaker or Deputy 
+Speaker of the Constituent Assembly when functioning as 
+the Dominion Legislature under the Government of India 
+Act, 1935, shall on such commencement be the Speaker or, 
+as the case may be, the Deputy Speaker of the provisional 
+Parliament functioning under clause (1). 
+
+380. Provision as to President - (1) Such person as the Constituent Assembly of 
+the Dominion of India shall have elected 
+in that behalf shall be the President of 
+India until a President has been elected in 
+accordance with the provisions contained in Chapter I of 
+Part V and has entered upon his office. 
+
+(2) In the event of the occurrence of any vacancy 
+in the office of the President so elected by the Constituent 
+Assembly of the Dominion of India by reason of his death, 
+resignation, or removal, or otherwise, it shall be filled by a 
+person elected in that behalf by the provisional Parliament 
+functioning under article 379, and until a person is so elected, 
+the Chief Justice of India shall act as President. 
+
+381. Council of Ministers of the President—
+Such persons as the President may appoint in 
+that behalf shall become members of the President under 
+this Constitution, and, until appointments 
+are so made, all persons holding office as Ministers for the 
+Dominion of India immediately before the commencement 
+of this Constitution shall on such commencement become, 
+and shall continue to hold office as, members of the Council 
+of Ministers of the President under this Constitution. 
+
+382. Provisions as to provisional Legislatures for States in Part A of the First Schedule—
+(1) Until the House or Houses of the Legislature 
+of each State specified in Part A of the 
+First Schedule has or have been duly con- 
+stituted and summoned to meet for the 
+first session under the provisions of this 
+Constitution, the House or Houses of the Legislature of the 
+corresponding Province functioning immediately before the 
+commencement of this Constitution shall exercise the powers 
+and perform the duties conferred by the provisions of this 
+Constitution on the House or Houses of the Legislature of 
+such State. 
+
+(2) Notwithstanding anything in clause (1), where a 
+general election to reconstitute the Legislative Assembly of 
+a Province has been ordered before the commencement of 
+this Constitution, the election may be completed after such 
+commencement as if this Constitution had not come into 
+operation, and the Assembly so reconstituted shall be deemed 
+to be the Legislative Assembly of that Province for the 
+purposes of that clause. 
+
+(3) Any person holding office immediately before the 
+commencement of this Constitution as Speaker or Deputy 
+Speaker of the Legislative Assembly or President or Deputy 
+President of the Legislative Council of a Province shall on 
+such commencement be the Speaker or Deputy Speaker of 
+the Legislative Assembly or the Chairman or Deputy 
+Chairman of the Legislative Council, as the case may be, of 
+by the President of India : 
+
+Provided that where any such seat as is mentioned in 
+this clause was, immediately before jt became vacant, held 
+by a person belonging to the Scheduled Castes or to the 
+Muslim or the Sikh community and representing a Province 
+or, as the case may be, a State specified in Part A of the 
+First Schedule, the person to fill such seat shall, unless the 
+President of the Constituent Assembly or the President 
+of India, as the case may be, considers it necessary or 
+expedient to provide otherwise, be of the same community: 
+
+Provided further that at an election to fill any such 
+vacancy in the seat of a member representing a Province or 
+a State specified in Part A of the First Schedule, every 
+member of the Legislative Assembly of that Province or of 
+the corresponding State or of that State, as the case may be, 
+shall be entitled to participate and vote. 
+
+Explanation, For the purposes of this clause 
+
+(a) all such castes, races or tribes or parts of or 
+groups within castes, races or tribes as are 
+specified in the Government of India 
+(Scheduled Castes) Order, 1936, to be Scheduled 
+Castes in relation to any Province shall be 
+deemed to be Scheduled Castes in relation to 
+that Province or the corresponding State until 
+a notification has been issued by the President 
+under clause (i) of article 341 specifying the 
+Scheduled Castes in relation to that corres- 
+ponding State; 
+
+(b) all the Scheduled Castes in any Province or 
+State shall be deemed to be a single com- 
+munity. 
+
+(2) Casual vacancies in the seats of members of a 
+House of the Legislature of a State functioning under article 
+382 or article 385 shall be filled, and all matters in connec- 
+tion with the filling of such vacancies (including the deci- 
+sion of doubts and disputes arising out of, or in connection 
+with, elections to fill such vacancies) shall be regulated in 
+accordance with such provisions governing the filling of such 
+vacancies and regulating such matters as were in force 
+immediately before the commencement of this Constitution 
+subject to such exceptions and modifications as the Presi- 
+dent may by order direct. 
+
+389. Provisions as to Bills pending in the Dominion Legislature and in the
+Legislatures of Provinces and Indian States.
+———A Bill which immediately before the commence- 
+ment of this Constitution was pending in 
+the Legislature of the Dominion of India 
+or in the Legislature or any Province or 
+Indian State may, subject to any provi- 
+sion to the contrary which may be in- 
+cluded in rules made by Parliament or the Legislature of 
+the corresponding State under this Constitution, be conti- 
+nued in Parliament or the Legislature of the corresponding 
+State, as the case may be, as if the proceedings taken with 
+reference to the Bill in the Legislature of the Dominion of 
+India or in the Legislature of the Province or Indian State 
+had been taken in Parliament or in the Legislature of the 
+corresponding State. 
+
+390. Moneys received or raised or expenditure incurred between the
+commencement of the Constitution and the 31st day of March, 1950——
+
+The provisions of this Constitution relating to 
+the Consolidated Fund of India or the 
+raised or expenditure Consolidated Fund of any State and the 
+appropriation of moneys out of either of 
+such Funds shall not apply in relation to 
+moneys received or raised or expenditure 
+incurred by the Government of India or the Government 
+of any State between the commencement of this Constitu- 
+tion and the thirty- first day of March, 1950, both days 
+inclusive, and any expenditure incurred during that period 
+shall be deemed to be duly authorised if the expenditure 
+was specified in a schedule of authorised expenditure 
+authenticated in accordance with the provisions of the 
+Government of India Act, 1935, by the Governor General 
+of the Dominion of India or the Governor of the corres- 
+ponding Province or is authorised by Rajpramukh of the 
+State in accordance with such rules as were applicable to 
+the authorisation of expenditure from the revenues of the 
+corresponding Indian State immediately before such com- 
+mencement. 
+
+391. Power of the President to amend the First and Fourth
+Schedules in certain contingencies—— 
+(1) If at any time between the passing of this 
+Constitution and its commencement any 
+action is taken under the provisions of 
+the Government of India Act, 1935, which 
+in the opinion of the President requires 
+any amendment in the First Schedule and the Fourth Sche- 
+dule, the President may, notwithstanding anything in this 
+Constitution, by order, make such amendments in the said 
+Schedules as may be necessary to give effect to the action 
+so taken, and any such order may contain such supplemen- 
+tal, incidental and consequential provisions as the Presi- 
+dent may deem necessary. 
+
+(2) When the First Schedule or the Fourth Schedule 
+is so amended, any reference to that Schedule in this 
+Constitution shall be construed as a reference to such 
+Schedule as so amended. 
+
+
+
 392. Power of the President to remove difficulties.—(1) The President
 may, for the purpose of removing any difficulties, particularly in relation to the
 transition from the provisions of the Government of India Act, 1935, to the
