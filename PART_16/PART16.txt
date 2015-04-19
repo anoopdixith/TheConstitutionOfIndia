@@ -6,14 +6,12 @@ People for —
 (a) the Scheduled Castes;
 (b) the Scheduled Tribes except the Scheduled Tribes in the tribal areas of Assam, and";
 (c) the Scheduled Tribes in the autonomous districts of Assam.
-(2) The number of seats reserved in any State or Union territory for the
+(2) The number of seats reserved in any State for the
 Scheduled Castes or the Scheduled Tribes under clause (1) shall bear, as nearly
 as may be, the same proportion to the total number of seats allotted to that State
-or Union territory in the House of the People as the population of the Scheduled
-Castes in the State or Union territory or of the Scheduled Tribes in the State or
-Union territory or part of the State or Union territory, as the case may be, in
-respect of which seats are so reserved, bears to the total population of the State
-or Union territory.
+in the House of the People as the population of the Scheduled
+Castes in the State or of the Scheduled Tribes in the State or part of the State, as the case may be, in
+respect of which seats are so reserved, bears to the total population of the State.
 
 
 331. Representation of the Anglo-Indian Community in the House of
@@ -31,7 +29,7 @@ THE CONSTITUTION OF INDIA
 332. Reservation of seats for Scheduled Castes and Scheduled Tribes
 in the Legislative Assemblies of the States.—(1) Seats shall be reserved for
 the Scheduled Castes and the Scheduled Tribes, except the Scheduled  Tribes
-in the tribal areas of Assam, in the Legislative Assembly of every State.
+in the tribal areas of Assam, in the Legislative Assembly of every State specified in Part A or Part B of the First Schedule.
 (2) Seats shall be reserved also for the autonomous districts in the
 Legislative Assembly of the State of Assam.
 (3) The number of seats reserved for the Scheduled Castes or the
@@ -56,7 +54,7 @@ Legislative Assembly of the State from any constituency of that district:
 
 333. Representation of the Anglo-Indian community in the
 Legislative Assemblies of the States.— Notwithstanding anything in article
-170, the Governor of a State may, if he is of opinion that the Anglo-Indian
+170, the Governor or Rajpramukh of a State may, if he is of opinion that the Anglo-Indian
 community needs representation in the Legislative Assembly of the State and is
 not adequately represented therein, nominate such number of members of that community to
 the Assembly as he considers appropriate.
@@ -103,7 +101,8 @@ appointment on merit as compared with the members of other communities.
 337. Special provision with respect to educational grants for the
 benefit of Anglo-Indian community.—During the first three financial years
 after the commencement of this Constitution, the same grants, if any, shall be
-made by the Union and by each State for the benefit of the Anglo-Indian
+made by the Union and by each State specified in Part A or Part B of the First Schedule 
+for the benefit of the Anglo-Indian
 community in respect of education as were made in the financial year ending
 on the thirty-first day of March, 1948.
 During every succeeding period of three years the grants may be less by
@@ -138,12 +137,12 @@ THE CONSTITUTION OF INDIA
 Areas and the welfare of Scheduled Tribes.—(1) The President may at any
 time and shall, at the expiration of ten years from the commencement of this
 Constitution by order appoint a Commission to report on the administration of
-the Scheduled Areas and the welfare of the Scheduled Tribes in the States.
+the Scheduled Areas and the welfare of the Scheduled Tribes in the States specified in Part A or Part B of the First Schedule.
 The order may define the composition, powers and procedure of the
 Commission and may contain such incidental or ancillary provisions as the
 President may consider necessary or desirable.
 (2) The executive power of the Union shall extend to the giving of
-directions to a State as to the drawing up and execution of schemes specified in
+directions to any such State as to the drawing up and execution of schemes specified in
 the direction to be essential for the welfare of the Scheduled Tribes in the State.
 340. Appointment of a Commission to investigate the conditions of
 backward classes.—(1) The President may by order appoint a Commission
@@ -167,22 +166,21 @@ and making such recommendations as they think proper.
 with a memorandum explaining the action taken thereon to be laid before each
 House of Parliament.
 341. Scheduled Castes.—(1) The President may with respect to any
-State or Union territory, and where it is a State, after consultation with the
-Governor thereof, by public notification, specify the castes, races or tribes or
+State, and where it is a State specified in Part A or Part B of the First Schedule, after consultation with the
+Governor or Rajpramukh thereof, by public notification, specify the castes, races or tribes or
 parts of or groups within castes, races or tribes which shall for the purposes of
-this Constitution be deemed to be Scheduled Castes in relation to that State or
-Union territory, as the case may be.
+this Constitution be deemed to be Scheduled Castes in relation to that State.
 (2) Parliament may by law include in or exclude from the list of
 Scheduled Castes specified in a notification issued under clause (1) any caste,
 race or tribe or part of or group within any caste, race or tribe, but save as
 aforesaid a notification issued under the said clause shall not be varied by any
 subsequent notification.
 342. Scheduled Tribes.—(1) The President may with respect to any
-State or Union territory, and where it is a State, after consultation with the
-Governor thereof, by public notification, specify the tribes or tribal
+State, and where it is a State specified in Part A or Part B of the First Schedule, after consultation with the
+Governor or Rajpramukh thereof, by public notification, specify the tribes or tribal
 communities or parts of or groups within tribes or tribal communities which
 shall for the purposes of this Constitution be deemed to be Scheduled Tribes in
-relation to that State or Union territory, as the case may be.
+relation to that State.
 (2) Parliament may by law include in or exclude from the list of
 Scheduled Tribes specified in a notification issued under clause (1) any tribe or
 tribal community or part of or group within any tribe or tribal community, but
