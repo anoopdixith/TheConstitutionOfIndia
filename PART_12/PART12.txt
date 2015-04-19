@@ -76,10 +76,8 @@ assigned to that State.
 (d) taxes on railway fares and freights;
 (e) taxes other than stamp duties on transactions in stock-exchanges and futures markets;
 (f) taxes on the sale or purchase of newspapers and on advertisements published therein;
-(g) taxes on the sale or purchase of goods other than newspapers, where such sale or purchase takes place in the course of inter-State trade or commerce;
 
 (2) The net proceeds in any financial year of any such duty or tax, except in so far as those proceeds represent proceeds attributable to State specified in Part C of the First Schedule, shall not form part of the Consolidated Fund of India, but shall be assigned to the States within which that duty or tax is leviable in that year, and shall be distributed among those States in accordance with such principles of distribution as may be formulated by Parliament by law.
-(3) Parliament may by law formulate principles for determining when a sale or purchase of goods takes place in the course of inter-State trade or commerce.
 
 
 270. Taxes levied and collected by the Union and distributed between the Union and the States
@@ -352,20 +350,40 @@ tax on the sale or purchase of goods where such sale or purchase takes place—
 (a) outside the State; or
 (b) in the course of the import of the goods into, or export of the
 goods out of, the territory of India.
-*
-*
-*
-*
-(2) Parliament may by law formulate principles for determining when a
-sale or purchase of goods takes place in any of the ways mentioned in clause (1).
+Explanation. For the purposes of sub-clause (a), a 
+sale or purchase shall be deemed to have taken place in the 
+State in which the goods have actually been delivered as a 
+direct result of such sale or purchase for the purpose of 
+consumption in that State, notwithstanding the fact that 
+under the general law relating to sale of goods the property 
+in the goods has by reason of such sale or purchase passed 
+in another State. 
+(2) Except in so far as Parliament may by law other- 
+wise provide, no law of a State shall impose, or authorise 
+the imposition of, a tax on the sale or purchase of any 
+goods where such sale or purchase takes place in the course 
+of inter-State trade or commerce : 
+
+Provided that the President may by order direct that 
+any tax on the sale or purchase of goods which was being 
+lawfully levied by the Government of any State 
+immediately before the commencement of this Constitution 
+shall, notwithstanding that the imposition of such tax is 
+contrary to 'the provisions of this clause, continue to be 
+levied until the thirtyfirst day of March, 1951. 
+
+(3) No law made by the Legislature of a State 
+imposing, or authorising the imposition of, a tax on the 
 
 
-(3)  Any  law of a State shall, in so far as it imposes or  authorises
-the  imposition of, a tax on the sale or purchase of goods declared by
-Parliament  by law to be of special importance in inter-State trade or
-commerce,  be subject to such restrictions and conditions in regard to
-the system of levy, rates and other incidents of the tax as Parliament
-may by law specify.
+
+Arts. 287-288 } FINANCE 245 
+
+sale or purchase of any such goods as have been declared 
+by Parliament by law to be essential for the life of the 
+community shall have effect unless it has been reserved 
+for the consideration of the President and has received his 
+assent. 
 
 287. Exemption from taxes on electricity.—Save in so far as
 Parliament may by law otherwise provide, no law of a State shall impose, or
