@@ -45,10 +45,6 @@ public resort maintained wholly or partly out of State funds or dedicated
 to the use of the general public.
 (3) Nothing in this article shall prevent the State from making any
 special provision for women and children.
-(4) Nothing in this article or in clause (2) of article 29 shall prevent the
-State from making any special provision for the advancement of any socially
-and educationally backward classes of citizens or for the Scheduled Castes and
-the Scheduled Tribes.
 
 16. Equality of opportunity in matters of public employment.—(1)
 There shall be equality of opportunity for all citizens in matters relating to
@@ -104,13 +100,12 @@ THE CONSTITUTION OF INDIA
 (f) to acquire, hold and dispose of property; and
 (g) to practise any profession, or to carry on any occupation, trade or
 business.
-(2) Nothing in sub-clause (a) of clause (1) shall affect the operation of
-any existing law, or prevent the State from making any law, in so far as such
-law imposes reasonable restrictions on the exercise of the right conferred by the
-said sub-clause in the interests of the
-security of the State, friendly relations with foreign States, public order,
-decency or morality, or in relation to contempt of court, defamation or
-incitement to an offence.
+(2) Nothing in sub-clause (a) of clause (1) shall affect 
+the operation of any existing law in so far as it relates to, 
+or prevent the State from making any law relating to, libel, 
+slander, defamation, contempt of court or any matter which 
+offends against decency or morality or which undermines 
+the security of, or tends to overthrow, the State. 
 (3) Nothing in sub-clause (b) of the said clause shall affect the operation
 of any existing law in so far as it imposes, or prevent the State from making
 any law imposing, in the interests of
@@ -126,22 +121,19 @@ operation of any existing law in so far as it imposes, or prevent the State from
 making any law imposing, reasonable restrictions on the exercise of any of the
 rights conferred by the said sub-clauses either in the interests of the general
 public or for the protection of the interests of any Scheduled Tribe.
-(6) Nothing in sub-clause (g) of the said clause shall affect the operation
-of any existing law in so far as it imposes, or prevent the State from making
-any law imposing, in the interests of the general public, reasonable restrictions
-on the exercise of the right conferred by the said sub-clause, and, in particular,
-nothing in the said sub-clause shall affect the operation of any existing law in
-so far as it relates to, or prevent the State from making any law relating to,—
-(i) the professional or technical qualifications necessary for practising
-any profession or carrying on any occupation, trade or business, or
+(6) Nothing in sub-clause (g) of the said clause shall 
+affect the operation of any existing law in so far as it 
+imposes, or prevent the State from making any law 
+imposing, in the interests of the general public, reasonable 
+restrictions on the exercise of the right conferred by the 
+said sub-clause, and, in particular, nothing in the said sub- 
+clause shall affect the operation of any existing law in so far 
+as it prescribes or empowers any authority to prescribe, or 
+prevent the State from making any law prescribing or 
+empowering any authority to prescribe, the professional or 
+technical qualifications necessary for practising any pro- 
+fession or carrying on any occupation, trade or business. 
 
-THE CONSTITUTION OF INDIA
-
-10
-
-(ii) the carrying on by the State, or by a corporation owned or
-controlled by the State, of any trade, business, industry or service,
-whether to the exclusion, complete or partial, of citizens or otherwise.
 20. Protection in respect of conviction for offences.—(1) No person
 shall be convicted of any offence except for violation of a law in force at the
 time of the commission of the Act charged as an offence, nor be subjected to a
@@ -393,46 +385,6 @@ that a legislation cannot be impugned as not providing a just compen-
 sation. The question what is a just compensation is a matter for the 
 legislature and so long as some compensation is provided for, the 
 legislation cannot be attacked as invalid. 
-
-
-31A. Saving of laws providing for acquisition of estates, etc.—
-(1)
-Notwithstanding anything in the foregoing provisions of this Part, no
-law providing for the acquisition by the State of any estate or of any
-rights therein or for the extinguishment or modification of any such
-rights shall be deemed to be void on the ground that it is
-inconsistent with, or takes away or abridges any of the rights
-conferred by, any provisions of this Part:
-
-Provided that where such law is a law made by the Legislature of a
-State, the provisions of this article shall not apply thereto unless
-such law, having been reserved for the consideration of the President,
-has received his assent.
-15
-
-THE CONSTITUTION OF INDIA
-
-(2) In this article,—
-(a) the expression "estate" shall, in relation to any local area, have
-the same meaning as that expression or its local equivalent has in the
-existing law relating to land tenures in force in that area, and shall
-also include any jagir, inam or muafi or other similar grant;
-(b) the expression “rights”, in relation to an estate, shall include any
-rights vesting in a proprietor, sub-proprietor, under-proprietor, tenureholder or other intermediary and any rights or
-privileges in respect of land revenue.
-31B. Validation of certain Acts and Regulations.—Without prejudice
-to the generality of the provisions contained in article 31A, none of the Acts
-and Regulations specified in the Ninth Schedule nor any of the provisions
-thereof shall be deemed to be void, or ever to have become void, on the ground
-that such Act, Regulation or provision is inconsistent with, or takes away or
-abridges any of the rights conferred by, any provisions of this Part, and
-notwithstanding any judgment, decree or order of any court or Tribunal to the
-contrary, each of the said Acts and Regulations shall, subject to the power of
-any competent Legislature to repeal or amend it, continue in force.
-
-16
-
-THE CONSTITUTION OF INDIA
 
 
 32. Remedies for enforcement of rights conferred by this Part.—(1)

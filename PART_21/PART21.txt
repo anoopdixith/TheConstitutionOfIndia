@@ -128,7 +128,7 @@ THE CONSTITUTION OF INDIA
 
 (3) Nothing in clause (2) shall be deemed—
 (a) to empower the President to make any adaptation or
-modification of any law after the expiration of three years from the
+modification of any law after the expiration of two years from the
 commencement of this Constitution; or
 (b) to prevent any competent Legislature or other competent
 authority from repealing or amending any law adapted or modified by
@@ -210,10 +210,7 @@ Constitution shall, unless they have elected otherwise, become on such
 commencement the Judges of the High Court in the corresponding State, and
 shall thereupon be entitled to such salaries and allowances and to such rights in
 respect of leave of absence and pension as are provided for under article 221 in
-respect of the Judges of such High Court. Any such Judge shall,
-notwithstanding that he is not a citizen of India, be eligible for appointment as
-Chief Justice of such High Court, or as Chief Justice or other Judge of any
-other High Court.
+respect of the Judges of such High Court. 
 (2) The Judges of a High Court in any Indian State corresponding to any
 State specified in Part B of the First Schedule holding office immediately
 before the commencement of this Constitution shall, unless they have elected

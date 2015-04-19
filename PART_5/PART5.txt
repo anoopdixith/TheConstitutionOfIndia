@@ -484,14 +484,20 @@ years of age and, in the case of a seat in the House of the People, not less
 than twenty-five years of age; and
 (c) possesses such other qualifications as may be prescribed in that
 behalf by or under any law made by Parliament.
-85. Sessions of Parliament, prorogation and dissolution.—(1) The
-President shall from time to time summon each House of Parliament to meet at
-such time and place as he thinks fit, but six months shall not intervene between
-its last sitting in one session and the date appointed for its first sitting in the
-next session.
-(2) The President may from time to time—
-(a) prorogue the Houses or either House;
-(b) dissolve the House of the People.
+
+85. (1) The Houses of Parliament shall be summoned 
+to meet twice at least in every year, and 
+six months shall not intervene between 
+their last sitting in one session and the 
+date appointed for their first sitting in the next session. 
+
+(2) Subject to the provisions of clause (1), the President 
+may from time to time 
+(a) summon the Houses or either House to meet at 
+such time and place as he thinks fit; 
+(b) prorogue the Houses; 
+(c) dissolve the House of the People. 
+
 86. Right of President to address and send messages to Houses.—(1)
 The President may address either House of Parliament or both Houses
 assembled together, and for that purpose require the attendance of members.
@@ -505,13 +511,13 @@ consider any matter required by the message to be taken into consideration.
 THE CONSTITUTION OF INDIA
 
 87. Special address by the President.—(1) At the commencement of
-the first session after each general election to the House of the People and at the
-commencement of the first session of each year the President shall address both
+every session the President shall address both
 Houses of Parliament assembled together and inform Parliament of the causes
 of its summons.
 (2) Provision shall be made by the rules regulating the procedure of
 either House for the allotment of time for discussion of the matters referred to
-in such address.
+in such address and for the precedence of such
+discussion over other business of the House.
 88. Rights of Ministers and Attorney-General as respects Houses.—
 Every Minister and the Attorney-General of India shall have the right to speak
 in, and otherwise to take part in the proceedings of, either House, any joint
