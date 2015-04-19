@@ -223,9 +223,7 @@ promissory notes, bills of lading, letters of credit, policies of insurance, tra
 of shares, debentures, proxies and receipts.
 92. Taxes on the sale or purchase of newspapers and on advertisements
 published therein.
-92A. Taxes on the sale or purchase of goods other than newspapers, where
-such sale or purchase takes place in the course of inter-State trade or
-commerce.
+
 
 93. Offences against laws with respect to any of the matters in this List.
 94. Inquires, surveys and statistics for the purpose of any of the matters in
@@ -360,8 +358,7 @@ substance included in sub-paragraph (b) of this entry.
 52. Taxes on the entry of goods into a local area for consumption, use or
 sale therein.
 53. Taxes on the consumption or sale of electricity.
-54. Taxes on the sale or purchase of goods other than newspapers, subject
-to the provisions of entry 92A of List I.
+54. Taxes on the sale or purchase of goods other than newspapers.
 55. Taxes on advertisements other than advertisements published in the
 newspapers.
 56. Taxes on goods and passengers carried by road or on inland
