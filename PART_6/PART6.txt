@@ -1075,9 +1075,8 @@ deem it necessary to appoint.
 
 217. Appointment and conditions of the office of a Judge of a High
 Court.—(1) Every Judge of a High Court shall be appointed by the President
-by warrant under his hand and seal after consultation with the Chief Justice of
-India, the Governor of the State, and, in the case of appointment of a Judge
-other than the Chief Justice, the Chief Justice of the High Court, and shall hold
+by warrant under his hand and seal aon the recommendation of the National Judicial Appointments Commission referred
+to in article 124A, and shall hold
 office, in the case of an additional or acting Judge, as provided in article 224,
 and in any other case, until he attains the age of sixty-two years:
 Provided that—
@@ -1165,7 +1164,8 @@ Provided that neither the allowances of a Judge nor his rights in respect
 of leave of absence or pension shall be varied to his disadvantage after his
 appointment.
 222. Transfer of a Judge from one High Court to another.—(1) The
-President may, after consultation with the Chief Justice of India, transfer a
+President may, on the recommendation of the
+National Judicial Appointments Commission referred to in article 124A, transfer a
 Judge from one High Court to any other High Court.
 (2) When a Judge has been or is so transferred, he shall, during the
 period he serves, after the commencement of the Constitution (Fifteenth
@@ -1186,19 +1186,22 @@ THE CONSTITUTION OF INDIA
 224. Appointment of additional and acting Judges.—(1) If by reason
 of any temporary increase in the business of a High Court or by reason of
 arrears of work therein, it appears to the President that the number of the
-Judges of that Court should be for the time being increased, the President may
+Judges of that Court should be for the time being increased, the
+President may, in consultation with the National Judicial Appointments Commission,
 appoint duly qualified persons to be additional Judges of the Court for such
 period not exceeding two years as he may specify.
 (2) When any Judge of a High Court other than the Chief Justice is by
 reason of absence or for any other reason unable to perform the duties of his
-office or is appointed to act temporarily as Chief Justice, the President may
+office or is appointed to act temporarily as Chief Justice, the
+President may, in consultation with the National Judicial Appointments Commission,
 appoint a duly qualified person to act as a Judge of that Court until the
 permanent Judge has resumed his duties.
 (3) No person appointed as an additional or acting Judge of a High
 Court shall hold office after attaining the age of sixty-two years.
 224A. Appointment of retired Judges at sittings of High Courts.—
-Notwithstanding anything in this Chapter, the Chief Justice of a High Court for
-any State may at any time, with the previous consent of the President, request
+Notwithstanding anything in this Chapter, the
+National Judicial Appointments Commission on a reference made to it by the Chief Justice of a
+High Court for any State, may with the previous consent of the President, request
 any person who has held the office of a Judge of that Court or of any other
 High Court to sit and act as a Judge of the High Court for that State, and every
 such person so requested shall, while so sitting and acting, be entitled to such
@@ -1349,9 +1352,9 @@ States.—(1) Notwithstanding anything contained in the preceding provisions of
 this Chapter, Parliament may by law establish a common High Court for two or
 more States or for two or more States and a Union territory.
 (2) In relation to any such High Court,—
-(a) the reference in article 217 to the Governor of the State shall
-be construed as a reference to the Governors of all the States in relation
-to which the High Court exercises jurisdiction;
+*
+*
+*
 (b) the reference in article 227 to the Governor shall, in relation to
 any rules, forms or tables for subordinate courts, be construed as a
 reference to the Governor of the State in which the subordinate courts

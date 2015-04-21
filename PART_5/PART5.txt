@@ -1159,9 +1159,8 @@ shall be a Supreme Court of India consisting of a Chief Justice of India and,
 until Parliament by law prescribes a larger number, of not more than seven 1
 other Judges.
 (2) Every Judge of the Supreme Court shall be appointed by the
-President by warrant under his hand and seal after consultation with such of the
-Judges of the Supreme Court and of the High Courts in the States as the
-President may deem necessary for the purpose and shall hold office until he
+President by warrant under his hand and seal on the recommendation of the National
+Judicial Appointments Commission referred to in article 124A and shall hold office until he
 attains the age of sixty-five years:
 
 ______________________________________________
@@ -1171,9 +1170,7 @@ ______________________________________________
 
 THE CONSTITUTION OF INDIA
 
-Provided that in the case of appointment of a Judge other than the Chief
-Justice, the Chief Justice of India shall always be consulted:
-Provided further that—
+Provided that—
 (a) a Judge may, by writing under his hand addressed to the
 President, resign his office;
 (b) a Judge may be removed from his office in the manner
@@ -1214,6 +1211,45 @@ some person appointed in that behalf by him, an oath or affirmation according
 to the form set out for the purpose in the Third Schedule.
 (7) No person who has held office as a Judge of the Supreme Court shall
 plead or act in any court or before any authority within the territory of India.
+
+124A. National Judicial Appointments Commission.
+(1) There shall be a Commission to be known as the National Judicial
+Appointments Commission consisting of the following, namely:––
+(a) the Chief Justice of India, Chairperson, ex officio;
+(b) two other senior Judges of the Supreme Court next to the Chief Justice
+of India ––Members, ex officio;
+(c) the Union Minister in charge of Law and Justice––Member, ex officio;
+(d) two eminent persons to be nominated by the committee consisting of
+the Prime Minister, the Chief Justice of India and the Leader of Opposition in the
+House of the People or where there is no such Leader of Opposition, then, the
+Leader of single largest Opposition Party in the House of the People –– Members:
+Provided that one of the eminent person shall be nominated from amongst
+the persons belonging to the Scheduled Castes, the Scheduled Tribes, Other
+Backward Classes, Minorities or Women:
+Provided further that an eminent person shall be nominated for a period of
+three years and shall not be eligible for renomination.
+(2) No act or proceedings of the National Judicial Appointments Commission
+shall be questioned or be invalidated merely on the ground of the existence of any
+vacancy or defect in the constitution of the Commission.
+
+124B. Functions of Commission.
+It shall be the duty of the National Judicial Appointments Commission
+to—
+(a) recommend persons for appointment as Chief Justice of India, Judges
+of the Supreme Court, Chief Justices of High Courts and other Judges of High
+Courts;
+(b) recommend transfer of Chief Justices and other Judges of High Courts
+from one High Court to any other High Court; and
+(c) ensure that the person recommended is of ability and integrity.
+
+124C. Power of Parliament to make law. 
+Parliament may, by law, regulate the procedure for the appointment of
+Chief Justice of India and other Judges of the Supreme Court and Chief Justices and
+other Judges of High Courts and empower the Commission to lay down by regulations
+the procedure for the discharge of its functions, the manner of selection of persons for
+appointment and such other matters as may be considered necessary by it.
+
+
 125. Salaries, etc., of Judges.—(1) There shall be paid to the Judges of
 the Supreme Court such salaries as may be determined by Parliament by law
 and, until provision in that behalf is so made, such salaries as are specified in
@@ -1232,8 +1268,9 @@ shall be performed by such one of the other Judges of the Court as the President
 may appoint for the purpose.
 127. Appointment of ad hoc Judges.—(1) If at any time there should
 not be a quorum of the Judges of the Supreme Court available to hold or
-continue any session of the Court, the Chief Justice of India may, with the
-previous consent of the President and after consultation with the Chief Justice
+continue any session of the Court, the National Judicial
+Appointments Commission on a reference made to it by the Chief Justice of India, may with
+the previous consent of the President and after consultation with the Chief Justice
 of the High Court concerned, request in writing the attendance at the sittings of
 the Court, as an ad hoc Judge, for such period as may be necessary, of a Judge
 of a High Court duly qualified for appointment as a Judge of the Supreme
@@ -1249,7 +1286,7 @@ at the time and for the period for which his attendance is required, and while s
 attending he shall have all the jurisdiction, powers and privileges, and shall
 discharge the duties, of a Judge of the Supreme Court.
 128. Attendance of retired Judges at sittings of the Supreme
-Court.—Notwithstanding anything in this Chapter, the Chief Justice of India
+Court.—Notwithstanding anything in this Chapter, the the National Judicial Appointments Commission 
 may at any time, with the previous consent of the President, request any person
 who has held the office of a Judge of the Supreme Court or of the Federal Court
 or who has held the office of a Judge of a High Court and is duly qualified for
