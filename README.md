@@ -71,4 +71,5 @@ Master branch (unfortunately) was used for all kind of experiments including tes
 
 Overall, I found the whole exercise interesting and also learned various interesting things about our Constitution. 
 A few are listed here: http://sheketimes.blogspot.com/2015/04/interestingamendments.html
+
 PLEASE NOTE THAT FOR ALL THE ONES (AND TO OTHER AMENDMENTS AS WELL) MENTIONED THERE, THE COMMIT MESSAGES INCLUDE EVERY INTERESTING PIECE OF INFO ABOUT THAT AMENDMENT.
