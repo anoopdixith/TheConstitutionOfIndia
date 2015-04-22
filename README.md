@@ -1,7 +1,7 @@
 # TheConstitutionOfIndia
 Repository for the Constitution of India.
 
-READ THIS BEFORE CHECKING THE REPOSITORY.
+PLEASE READ THIS BEFORE CHECKING THE REPOSITORY.
 
 Following a discussion on /r/india, ported the Constitution of India and all of its Amendments onto Git and have hosted on GitHub. 
 
