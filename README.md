@@ -21,7 +21,7 @@ The straight forward approach anybody would prefer would be to take the original
 
 Therefore, it was almost impossible to do it bottom-up. 
 
-Hence, the other approach, top-down, was considered. Basically, we assumed to have the 99th Amendment applied version on the Government of India website. We also have the webpages for each individual Amendment bill passed. So, reverse-applying these changes from 99 till 01 is a possible way. Turns out the version of the Constitution in the Government of India website as of this writing is post-96th Amendment version. 
+Hence, the other approachs, top-down, was considered. Basically, we assumed to have the 99th Amendment applied version on the Government of India website. We also have the webpages for each individual Amendment bill passed. So, reverse-applying these changes from 99 till 01 is a possible way. Turns out the version of the Constitution in the Government of India website as of this writing is post-96th Amendment version. 
 
 Thus, 96th Amendment became the original HEAD. 
 On this HEAD, two branches would be created.
