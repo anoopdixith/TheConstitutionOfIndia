@@ -3,19 +3,19 @@ Repository for the Constitution of India.
 
 PLEASE READ THIS BEFORE CHECKING THE REPOSITORY.
 
-Following a discussion on /r/india, ported the Constitution of India and all of its Amendments onto Git and have hosted on GitHub. 
+Following a discussion on [/r/india](http://www.reddit.com/r/india/comments/30xhw1/indian_constitution_on_github/), ported the Constitution of India and all of its Amendments onto Git and have hosted on GitHub. 
 
-Have used a bunch of scripts (combination of Shell scripts and Python scripts) to do various stuff like downloading the files of the Constitution from its website the first time, creating a ‘bundle’ of files for every release (a ‘bundle’ is considered a ‘release’ and it is after every Amendment. So, we now have a bundle of files after every Amendment. All releases have been git-annotation-tagged.), converting the modified text file to its corresponding pdf format, execute git tasks(this was interesting because the file, commit_chores.sh, was used to test itself - tester’s quine)  etc. 
+Have used a bunch of scripts (combination of Shell scripts and Python scripts) to do various stuff like downloading the files of the Constitution from its website the first time, creating a ‘bundle’ of files for every release (a ‘bundle’ is considered a ‘release’ and it is created after every Amendment. So, we now have a bundle of files after every Amendment. All releases have been git-annotation-tagged.), converting the modified text file to its corresponding pdf format, execute git tasks(this was interesting because the file, commit_chores.sh, was used to test itself - tester’s quine)  etc. 
 
-HOWEVER, due the lack of consistency in the Amendment Bills about numbering format, ordering, wordings for what needs to be modified, what needs to be removed etc, I could NOT automate that. 
+HOWEVER, due to lack of consistency in the Amendment Bills about numbering format, ordering, wordings for what needs to be modified, what needs to be removed etc, I could NOT automate that. 
 
-So, all the commit messages you see there are mine and only that procedure was MOSTLY MANUAL. I’ve taken enough care and spent quite sometime on each commit message to have proper commit messages and also to include interesting stuff if any and major changes, if not all, about the Amendment. 
+So, all the commit messages you see there are mine and only that procedure was MOSTLY MANUAL. I’ve taken enough care and spent quite some time on each commit message to have proper commit messages and also to include interesting stuff if any and major changes, if not all, about the Amendment. 
 
 Also, I’ve used the name of the person who passed that bill as the ‘author’ of the commit. So, you’ll see commits authored by many ministers from Arun Jaitley, LK Advani to AK Sen, Mufti Mohammad Sayeed to Indira Gandhi, Lal Bahadur Shastri all the way back to Jawaharlal Nehru, at the very beginning.
 
 After every Amendment, a ‘bundle’ of files is created. This ‘bundle’ does NOT contain any scripts. It only contains all the PARTS (which contain Articles) and SCHEDULES (which contain Entries) of The Constitution in both pdf and txt formats.
 
-HOW THIS WAS CREATED?
+## HOW THIS WAS CREATED?
 
 The straight forward approach anybody would prefer would be to take the original version of the Constitution, keep making amendments on it in order and release a bundle after every such amendment. So, you’ll have it as Original->1->2->…98->99. Unfortunately, the original version of the Constitution IN TEXT FORMAT is mostly unreadable and has a lot of garbled text/words/lines in almost every Article as it was converted to text from pdf format which in turn was probably a picture clicked on the actual copy.
 
@@ -35,11 +35,13 @@ In contrast, an f-Amendment on 43 would take it up to 44.
 
 Very simply,
 
+```
 r-Amendment(x) = x-1;
 
 r-Amendment(1) = Original version (i.e. no-amendments-yet version);
 
 f-Amendment(x) = x+1 (i.e. the actual amendment).
+```
 
 Thus, you’ll see terms like ‘back-modified’, ‘back-inserted’, ‘back-removed’ etc in the comments. They just mean that those changes are part of r-Amendments and thus have been reverted.
 
@@ -64,9 +66,9 @@ Thus, STABLE_AMENDMENT_74 means the files in the ‘bundle’ corresponding to t
 
 Git repo is at: https://github.com/anoopdixith/TheConstitutionOfIndia
 
-Current working branch which is from 96th up to 99th Amendment is: forward_amendments
+Current working branch which is from 96th up to 99th Amendment is: `forward_amendments`
 
-Reverse working branch that has all the Amendments from the original version till 96 is: dates
+Reverse working branch that has all the Amendments from the original version till 96 is: `dates`
 
 Master branch (unfortunately) was used for all kind of experiments including testing scripts and thus has been rebased over and over again. Not sure if it’s completely usable. I plan to sanitize it.
 
