@@ -18,7 +18,7 @@ Also, I’ve used the name of the person who passed that bill as the ‘author�
 
 After every Amendment, a ‘bundle’ of files is created. This ‘bundle’ does NOT contain any scripts. It only contains all the PARTS (which contain Articles) and SCHEDULES (which contain Entries) of The Constitution in both pdf and txt formats.
 
-###HOW THIS WAS CREATED?
+### HOW THIS WAS CREATED?
 
 The straight forward approach anybody would prefer would be to take the original version of the Constitution, keep making amendments on it in order and release a bundle after every such amendment. So, you’ll have it as Original->1->2->…98->99. Unfortunately, the original version of the Constitution IN TEXT FORMAT is mostly unreadable and has a lot of garbled text/words/lines in almost every Article as it was converted to text from pdf format which in turn was probably a picture clicked on the actual copy.
 
@@ -52,7 +52,7 @@ For e.g., if we ‘insert' an Article K in the f-Amendment of version X to take 
 
 The second branch is for straight-forward f-Amendments on 96 to bring it to 99. No r-Amendments in this branch. 
 
-###TAGS
+### TAGS
 
 Every release is associated with an annotated git tag. 
 
@@ -73,4 +73,4 @@ Master branch (unfortunately) was used for all kind of experiments including tes
 Overall, I found the whole exercise interesting and also learned various interesting things about our Constitution. 
 A few are listed here: http://sheketimes.blogspot.com/2015/04/interestingamendments.html
 
-#####PLEASE NOTE THAT FOR ALL THE ONES (AND TO OTHER AMENDMENTS AS WELL) MENTIONED THERE, THE COMMIT MESSAGES INCLUDE EVERY INTERESTING PIECE OF INFO ABOUT THAT AMENDMENT.
+##### PLEASE NOTE THAT FOR ALL THE ONES (AND TO OTHER AMENDMENTS AS WELL) MENTIONED THERE, THE COMMIT MESSAGES INCLUDE EVERY INTERESTING PIECE OF INFO ABOUT THAT AMENDMENT.
