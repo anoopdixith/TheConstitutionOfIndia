@@ -2,7 +2,7 @@ THE CONSTITUTION OF INDIA
 
 P REAMBLE
 WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India
-into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and
+into a SOVEREIGN DEMOCRATIC REPUBLIC and
 to secure to all its citizens:
 
 JUSTICE, social, economic and political;
@@ -18,3 +18,5 @@ FRATERNITY assuring the dignity of the individual and the unity of the Nation;
 IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of
 November, 1949, do HEREBY ADOPT, ENACT AND GIVE TO
 OURSELVES THIS CONSTITUTION.
+
+
